@@ -1,10 +1,19 @@
 
 # Site settings
-title: Your awesome title
+title: Jesse Trippe
 
 # Build settings
 include:
   - _pages/
+  
+collections:
+  work_items:
+    output: true
+    permalink: /work/:name/
+    sort_by: order
+  invoices:
+    output: true
+    permalink: /invoices/:name/
 
 exclude:
   - tailwind.config.js

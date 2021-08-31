@@ -1,0 +1,19 @@
+<article class="grid lg:grid-cols-4 gap-10 flex-grow">
+	<h1 class="font-newSpirit leading-tight text-5xl md:text-6xl mb-12 col-span-full">{{ page.title }}</h1>
+	<div class="lg:col-span-3 prose">
+		{{ content }}
+	</div>
+	<aside class="opacity-60">
+		<ul>
+			{% for tag in page.meta %}
+			<li class="flex">
+				<span class="pt-2">{% include bookmark.svg class="h-4 w-4 mr-2" %}</span>
+				<span>{{ tag }}</span>
+			</li>
+			{% endfor %}
+		</ul>
+	</aside>
+	<nav class="col-span-full mt-10 mb-20 grid grid-cols-8 gap-10 uppercase text-base font-bold tracking-wider">
+		{% include pagination.html %}
+	</nav>
+</article>

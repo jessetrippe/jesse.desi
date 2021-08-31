@@ -1,21 +1,53 @@
-<!doctype html>
-<html lang="">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title}} | {{ site.title }}</title>
-  <meta name="description" content="{{ page.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ page.description }}" />
+    <link rel="author" href="/humans.txt" />
+    <title>{{ site.title }} / {{ page.title }}</title>
 
-  <link rel="apple-touch-icon" href="/images/icon.png">
-  <!-- Place favicon.ico in the root directory -->
+    <link rel="stylesheet" href="/fonts/fonts.css" />
+    <link rel="stylesheet" href="/styles/main.css" />
 
-  <link rel="stylesheet" href="/styles/main.css">
+  <link rel="icon" href="/images/favicon.ico">
+  <link rel="icon" href="/images/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
 
 </head>
-<body>
+<body class="font-robotoMono md:text-lg
+  {% if page.title == 'Home' %}
+    bg-warmGray-100 text-lightBlue-800 dark:bg-warmGray-800 dark:text-lightBlue-100
+  {% elsif page.title == 'Work' %}
+    bg-cyan-100 text-teal-900 dark:bg-cyan-900 dark:text-teal-200
+  {% elsif page.title == 'About' %}
+    dark:text-pink-200 dark:bg-blueGray-800
+    bg-warmGray-100 text-cyan-700
+  {% elsif page.collection == 'work_items' %}
+    bg-gray-100 text-gray-900 dark:text-gray-100 dark:bg-gray-900
+  {% endif %}
+">
+  <div class="max-w-7xl mx-auto px-5 sm:px-6 md:px-7 lg:px-10 min-h-screen flex flex-col">
+    {% include header.html %}
 
-  {{ content }}
+    {% if page.collection == 'work_items' %}
+      
+      {% include work_content.html %}
 
-  <script src="/scripts/main.js"></script>
+    {% else %}
+      <main class="flex-grow">
+        {% if page.blurb %}
+        <h1 class="max-w-5xl font-newSpirit leading-tight md:leading-tight text-5xl md:text-7xl">{{ page.blurb }}</h1>
+        {% endif %}
+        {{ content }}
+      </main>
+    {% endif %}
+
+    {% include footer.html %}
+  </div>
+  
+  <script>{% include scripts/dark-mode.js %}</script>
 </body>
 </html>

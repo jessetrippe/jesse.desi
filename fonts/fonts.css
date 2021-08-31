@@ -1,0 +1,28 @@
+
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('Roboto-Mono-Regular.woff2') format('woff2'),
+       url('Roboto-Mono-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('Roboto-Mono-700.woff2') format('woff2'),
+       url('Roboto-Mono-700.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family:"New Spirit Semibold";
+  src: url('new-spirit-semibold.woff2') format('woff2'),
+       url('new-spirit-semibold.woff') format('woff'),
+       url('new-spirit-semibold.otf') format('opentype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}

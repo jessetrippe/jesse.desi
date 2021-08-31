@@ -1,0 +1,44 @@
+
+.underline {
+	text-underline-offset: 0.2em;
+}
+
+.prose p + p,
+.prose h2 + p {
+	margin-top: 1.5rem;
+}
+
+
+.prose h2 {
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.prose h2,
+.prose p {
+	max-width: 42rem;
+}
+
+.prose p + .gallery {
+	margin-top: 3rem;
+}
+
+.prose hr {
+	height: auto;
+	border-top: 0;
+	text-align: center;
+	line-height: 1;
+	margin: 3rem 0;
+	font-size: .75rem;
+}
+
+.prose hr:after {
+	content: "◼ ◼ ◼ ◼ ◼";
+}
+
+.prose .gallery {
+    display: grid;
+	gap: 2.5rem;
+	max-width: none;
+}

@@ -1,0 +1,41 @@
+
+{% for work_item in site.work_items %}
+    {% if work_item.title == page.title %}
+        {% assign item_index = forloop.index %}
+    {% endif %}
+{% endfor %}
+
+{% assign prev_index = item_index | plus: 1 %}
+{% assign next_index = item_index | minus: 1 %}
+
+{% for work_item in site.work_items %}
+    {% if forloop.index == prev_index %}
+        {% assign prev = work_item %}
+    {% endif %}
+    {% if forloop.index == next_index %}
+        {% assign next = work_item %}
+    {% endif %}
+{% endfor %}
+
+
+{% if next %}
+  <div class="col-span-4 lg:col-span-3">
+    <a class="inline-flex opacity-60 hover:opacity-100 transition-opacity" href="{{ next.url }}">
+      <span class="transform -translate-y-px mr-1">&larr;</span>
+      <span class="">Prev<span class="hidden md:inline">: {{ next.title }}</span></span>
+    </a>
+  </div>
+{% endif %}
+{% if prev %}
+  <div class="col-span-4 lg:col-span-3 lg:col-start-4 text-right">
+    <a class="inline-flex ml-auto opacity-60 hover:opacity-100 transition-opacity" href="{{ prev.url }}">
+      <span class="">Next<span class="hidden md:inline">: {{ prev.title }}</span></span>
+      <span class="transform -translate-y-px ml-1">&rarr;</span>
+    </a>
+  </div>
+{% endif %}
+<div class="col-span-full text-left lg:col-start-7 lg:col-span-2">
+  <a href="/work/" class="opacity-60 hover:opacity-100 transition-opacity flex items-center">
+    <span>View all work</span>
+  </a>
+</div>
