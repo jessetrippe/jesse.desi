@@ -1,0 +1,41 @@
+
+Jesse Trippe
+--------
+
+Designed and hand-coded by Jesse Trippe in Seattle, WA.
+
+@jessetrippe
+
+TECHNOLOGY
+----------
+
+Tailwind CSS - Utility CSS framework
+tailwindcss.com
+
+Jekyll - Static site generator
+jekyllrb.com
+
+GitHub - Code collaboration & hosting
+github.com
+
+
+TOOLS
+-----
+
+Sublime Text - Text editor
+sublimetext.com
+
+Sketch - Graphics editor
+sketchapp.com
+
+Illustrator - Graphics editor
+adobe.com
+
+FONTS
+-----
+
+Windsor
+https://www.myfonts.com/fonts/urw/windsor/
+
+Roboto Mono
+https://fonts.google.com/specimen/Roboto+Mono
