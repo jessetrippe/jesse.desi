@@ -18,11 +18,10 @@
 }
 
 @font-face {
-  font-family:"New Spirit Semibold";
-  src: url('new-spirit-semibold.woff2') format('woff2'),
-       url('new-spirit-semibold.woff') format('woff'),
-       url('new-spirit-semibold.otf') format('opentype');
+  font-family:"Roboto Slab Bold";
+  src: url('Roboto-Slab-Bold.woff2') format('woff2'),
+       url('Roboto-Slab-Bold.woff') format('woff');
   font-display: swap;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
 }

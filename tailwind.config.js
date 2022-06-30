@@ -1,11 +1,10 @@
-
 const colors = require('tailwindcss/colors')
 
 module.exports = {
-  mode: 'jit',
-  purge: [
-    './_site/**/*.js',
-    './_site/**/*.html',
+  content: [
+    './_includes/**/*.html',
+    './_layouts/**/*.html',
+    './_pages/*.md',
   ],
   plugins: [
     require('@tailwindcss/typography'),
@@ -14,7 +13,7 @@ module.exports = {
   darkMode: 'media',
   theme: {
     fontFamily: {
-      'newSpirit': ['New Spirit Semibold', 'Georgia', 'serif'],
+      'robotoSlab': ['Roboto Slab Bold', 'Georgia', 'serif'],
       'robotoMono': ['Roboto Mono', 'Courier', 'monospace'] 
     },
     extend: {
@@ -41,6 +40,7 @@ module.exports = {
       }
     }
   },
-  variants: {},
-  plugins: [],
+  variants: {
+    extend: {},
+  },
 }

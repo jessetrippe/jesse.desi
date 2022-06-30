@@ -1,16 +1,14 @@
-<header class="pt-12 pb-24 flex justify-between items-center">
+<header class="pt-12 pb-24 flex justify-between items-center gap-5 md:gap-7 xl:gap-8">
 	<a href="/" class="hover:opacity-70 transition-opacity">
 		<span class="sr-only">Home</span>
 		{% include jt.svg class="h-10 w-10" %}
 	</a>
-	<nav class="nav text-xl">
-		<ul class="flex">
-			<li class="ml-5 md:ml-7 xl:ml-8">
-				<a href="/work/" class="hover:opacity-70 transition-opacity">Work</a>
-			</li>
-			<li class="ml-5 md:ml-7 xl:ml-8">
-				<a href="/about/" class="hover:opacity-70 transition-opacity">About</a>
-			</li>
-		</ul>
+	<nav class="nav text-xl flex gap-5 md:gap-7 xl:gap-8">
+		<div class="ml-5 md:ml-7 xl:ml-8">
+			<a href="/work/" class="hover:opacity-70 transition-opacity">Work</a>
+		</div>
+		<div class="ml-5 md:ml-7 xl:ml-8">
+			<a href="/about/" class="hover:opacity-70 transition-opacity">About</a>
+		</div>
 	</nav>
 </header>
