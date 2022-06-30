@@ -2,15 +2,14 @@
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.0",
     "@tailwindcss/typography": "^0.5.2",
-    "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.7",
+    "postcss": "^8.4.14",
     "postcss-import": "^14.1.0",
-    "tailwindcss": "^3.0.23",
-    "cssnano": "^5.1.7"
+    "tailwindcss": "^3.1.4"
   },
   "scripts": {
     "dev": "bundle exec jekyll serve --watch --livereload",
-    "build": "JEKYLL_ENV=production bundle exec jekyll build"
+    "build": "NODE_ENV=production yarn tailwindcss -i styles/main.css --postcss -o _site/styles/main.css --minify"
   }
 }
-  

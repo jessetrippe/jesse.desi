@@ -5,6 +5,8 @@ module.exports = {
     './_includes/**/*.html',
     './_layouts/**/*.html',
     './_pages/*.md',
+    './_work_items/*.md',
+    './_invoices/*.md',
   ],
   plugins: [
     require('@tailwindcss/typography'),
