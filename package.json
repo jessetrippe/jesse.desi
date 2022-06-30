@@ -10,6 +10,6 @@
   },
   "scripts": {
     "dev": "bundle exec jekyll serve --watch --livereload",
-    "build": "NODE_ENV=production yarn tailwindcss -i styles/main.css --postcss -o _site/styles/main.css --minify"
+    "build": "NODE_ENV=production bundle exec jekyll build"
   }
 }

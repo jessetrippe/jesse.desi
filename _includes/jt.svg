@@ -1,3 +1,3 @@
 <svg {% if include.class %}class="{{ include.class }}"{% endif %}{% if include.id %}id="{{ include.id }}"{% endif %} viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-	<path d="M0 0h180v180H0V0Zm83 57H48v11h22v39.5a10.5 10.5 0 1 1-21 0v-.5H35c0 12.2 10.7 22 24 22 13.1 0 23.8-9.7 24-21.6V57Zm62 0H89v11h22v60h12V68h22V57Z" fill="#000"/>
+	<path fill="currentColor" d="M0 0h180v180H0V0Zm83 57H48v11h22v39.5a10.5 10.5 0 1 1-21 0v-.5H35c0 12.2 10.7 22 24 22 13.1 0 23.8-9.7 24-21.6V57Zm62 0H89v11h22v60h12V68h22V57Z"/>
 </svg>
