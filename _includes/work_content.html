@@ -3,8 +3,8 @@
 	<div class="lg:col-span-3 jt-prose">
 		{{ content }}
 	</div>
-	<aside class="opacity-60">
-		<ul>
+	<aside>
+		<ul class="opacity-60 mb-5">
 			{% for tag in page.meta %}
 			<li class="flex">
 				<span class="pt-2">{% include bookmark.svg class="h-4 w-4 mr-2" %}</span>
@@ -12,8 +12,12 @@
 			</li>
 			{% endfor %}
 		</ul>
+		  <a href="/work/" class="opacity-60 hover:opacity-100 transition-opacity flex gap-1">
+			  <span>View all work</span>
+			  <span>›</span>
+		  </a>
 	</aside>
-	<nav class="col-span-full mt-10 mb-20 grid grid-cols-8 gap-10 uppercase text-base font-bold tracking-wider">
+	<nav class="col-span-full mt-10 mb-20 flex gap-10 uppercase text-base font-bold tracking-wider">
 		{% include pagination.html %}
 	</nav>
 </article>

@@ -19,23 +19,14 @@
 
 
 {% if next %}
-  <div class="col-span-4 lg:col-span-3">
-    <a class="inline-flex opacity-60 hover:opacity-100 transition-opacity" href="{{ next.url }}">
-      <span class="transform -translate-y-px mr-1">&larr;</span>
+    <a class="inline-flex gap-1 opacity-60 hover:opacity-100 transition-opacity" href="{{ next.url }}">
+      <span class="-translate-y-px">&larr;</span>
       <span class="">Prev<span class="hidden md:inline">: {{ next.title }}</span></span>
     </a>
-  </div>
 {% endif %}
 {% if prev %}
-  <div class="col-span-4 lg:col-span-3 lg:col-start-4 text-right">
-    <a class="inline-flex ml-auto opacity-60 hover:opacity-100 transition-opacity" href="{{ prev.url }}">
+    <a class="inline-flex gap-1 ml-auto opacity-60 hover:opacity-100 transition-opacity" href="{{ prev.url }}">
       <span class="">Next<span class="hidden md:inline">: {{ prev.title }}</span></span>
-      <span class="transform -translate-y-px ml-1">&rarr;</span>
+      <span class="-translate-y-px">&rarr;</span>
     </a>
-  </div>
 {% endif %}
-<div class="col-span-full text-left lg:col-start-7 lg:col-span-2">
-  <a href="/work/" class="opacity-60 hover:opacity-100 transition-opacity flex items-center">
-    <span>View all work</span>
-  </a>
-</div>

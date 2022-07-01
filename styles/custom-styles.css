@@ -1,0 +1,38 @@
+.jt-prose p + p,
+.jt-prose h2 + p {
+	margin-top: 1.5rem;
+}
+
+.jt-prose h2 {
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.jt-prose h2,
+.jt-prose p {
+	max-width: 42rem;
+}
+
+.jt-prose p + .gallery {
+	margin-top: 3rem;
+}
+
+.jt-prose hr {
+	height: auto;
+	border-top: 0;
+	text-align: center;
+	line-height: 1;
+	margin: 3rem 0;
+	font-size: .75rem;
+}
+
+.jt-prose hr:after {
+	content: "◼ ◼ ◼ ◼ ◼";
+}
+
+.jt-prose .gallery {
+	display: grid;
+	gap: 2.5rem;
+	max-width: none;
+}
