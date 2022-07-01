@@ -21,9 +21,9 @@ module.exports = {
     extend: {
       colors: {
         cyan: colors.cyan,
-        warmGray: colors.warmGray,
-        blueGray: colors.blueGray,
-        lightBlue: colors.lightBlue,
+        stone: colors.stone,
+        slate: colors.slate,
+        sky: colors.sky,
         teal: colors.teal,
         gray: colors.gray,
         lime: colors.lime,

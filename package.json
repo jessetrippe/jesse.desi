@@ -10,6 +10,6 @@
   },
   "scripts": {
     "dev": "bundle exec jekyll serve --watch --livereload",
-    "build": "NODE_ENV=production bundle exec jekyll build"
+    "build": "JEKYLL_ENV=production bundle exec jekyll build"
   }
 }
