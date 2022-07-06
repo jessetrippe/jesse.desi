@@ -25,6 +25,7 @@
 	line-height: 1;
 	margin: 3rem 0;
 	font-size: .75rem;
+	opacity: .33;
 }
 
 .jt-prose hr:after {
