@@ -7,7 +7,7 @@
 		<ul class="opacity-60 mb-5">
 			{% for tag in page.meta %}
 			<li class="flex">
-				<span class="pt-2">{% include bookmark.svg class="h-4 w-4 mr-2" %}</span>
+				<span class="pt-2">{% include vectors/bookmark.svg class="h-4 w-4 mr-2" %}</span>
 				<span>{{ tag }}</span>
 			</li>
 			{% endfor %}
@@ -18,6 +18,6 @@
 		  </a>
 	</aside>
 	<nav class="col-span-full mt-10 mb-20 flex gap-10 uppercase text-base font-bold tracking-wider">
-		{% include pagination.html %}
+		{% include templates/pagination.html %}
 	</nav>
 </article>
