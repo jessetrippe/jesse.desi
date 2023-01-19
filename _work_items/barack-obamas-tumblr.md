@@ -2,7 +2,7 @@
 layout: default
 title: "Barack Obama's Tumblr"
 description: "Desktop and mobile template designs for Barack Obama's 2012 reelection campaign's Tumblr page."
-order: 12
+order: 14
 featured: barack-obama-tumblr-1.png
 meta: [Barack Obama Reelection Campaign, Design, Development, September 2011]
 ---

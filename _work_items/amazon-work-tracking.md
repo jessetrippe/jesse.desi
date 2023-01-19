@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Work Tracking"
 description: "Amazon needed a tool for delivery partners to submit hours, mileage, and route counts daily in order to get paid."
-order: 5
+order: 7
 featured: amazon-work-tracking-01.png
 meta: [Amazon Logistics, Design, 2016–2017]
 ---

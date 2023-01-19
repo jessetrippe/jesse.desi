@@ -2,7 +2,7 @@
 layout: default
 title: "Coyote My Tasks"
 description: "A dashboard that presents Coyote customers with high level freight information, tasks and todo items, and a quick way to complete them."
-order: 9
+order: 11
 featured: my-tasks-1.png
 meta: [Coyote Logistics, Design, Development, July 2015]
 ---

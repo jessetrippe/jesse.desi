@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Work Scheduling"
 description: "Amazon Logistics' 3rd-party delivery partners needed a driver scheduling tool that adhered to industry best-practices."
-order: 3
+order: 5
 featured: amazon-scheduling-final-01.png
 meta: [Amazon Logistics, Design, 2018]
 ---

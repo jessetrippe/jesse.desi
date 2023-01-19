@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Dispatch"
 description: "Amazon's delivery partners needed a tool to track and monitor driver location, progress, route, and stop information."
-order: 4
+order: 6
 featured: amazon-dispatch-01.png
 meta: [Amazon Logistics, Design, 2017]
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Coyote TMS Platform"
 description: "Large web platform and application for shippers and trucking companies to manage freight."
-order: 10
+order: 12
 featured: coyote-tms-1.png
 meta: [Coyote Logistics, Design, Development, 2012–2015]
 ---

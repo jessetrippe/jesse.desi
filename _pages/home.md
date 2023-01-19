@@ -12,20 +12,20 @@ blurb: "Hi, I'm Jesse&mdash;a UI/UX Designer who enjoys coding and designing for
       {% include vectors/ui.svg class="h-48 w-40 fill-current" %}
     </div>
     <h3 class="font-bold mb-6 text-xl lg:text-2xl uppercase tracking-wider">UI Design</h3>
-    <p class="lg:text-xl">I build design systems that result in delightful and intuitive experiences that exceeds users' needs and expectations.</p>
+    <p class="lg:text-xl">I create design systems that deliver exceptional and user-friendly experiences that surpass users' requirements and expectations.</p>
   </div>
   <div>
     <div class="mb-6">
       {% include vectors/ux.svg class="h-48 w-40 fill-current" %}
     </div>
     <h3 class="font-bold mb-6 text-xl lg:text-2xl uppercase tracking-wider">UX Design</h3>
-    <p class="lg:text-xl">I define user flows and deliver meaningful user experiences through prototyping with the goal to fail fast and iterate.</p>
+    <p class="lg:text-xl">I define user flows and deliver meaningful user experiences through prototyping with the objective to fail fast and iterate.</p>
   </div>
   <div>
     <div class="mb-6">
       {% include vectors/dev.svg class="h-48 w-40 fill-current" %}
     </div>
     <h3 class="font-bold mb-6 text-xl lg:text-2xl uppercase tracking-wider">Development</h3>
-    <p class="lg:text-xl">With a focus on performance and accessibility, I build scalable solutions using current and modern web standards.</p>
+    <p class="lg:text-xl">I construct scalable solutions using the latest web standards and patterns, keeping performance and accessibility at the forefront.</p>
   </div>
 </section>

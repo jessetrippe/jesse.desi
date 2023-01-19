@@ -2,7 +2,7 @@
 layout: default
 title: "Coyote LTL Quote"
 description: "A less than truckload (LTL) quoting and shipping tool so Coyote Logistics could remain competitive in the market."
-order: 7
+order: 9
 featured: ltl-1.png
 meta: [Coyote Logistics, Design, Development, Summer 2015]
 ---

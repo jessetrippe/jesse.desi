@@ -1,5 +1,6 @@
 .jt-prose p + p,
-.jt-prose h2 + p {
+.jt-prose h2 + p,
+.jt-prose p + h2 {
 	margin-top: 1.5rem;
 }
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Bauer Latoza Studio"
 description: "Brochure and portfolio website for Chicago architecture firm specializing in historic preservation."
-order: 13
+order: 15
 featured: bauer-latoza-1.png
 meta: [Bauer Latoza Studio, Design, Development, March 2011]
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "Tech for Campaigns"
 description: "A sign-up form to collect volunteers' basic contact information, specific market expertise, and their technical background."
-order: 11
+order: 13
 featured: tfc-two-01.png
 meta: [Tech for Campaigns, Design, Development, Summer 2017]
 ---

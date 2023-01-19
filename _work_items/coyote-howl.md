@@ -2,7 +2,7 @@
 layout: default
 title: "Coyote Howl Customer App"
 description: "Coyote needed a customer-focused mobile app to give shippers visibility and insight into their freight network."
-order: 6
+order: 8
 featured: howl-3.png
 meta: [Coyote Logistics, Design, Development, 2014–2015]
 ---

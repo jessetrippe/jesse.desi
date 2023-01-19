@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Explore for Groups"
 description: "After a successful launch of Amazon Explore, the focus shifted to bringing down the price by launching Amazon Explore for Groups."
-order: 2
+order: 4
 featured: amazon-explore-group-final-1.png
 meta: [Amazon Explore, Design, 2021]
 ---

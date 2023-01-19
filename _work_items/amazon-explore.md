@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Explore"
 description: "Amazon Explore called for a presence-building, browser-based streaming UI for customers and an app and gimbal to deliver experiences for guides."
-order: 1
+order: 3
 featured: amazon-explore-customer-in-session-shoppping.png
 meta: [Amazon Explore, Design, 2020–2021]
 ---
