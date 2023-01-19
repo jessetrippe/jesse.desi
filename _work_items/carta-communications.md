@@ -46,12 +46,12 @@ Deciding whether to optimize the design for a user selecting large groups of sta
 
 The team decided to split the features into three phases, in order to launch quickly and gather feedback. As I created the MVP solution, I took into account future features such as advanced filtering, nudge or resend, removing recipients, unsend, etc.
 
-![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-1.png){: loading="lazy"}
-![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-2.png){: loading="lazy"}
-![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-3.png){: loading="lazy"}
-![Carta Communications MVP Solution 4](/images/projects/carta-communication-mvp-4.png){: loading="lazy"}
-![Carta Communications MVP Solution 5](/images/projects/carta-communication-mvp-5.png){: loading="lazy"}
-![Carta Communications MVP Solution 6](/images/projects/carta-communication-mvp-6.png){: loading="lazy"}
+![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-1.png){: class="col-span-2" loading="lazy"}
+![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-2.png){: class="col-span-2" loading="lazy"}
+![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-3.png){: class="col-span-2" loading="lazy"}
+![Carta Communications MVP Solution 4](/images/projects/carta-communication-mvp-4.png){: class="col-span-2" loading="lazy"}
+![Carta Communications MVP Solution 5](/images/projects/carta-communication-mvp-5.png){: class="col-span-2" loading="lazy"}
+![Carta Communications MVP Solution 6](/images/projects/carta-communication-mvp-6.png){: class="col-span-2" loading="lazy"}
 ![Carta Communications MVP Solution 7](/images/projects/carta-communication-mvp-7.png){: loading="lazy"}
 ![Carta Communications MVP Solution 8](/images/projects/carta-communication-mvp-8.png){: loading="lazy"}
 ![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-stakeholder-1.png){: loading="lazy"}
