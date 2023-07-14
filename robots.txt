@@ -3,3 +3,6 @@ User-agent: *
 Disallow: /work*
 Disallow: /work/*
 Disallow: /work/index.html
+Disallow: /invoices*
+Disallow: /invoices/*
+Disallow: /invoices/index.html
