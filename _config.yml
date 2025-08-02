@@ -1,6 +1,10 @@
 
 # Site settings
 title: Jesse Trippe
+description: "Portfolio of Jesse Trippe - UX/UI Designer who enjoys coding and designing for the web"
+url: "https://jesse.desi"
+author: "Jesse Trippe"
+baseurl: ""
 
 # Build settings
 include:
