@@ -8,10 +8,7 @@ module.exports = {
     './_work_items/*.md',
     './_invoices/*.md',
   ],
-  plugins: [
-    require('@tailwindcss/typography'),
-    require('@tailwindcss/forms'),
-  ],
+  plugins: [],
   darkMode: 'media',
   theme: {
     fontFamily: {
