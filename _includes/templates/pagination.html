@@ -1,32 +1,31 @@
 
-{% for work_item in site.work_items %}
+{% assign sorted_items = site.work_items | sort: 'order' %}
+{% assign prev_item = nil %}
+{% assign next_item = nil %}
+{% assign found_current = false %}
+
+{% for work_item in sorted_items %}
+    {% if found_current %}
+        {% assign next_item = work_item %}
+        {% break %}
+    {% endif %}
+    
     {% if work_item.title == page.title %}
-        {% assign item_index = forloop.index %}
+        {% assign found_current = true %}
+    {% else %}
+        {% assign prev_item = work_item %}
     {% endif %}
 {% endfor %}
 
-{% assign prev_index = item_index | plus: 1 %}
-{% assign next_index = item_index | minus: 1 %}
-
-{% for work_item in site.work_items %}
-    {% if forloop.index == prev_index %}
-        {% assign prev = work_item %}
-    {% endif %}
-    {% if forloop.index == next_index %}
-        {% assign next = work_item %}
-    {% endif %}
-{% endfor %}
-
-
-{% if next %}
-    <a class="inline-flex gap-1 opacity-60 hover:opacity-100 transition-opacity" href="{{ next.url }}">
+{% if prev_item %}
+    <a class="inline-flex gap-1 opacity-60 hover:opacity-100 transition-opacity" href="{{ prev_item.url }}">
       <span class="-translate-y-px">&larr;</span>
-      <span class="">Prev<span class="hidden md:inline">: {{ next.title }}</span></span>
+      <span class="">Prev<span class="hidden md:inline">: {{ prev_item.title }}</span></span>
     </a>
 {% endif %}
-{% if prev %}
-    <a class="inline-flex gap-1 ml-auto opacity-60 hover:opacity-100 transition-opacity" href="{{ prev.url }}">
-      <span class="">Next<span class="hidden md:inline">: {{ prev.title }}</span></span>
+{% if next_item %}
+    <a class="inline-flex gap-1 ml-auto opacity-60 hover:opacity-100 transition-opacity" href="{{ next_item.url }}">
+      <span class="">Next<span class="hidden md:inline">: {{ next_item.title }}</span></span>
       <span class="-translate-y-px">&rarr;</span>
     </a>
 {% endif %}
