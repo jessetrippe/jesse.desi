@@ -2,9 +2,22 @@
 # Front matter for Jekyll
 ---
 
-@import "tailwindcss/base";
-@import "tailwindcss/components";
+@import "tailwindcss";
+
+@theme {
+  --font-family-roboto-slab: "Roboto Slab Bold", "Georgia", "serif";
+  --font-family-roboto-mono: "Roboto Mono", "Courier", "monospace";
+  
+  --color-red-orange-50: #FFF5F0;
+  --color-red-orange-100: #FFE8DC;
+  --color-red-orange-200: #FED1BA;
+  --color-red-orange-300: #FDB08D;
+  --color-red-orange-400: #FA8257;
+  --color-red-orange-500: #F45C2D;
+  --color-red-orange-600: #E33F19;
+  --color-red-orange-700: #BE2F14;
+  --color-red-orange-800: #9A2817;
+  --color-red-orange-900: #7E2518;
+}
 
 @import "/styles/custom-styles.css";
-
-@import "tailwindcss/utilities";
