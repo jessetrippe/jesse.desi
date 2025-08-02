@@ -25,7 +25,7 @@ A modern Jekyll-based portfolio website showcasing UX/UI design work and profess
 ### Prerequisites
 
 - Ruby (version specified in `.ruby-version` or Gemfile)
-- Node.js and npm
+- Node.js and yarn
 - Bundler gem
 
 ### Installation
@@ -39,14 +39,14 @@ cd jesse.desi
 bundle install
 
 # Install Node.js dependencies  
-npm install
+yarn install
 ```
 
 ### Development
 
 ```bash
 # Start development server with live reload
-npm run serve
+yarn serve
 
 # Or use Jekyll directly
 bundle exec jekyll serve --watch --livereload -o
@@ -58,7 +58,7 @@ Visit `http://localhost:4000` to view the site.
 
 ```bash
 # Build optimized production site
-npm run build
+yarn build
 
 # Or use Jekyll directly
 JEKYLL_ENV=production bundle exec jekyll build
