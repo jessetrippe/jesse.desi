@@ -13,7 +13,7 @@ blurb: "Some things I've built."
 			<li class="">
 				<a href="{{ item.url }}" class="block h-full bg-cyan-200 dark:bg-black dark:bg-opacity-10 rounded-lg p-8 transform hover:scale-105 transition-transform">
 					<div class="bg-cyan-300 dark:bg-cyan-400 relative h-40 overflow-hidden">
-						<img class="min-w-full min-h-full transition-all grays1cale" src="/images/projects/{{ item.featured }}" alt="{{ item.title }}">
+						<img class="min-w-full min-h-full transition-all" src="/images/projects/{{ item.featured }}" alt="{{ item.title }}">
 					</div>
 					<h4 class="text-xl font-bold my-7 leading-relaxed">{{ item.title }}</h4>
 					<p>{{ item.description }}</p>
