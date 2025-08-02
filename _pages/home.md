@@ -4,6 +4,7 @@ permalink: /
 description: "Website and portfolio of Jesse Trippe—a UI/UX Designer who enjoys coding and designing for the web."
 title: "Home"
 blurb: "Hi, I'm Jesse&mdash;a UI/UX Designer who enjoys coding and designing for the web."
+theme_classes: "bg-stone-100 text-sky-800 dark:bg-stone-800 dark:text-sky-100"
 ---
 
 <section class="py-32 grid md:grid-cols-3 gap-10 xl:gap-x-24">
