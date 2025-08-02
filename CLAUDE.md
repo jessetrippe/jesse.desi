@@ -10,14 +10,14 @@ This is a Jekyll-based portfolio website for Jesse Trippe, built with Jekyll 4.3
 
 ### Local Development
 ```bash
-npm run serve
+yarn serve
 # OR
 bundle exec jekyll serve --watch --livereload -o
 ```
 
 ### Production Build
 ```bash
-npm run build
+yarn build
 # OR  
 JEKYLL_ENV=production bundle exec jekyll build
 ```
@@ -25,7 +25,7 @@ JEKYLL_ENV=production bundle exec jekyll build
 ### Dependencies
 ```bash
 bundle install    # Install Ruby/Jekyll dependencies
-npm install       # Install Node.js/CSS dependencies
+yarn install      # Install Node.js/CSS dependencies
 ```
 
 ## Architecture
