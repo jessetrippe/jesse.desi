@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include templates/head.html %}
-<body class="font-robotoMono md:text-lg {% if page.theme_classes %}{{ page.theme_classes }}{% elsif page.collection == 'work_items' %}bg-gray-100 text-gray-900 dark:text-gray-100 dark:bg-gray-900{% else %}bg-gray-100 text-gray-900 dark:text-gray-100 dark:bg-gray-900{% endif %}">
+<body class="font-roboto-mono md:text-lg {% if page.theme_classes %}{{ page.theme_classes }}{% elsif page.collection == 'work_items' %}bg-gray-100 text-gray-900 dark:text-gray-100 dark:bg-gray-900{% else %}bg-gray-100 text-gray-900 dark:text-gray-100 dark:bg-gray-900{% endif %}">
   <div class="max-w-7xl mx-auto px-5 sm:px-6 md:px-7 lg:px-10 min-h-screen flex flex-col">
     {% include templates/header.html %}
 
@@ -12,7 +12,7 @@
     {% else %}
       <main class="flex-grow">
         {% if page.blurb %}
-        <h1 class="max-w-5xl font-robotoSlab leading-tight md:leading-tight text-5xl md:text-7xl lg:text-8xl lg:leading-tight">{{ page.blurb }}</h1>
+        <h1 class="max-w-5xl font-roboto-slab leading-tight md:leading-tight text-5xl md:text-7xl lg:text-8xl lg:leading-tight">{{ page.blurb }}</h1>
         {% endif %}
         {{ content }}
       </main>

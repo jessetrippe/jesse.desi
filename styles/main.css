@@ -5,19 +5,77 @@
 @import "tailwindcss";
 
 @theme {
-  --font-family-roboto-slab: "Roboto Slab Bold", "Georgia", "serif";
-  --font-family-roboto-mono: "Roboto Mono", "Courier", "monospace";
-  
-  --color-red-orange-50: #FFF5F0;
-  --color-red-orange-100: #FFE8DC;
-  --color-red-orange-200: #FED1BA;
-  --color-red-orange-300: #FDB08D;
-  --color-red-orange-400: #FA8257;
-  --color-red-orange-500: #F45C2D;
-  --color-red-orange-600: #E33F19;
-  --color-red-orange-700: #BE2F14;
-  --color-red-orange-800: #9A2817;
-  --color-red-orange-900: #7E2518;
+  /* Custom font families */
+  --font-roboto-slab: "Roboto Slab Bold", "Georgia", "serif";
+  --font-roboto-mono: "Roboto Mono", "Courier", "monospace";
 }
 
-@import "/styles/custom-styles.css";
+/* Font face definitions (inlined from fonts.css) */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Roboto-Mono-Regular.woff2') format('woff2'),
+       url('/fonts/Roboto-Mono-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/Roboto-Mono-700.woff2') format('woff2'),
+       url('/fonts/Roboto-Mono-700.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto Slab Bold";
+  src: url('/fonts/Roboto-Slab-Bold.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-Bold.woff') format('woff');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Custom styles (inlined from custom-styles.css) */
+.jt-prose p + p,
+.jt-prose h2 + p,
+.jt-prose p + h2 {
+  margin-top: 1.5rem;
+}
+
+.jt-prose h2 {
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.jt-prose h2,
+.jt-prose p {
+  max-width: 42rem;
+}
+
+.jt-prose p + .gallery {
+  margin-top: 3rem;
+}
+
+.jt-prose hr {
+  height: auto;
+  border-top: 0;
+  text-align: center;
+  line-height: 1;
+  margin: 3rem 0;
+  font-size: .75rem;
+  opacity: .33;
+}
+
+.jt-prose hr:after {
+  content: "◼ ◼ ◼ ◼ ◼";
+}
+
+.jt-prose .gallery {
+  display: grid;
+  gap: 2.5rem;
+  max-width: none;
+}

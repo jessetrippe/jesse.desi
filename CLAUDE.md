@@ -4,28 +4,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll-based portfolio website for Jesse Trippe, built with Jekyll 4.3.1 and styled with Tailwind CSS. The site showcases design work, includes an invoice system, and uses PostCSS for build processing.
+This is a Jekyll-based portfolio website for Jesse Trippe, built with Jekyll 4.4.1 and styled with Tailwind CSS v4.1.11. The site showcases design work, includes an invoice system, and uses the jekyll-tailwindcss gem for CSS processing.
 
 ## Development Commands
 
 ### Local Development
 ```bash
-yarn serve
-# OR
-bundle exec jekyll serve --watch --livereload -o
+bundle exec jekyll serve --watch -l -o
 ```
 
 ### Production Build
 ```bash
-yarn build
-# OR  
 JEKYLL_ENV=production bundle exec jekyll build
 ```
 
 ### Dependencies
 ```bash
 bundle install    # Install Ruby/Jekyll dependencies
-yarn install      # Install Node.js/CSS dependencies
 ```
 
 ## Architecture
@@ -36,14 +31,10 @@ yarn install      # Install Node.js/CSS dependencies
 - `_pages/` - Static pages (about, work, etc.)
 
 ### Styling System
-- **Tailwind CSS 3.4.1** for utility-first styling
-- **PostCSS** for processing with plugins:
-  - postcss-import
-  - autoprefixer 
-  - cssnano (production only)
-- **Custom fonts**: Roboto Slab Bold, Roboto Mono
+- **Tailwind CSS v4.1.11** for utility-first styling
+- **jekyll-tailwindcss gem** for CSS processing and Tailwind integration
+- **Custom fonts**: Roboto Slab Bold, Roboto Mono (defined in @theme block)
 - **Dark mode**: Media query based (`media`)
-- **Custom color palette**: includes `redOrange` brand colors
 
 ### File Structure
 - `_includes/` - Reusable HTML components (header, footer, vectors)
@@ -62,6 +53,6 @@ Tailwind scans these paths for classes:
 
 ### Build Process
 1. Jekyll processes Markdown/Liquid templates
-2. PostCSS processes CSS through Tailwind
-3. jekyll-postcss plugin integrates the pipeline
-4. Production builds include cssnano optimization
+2. jekyll-tailwindcss gem processes CSS with Tailwind v4
+3. Font definitions and custom styles are inlined in main.css
+4. Production builds are optimized by Jekyll and Tailwind

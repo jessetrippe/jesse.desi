@@ -2,8 +2,8 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 400;
-  src: url('Roboto-Mono-Regular.woff2') format('woff2'),
-       url('Roboto-Mono-Regular.woff') format('woff');
+  src: url('/fonts/Roboto-Mono-Regular.woff2') format('woff2'),
+       url('/fonts/Roboto-Mono-Regular.woff') format('woff');
   font-display: swap;
 }
 
@@ -11,15 +11,15 @@
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 700;
-  src: url('Roboto-Mono-700.woff2') format('woff2'),
-       url('Roboto-Mono-700.woff') format('woff');
+  src: url('/fonts/Roboto-Mono-700.woff2') format('woff2'),
+       url('/fonts/Roboto-Mono-700.woff') format('woff');
   font-display: swap;
 }
 
 @font-face {
   font-family:"Roboto Slab Bold";
-  src: url('Roboto-Slab-Bold.woff2') format('woff2'),
-       url('Roboto-Slab-Bold.woff') format('woff');
+  src: url('/fonts/Roboto-Slab-Bold.woff2') format('woff2'),
+       url('/fonts/Roboto-Slab-Bold.woff') format('woff');
   font-display: swap;
   font-style: normal;
   font-weight: 700;
