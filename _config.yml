@@ -10,12 +10,6 @@ baseurl: ""
 include:
   - _pages/
 
-plugins:
-  - jekyll-postcss
-    
-postcss:
-  cache: false
-    
 css_dir: "styles" # defaults to "css"
 
 collections:
@@ -28,13 +22,6 @@ collections:
     permalink: /invoices/:name/
 
 exclude:
-  - tailwind.config.js
-  - postcss.config.js
-  - package.json
-  - package-lock.json
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - yarn.lock
-  - yarn-error.log
   - .jekyll-cache/

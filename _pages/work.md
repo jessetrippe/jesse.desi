@@ -12,7 +12,7 @@ theme_classes: "bg-cyan-100 text-teal-900 dark:bg-cyan-900 dark:text-teal-200"
 		{% assign items = site.work_items | sort: 'order' %}
 		{% for item in items %}
 			<li class="">
-				<a href="{{ item.url }}" class="block h-full bg-cyan-200 dark:bg-black dark:bg-opacity-10 rounded-lg p-8 transform hover:scale-105 transition-transform">
+				<a href="{{ item.url }}" class="block h-full bg-cyan-200 dark:bg-black/10 rounded-lg p-8 transform hover:scale-105 transition-transform">
 					<div class="bg-cyan-300 dark:bg-cyan-400 relative h-40 overflow-hidden">
 						<img class="min-w-full min-h-full transition-all" src="/images/projects/{{ item.featured }}" alt="{{ item.title }}" loading="lazy">
 					</div>
