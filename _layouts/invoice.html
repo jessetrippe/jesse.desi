@@ -16,6 +16,13 @@
         </p>
     </header>
 	    
+    <div>
+        <h1 class="font-bold uppercase mb-2">{{ page.title }}</h1>
+        <p>{{ page.date | date: "%B %-d, %Y" }}<br>
+        {{ page.client_name }}<br>
+        {{ page.client_address }}</p>
+    </div>
+    
     {{ content }}
     
     <div>
