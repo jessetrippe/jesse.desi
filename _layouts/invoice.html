@@ -23,8 +23,13 @@
         {{ page.client_address }}</p>
     </div>
     
+    {% if page.title == "Project Proposal" %}
+    <div class="jt-prose jt-project-proposal">
+        {{ content }}
+    </div>
+    {% else %}
     {{ content }}
-    
+
     <div>
         <h2 class="font-bold uppercase mb-2">Payment Terms</h2>
         <p class="max-w-4xl">Please remit payment within 60 days to the address above. If you have any questions please contact me. Thanks a ton, I really appreciate your present and future business.</p>
@@ -37,6 +42,7 @@
             Square Cash: $jessetrippe
         </p>
     </div>
+    {% endif %}
     <script>
         const tbody = document.getElementById("invoice-tbody");
         let totalAmount = 0;

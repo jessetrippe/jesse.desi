@@ -79,3 +79,21 @@
   gap: 2.5rem;
   max-width: none;
 }
+
+.jt-project-proposal ul {
+  list-style: disc;
+  margin-left: .75rem;
+}
+
+.jt-project-proposal h2 + ul,
+.jt-project-proposal p + ul,
+.jt-project-proposal ul + p,
+.jt-project-proposal p + p,
+.jt-prose h2 + p,
+.jt-prose p + h2  {
+  margin-top: 1rem;
+}
+
+.jt-prose hr {
+  margin: 2rem 0;
+}
