@@ -21,7 +21,7 @@ theme_classes: "bg-stone-100 text-cyan-700 dark:text-pink-200 dark:bg-slate-800"
 </div>
 
 <div class="jt-prose">
----
+  <hr>
 </div>
 
 <div class="my-32">
