@@ -14,8 +14,8 @@ theme_classes: "bg-stone-100 text-cyan-700 dark:text-pink-200 dark:bg-slate-800"
     </figure>
   </div>
   <div class="lg:col-start-3 sm:col-span-2 jt-prose">
-      <p>I'm a versatile designer with a unique blend of serious work skills, social finesse, and excellent communication skills. I studied Visual Communication at The School of the Art Institute of Chicago for a BA in Fine Arts. I taught myself HTML & CSS and fell in love with building websites. I've worked for companies like the Obama Reelection Campaign, Coyote Logistics, Amazon, and Carta, designing everything from large web platforms and mobile apps to delivery tools and streaming interfaces.</p>
-      <p>In addition to UX and design chops, I excel at effective communication with stakeholders, colleagues, and users. I utilize my communication skills to advocate for great experiences on the users' behalf. Overall, I'm creative, tech-savvy, and passionate about making cool stuff that people love.</p>
-      <p>I recently joined Cityblock's product design team and I'm excited to continue learning and growing as a designer and developer. I approach every project with enthusiasm and a drive to exceed expectations. Whether I'm designing a website or collaborating with colleagues, I'm always looking for ways to innovate and push boundaries.</p>
+      <p>I'm a product designer who codes. I studied Visual Communication at The School of the Art Institute of Chicago, taught myself HTML & CSS, and fell in love with building for the web. I've worked for the Obama 2012 Campaign, Coyote Logistics, Amazon, Carta, and Cityblock Health, designing everything from logistics platforms and mobile apps to streaming interfaces and healthcare tools.</p>
+      <p>I care about communication as much as craft. I work closely with stakeholders, engineers, and users to advocate for experiences that actually work. I'm most useful when I can move between research, design, and code.</p>
+      <p>I'm currently on the product design team at Cityblock Health, working on tools for care teams serving Medicaid and Medicare populations.</p>
   </div>
 </div>
