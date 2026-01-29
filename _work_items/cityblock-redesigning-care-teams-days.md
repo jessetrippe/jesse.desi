@@ -4,7 +4,7 @@ title: "Cityblock: Redesigning Care Teams' Days"
 description: "A unified workflow system for 200+ care team members across 6 markets, replacing spreadsheets with a standardized care model."
 order: 0
 featured: 
-meta: [Cityblock Health, Design, 2024-2025]
+meta: [Cityblock Health, Design, 2025]
 published: false
 ---
 
@@ -19,7 +19,7 @@ I led the design of a new daily workflow system for 200+ care team members acros
 | | |
 |---|---|
 | **Role** | Lead Product Designer (solo designer) |
-| **Timeline** | September 2024 to March 2025 |
+| **Timeline** | January 2025 to May 2025 |
 | **Team** | 2 Product Managers, 4 Engineers, Operations Partners |
 | **Platform** | Web (desktop-primary) |
 
@@ -395,7 +395,7 @@ Results: 3 bugs identified and fixed before wider launch. Feedback was overwhelm
 
 ---
 
-### Post-Launch User Testing (March 2025)
+### Post-Launch User Testing (May 2025)
 
 After launch, I conducted 30-minute testing sessions with 10 users (CHPs, RNCMs, Care Team Leads) from Indiana and Massachusetts.
 
