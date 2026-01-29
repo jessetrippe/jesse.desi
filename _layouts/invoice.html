@@ -46,21 +46,20 @@
     <script>
         const tbody = document.getElementById("invoice-tbody");
         let totalAmount = 0;
-    
+
         Array.from(tbody.rows).forEach((row) => {
            let quantity = parseFloat(row.cells[1].innerHTML);
-           let price = 75; // hourly rate
+           let price = parseFloat(row.cells[2].innerHTML);
            let total = quantity * price;
            totalAmount = parseFloat(total + totalAmount);
            row.cells[3].innerHTML = "$" + total.toFixed(2);
-           row.cells[2].innerHTML = "$" + price.toFixed(2);
         });
-    
+
         const tfoot = document.getElementById("invoice-tfoot");
-    
+
         tfoot.rows[0].cells[2].innerHTML = "$" + totalAmount.toFixed(2);
         tfoot.rows[2].cells[2].innerHTML = "$" + totalAmount.toFixed(2);
-    
+
     </script>
 </body>
 </html>
