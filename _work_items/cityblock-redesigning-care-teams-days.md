@@ -234,6 +234,15 @@ Eliminated the need for users to build their own daily to-do lists. One click sh
 
 ![DETAIL: Close-up of the sub-inbox navigation showing Due Today, Due This Week, Regular Check-Ins tabs/folders.]
 
+**Folder counts in the navigation**
+
+A design system addition that came out of this project: I added task counts to each folder in the left nav. Users no longer had to open each folder to check for new tasks. They could scan the counts and know exactly where work was waiting.
+
+This had an unexpected psychological benefit. Users told us the old Inbox felt neverending because it was. With counts, they could see progress. Watching "Due Today" tick down to zero gave them a sense of completion.
+
+> "I used to dread opening my Inbox because it just felt like a black hole. Now I can see the number go down as I work. When Due Today hits zero, I actually feel like I accomplished something."
+> — Christine Malloy, RNCM, Massachusetts
+
 **Regular Check-Ins folder**
 
 Separated from tasks entirely. Shows members due for scheduled outreach, not individual tasks. Users can see at a glance who needs a call this week.
