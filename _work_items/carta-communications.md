@@ -1,23 +1,27 @@
 ---
 layout: default
 title: "Carta Public Communications"
-description: "A tool for company and Carta administrators to efficiently communicate to stakeholders."
+description: "A tool for public company administrators to communicate stock-related information to thousands of stakeholders without leaving Carta."
 order: 1
 featured: carta-communication-mvp-1.png
 meta: [Carta, Design, 2022–2023]
 ---
 
-Carta companies faced challenges in effectively communicating stock-related information, such as IPO details and upcoming ESPPs, with stakeholders. Carta account managers also struggled to efficiently share required stock-related disclosures and materials, such as IPO-related communication and security information.
+Public companies on Carta needed to send stock-related communications to stakeholders: IPO announcements, ESPP details, required disclosures. But there was no way to do this inside Carta.
 
-In the past, administrators would download large employee lists, filter them, and use email or external services like Salesforce and Mailchimp to send communications. When the filtering criteria was complex, administrators would rely on Carta staff to obtain the appropriate list of stakeholders. Due to lack of visibility, Carta was unable to monitor or control the content of these communications, which posed a security risk.
+Administrators were exporting employee lists, filtering them in Excel, and sending emails through Mailchimp or Salesforce. When filtering got complex, they'd email Carta support and wait for someone to pull the right list. This created delays, errors, and a security risk: Carta had no visibility into what was being sent or to whom.
+
+I designed a communications tool that let administrators select recipients using Carta's existing relationship data, compose messages, and send them directly from the platform. The tool launched in phases, starting with an MVP that replaced the export-filter-email workflow, then expanding to support multiple editors, role-based permissions, and recipient management.
 
 ---
 
 ## Kickoff and research
 
-I conducted interviews with account managers to gather insight into the issues this project aimed to address, and then researched different communication platforms. This included analyzing Carta's Investor Updates tool and external services such as Mailchimp.
+I interviewed account managers to understand the problem and researched competitor tools including Mailchimp and Carta's own Investor Updates feature.
 
-After understanding the problem and typical workflows, I explored various solutions to the problem using Carta's pattern library. Then, I shared my designs with the product manager and team for feedback.
+The key question was whether to optimize for bulk selection (using Carta's relationship data to filter large groups) or individual selection (building a list one person at a time). Research pointed to bulk selection: administrators were typically sending to hundreds or thousands of stakeholders, not handpicking individuals.
+
+I explored several approaches using Carta's pattern library and presented options to the product manager and team.
 
 ![Carta Communications Market Research 1](/images/projects/carta-communications-market-1.png){: loading="lazy"}
 ![Carta Communications Market Research 2](/images/projects/carta-communications-market-2.png){: loading="lazy"}
@@ -28,7 +32,7 @@ After understanding the problem and typical workflows, I explored various soluti
 
 ## Design exploration
 
-Deciding whether to optimize the design for a user selecting large groups of stakeholders using Carta's relationships and data or a user building a recipient list one stakeholder a time was a challenging decision. My research led me to believe designing for the former was the best choice. Nonetheless, I presented various methods for filtering stakeholders to the team, along with my recommendation on which option to implement.
+I presented multiple filtering approaches to the team along with my recommendation. The challenge was balancing power (complex filters for edge cases) with simplicity (most sends are straightforward).
 
 ![Carta Communications Filter Exploration 1](/images/projects/carta-communication-filter-1.png){: loading="lazy"}
 ![Carta Communications Filter Exploration 2](/images/projects/carta-communication-filter-2.png){: loading="lazy"}
@@ -44,7 +48,7 @@ Deciding whether to optimize the design for a user selecting large groups of sta
 
 ## MVP Design
 
-The team decided to split the features into three phases, in order to launch quickly and gather feedback. As I created the MVP solution, I took into account future features such as advanced filtering, nudge or resend, removing recipients, unsend, etc.
+We split the project into three phases to ship quickly and gather feedback. The MVP focused on the core workflow: select recipients, compose message, send. I designed with future features in mind (advanced filtering, resend, remove recipients, unsend) so the architecture wouldn't need to change later.
 
 ![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-1.png){: class="col-span-2" loading="lazy"}
 ![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-2.png){: class="col-span-2" loading="lazy"}
@@ -63,9 +67,9 @@ The team decided to split the features into three phases, in order to launch qui
 
 ## Usability Study and Feedback
 
-After finalizing the designs, I conducted a user study to assess the solution's usability and gather feedback. I created a study plan, script, and scheduled 30-minute sessions with six customer administrators to review the designs and perform a task. The study helped us to verify the usability of the solution, identify missing features that would hinder adoption, and collect ideas for future features.
+I ran a usability study with six customer administrators. I created a study plan and script, then scheduled 30-minute sessions. Each session included a walkthrough of the designs followed by a task completion exercise. The study validated the core workflow, identified missing features that would block adoption, and collected ideas for future features.
 
-I consolidated my findings and presented them to the team, which helped in prioritizing features. I also shared the results and details about the study at a company-wide all-hands meeting at Carta. Based on the feedback, I made changes to the design, and the team developed the MVP solution.
+I consolidated findings and presented them to the team, which helped prioritize features. I also shared the results at a company-wide all-hands meeting. Based on feedback, I revised the designs and the team built the MVP.
 
 <video controls playsinline class="my-10 w-full h-auto" loading="lazy">
 	<source src="/images/projects/carta-communication-tom-feedback.mp4" type="video/mp4">
@@ -73,9 +77,9 @@ I consolidated my findings and presented them to the team, which helped in prior
 
 ---
 
-## Phase Two Feature Iterations
+## Phase Two Features
 
-I started working on Phase Two features, which included support for multiple users, different roles (such as read-only view), support for Carta users, the ability to remove recipients, and a more comprehensive introduction/empty state.
+Phase Two added collaboration features: multiple editors on a single communication, role-based permissions (editor vs. viewer), Carta administrator access, the ability to remove recipients after sending, and improved empty states.
 
 ## Multi-Editor Support
 

@@ -1,23 +1,29 @@
 ---
 layout: default
 title: "Amazon Work Scheduling"
-description: "Amazon Logistics' 3rd-party delivery partners needed a driver scheduling tool that adhered to industry best-practices."
+description: "Replacing brittle spreadsheets with a scheduling tool for Amazon's network of 3rd-party delivery companies."
 order: 5
 featured: amazon-scheduling-final-01.png
 meta: [Amazon Logistics, Design, 2018]
 ---
 
-In 2018 Amazon launched a last-mile delivery program powered by entrepreneurs. These new companies needed a way to manage their drivers' schedules and communicate their capacity and schedules to Amazon. The needs of each user (Amazon station operators, schedulers, and drivers) is often at odds with one another, forcing the team—consisting of a Product Manager, a development team, and myself—to focus on how our tool could make meaningful strides to achieve the larger organization's goals.
+In 2018, Amazon launched a last-mile delivery program powered by independent courier companies. These companies needed to schedule drivers, communicate capacity to Amazon, and manage time-off requests. But there was no tool for this.
 
-The request was to move the daily and weekly offline process of accepting Amazon offered routes online in order to reduce errors and manual touch-points. We built a scrappy solution in 2017 to accomplish this task and began planning a more robust, user-centered solution to launch mid-2018.
+Most companies were using Google Sheets. The spreadsheets were brittle, hard to maintain across multiple locations, and disconnected from Amazon's systems. Schedulers spent hours each week on manual data entry that should have been automatic.
+
+The original request was to move the daily and weekly offline process of accepting Amazon-offered routes online to reduce errors and manual touchpoints. We built a scrappy solution in 2017 to accomplish this, then began planning a more robust, user-centered solution for mid-2018.
+
+I worked with a product manager and development team to design a scheduling tool that replaced the spreadsheets and integrated directly with Amazon's route planning systems.
 
 ---
 
 ## Field Research
 
-After launching the scrappy version, I worked with a UX Researcher to develop an online and offline survey to test usage and assumptions. I visited various sites across North America and the UK to observe and interview users about their usage of the tool and how they schedule their drivers. I sent an online version of the survey to companies in locations I was unable to travel to.
+I partnered with a UX researcher to develop online and offline surveys to test usage and assumptions. I visited sites across North America and the UK to observe and interview users about how they schedule drivers. I sent the online survey to companies in locations I couldn't travel to.
 
-Most companies were using complex, brittle, online spreadsheets to schedule their drivers mostly because the tools were free and synced across multiple site locations. Separately, users found the process of providing Amazon their roster of drivers repetitive, redundant, and of little value to them.
+The findings confirmed what we suspected: spreadsheets were the norm because they were free and synced across locations. But they created constant headaches.
+
+Users also found the process of submitting driver rosters to Amazon repetitive and low-value. They were entering the same information in multiple places.
 
 ![Amazon Scheduling Field Research 1](/images/projects/amazon-scheduling-fr-01.jpg){: height="1125" width="1500" loading="lazy"}
 ![Amazon Scheduling Field Research 2](/images/projects/amazon-scheduling-fr-02.jpg){: height="1273" width="1500" loading="lazy"}
@@ -37,7 +43,7 @@ Most companies were using complex, brittle, online spreadsheets to schedule thei
 
 ## Brainstorming
 
-We kicked off a design sprint to begin defining the long-term vision. Using survey results and research findings, the Product Manager, development team, and myself brainstormed using "how might me". We formed a problem statement that encompassed our users' challenges and organized "how might we" statements into categories, and eventually into features, and then set out to conduct a competitive analysis to see how some of these problems were already being solved.
+We ran a design sprint to define the long-term vision. Using research findings, the team brainstormed using "how might we" statements, grouped them into themes, and prioritized features. I then conducted competitive research to see how existing scheduling tools solved similar problems.
 
 ![Amazon Scheduling Brainstorm 1](/images/projects/amazon-scheduling-brainstorming-01.jpg){: height="865" width="1500" loading="lazy"}
 ![Amazon Scheduling Brainstorm 2](/images/projects/amazon-scheduling-brainstorming-02.jpg){: height="1335" width="1500" loading="lazy"}
@@ -51,7 +57,7 @@ We kicked off a design sprint to begin defining the long-term vision. Using surv
 
 ## Competitive Research
 
-I interviewed teams across Amazon who are already solving this problem and researched other 3rd party tools. After presenting my findings to the product, design, and tech teams, we came to the conclusion that building a robust, Amazon Shipping scheduling tool would solve both the users' and Amazon's needs.
+I interviewed teams across Amazon who had built scheduling tools and researched third-party solutions. The conclusion: we needed to build a purpose-built tool that served both the delivery companies and Amazon's operational needs.
 
 ![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-01.jpg){: height="525" width="893" loading="lazy"}
 ![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-04.jpg){: height="518" width="522" loading="lazy"}
@@ -72,7 +78,7 @@ I interviewed teams across Amazon who are already solving this problem and resea
 
 ## Wireframe Exploration
 
-We then began sketching solutions that involved both desktop and mobile experiences, and both driver and scheduler participation in the process. After a full day of sketching and countless iterations, I decided on a direction. We built a presentation with storyboards that highlighted the happy path solution and quickly mocked up low-fidelity wireframes present to leadership.
+We sketched solutions for both desktop (schedulers) and mobile (drivers). After a full day of iteration, I selected a direction and built storyboards and wireframes to present to leadership.
 
 ![Amazon Scheduling Wireframe 1](/images/projects/amazon-scheduling-wf-01.png){: height="967" width="1280" loading="lazy"}
 ![Amazon Scheduling Wireframe 2](/images/projects/amazon-scheduling-wf-02.png){: height="967" width="1280" loading="lazy"}
@@ -98,15 +104,13 @@ We then began sketching solutions that involved both desktop and mobile experien
 
 ## Component Design
 
-After getting leadership buy-in I started working on the final design and iterating on each of the components. The design team already had an established pattern library but many of the components weren't addressed (e.g. we had an input form date-picker but not a browsable calendar, we had basic tables but nothing that could represent work within a cell, etc.).
+The existing pattern library didn't have components for scheduling: no browsable calendar, no way to show tasks within table cells, no overtime indicators. I designed these from scratch, testing iterations in the field.
 
-For the calendar, I started with the pattern library's date-picker and began iterating. The new calendar had to show week number, day selected, week selected, and notifications or tasks on a given day. At first, I created a few versions and took them into the field. I tried to stick closely to the large, blockie, bright style of the rest of the pattern library which the design team was in favor of with colors representing different severity of tasks.
+The calendar went through several rounds. I started with the pattern library's date-picker and iterated. The new calendar had to show week number, day selected, week selected, and notifications or tasks on a given day. Early versions used color-coded severity indicators, but after taking them to the field and discussing with users, we eliminated severity and stuck with a binary on/off for tasks.
 
-After taking it to the field, discussing the tasks required on each day with users, we eliminated the severity and stuck with an on/off for tasks. I saw the calendar was taking up unproportional amount of space so I played with simply using an input field. This ultimately wouldn't work as the days needed communicate tasks.
+The calendar was taking up too much space, so I tried using just an input field. This wouldn't work since days needed to communicate tasks. I interviewed users about the importance of week number. All said it provided little to no value, so I removed it. The space worked better, but the bright color blocks were still drawing too much attention. I created a version that dialed down the size and brightness of indicators, then did scrappy user-testing in the office. Users could still tell which days needed attention.
 
-I interviewed a handful of users to discuss the importance of the week number. All of the users I interviewed said the date picker provided little to no importance so I removed it. After removing it the space seemed to work but the calendar's bright color blocks were still drawing too much attention on an already busy page. I began creating a new version that dialed down the size and brightness of our indicators. I did some scrappy user-testing in the office and users were still able to tell which days needed attention and which did not. I built a working prototype in CodePen for the engineering team and stayed close while they built it.
-
-Also during testing, I found that users weren't able to quickly see which tasks were required on the page - the outstanding work section was getting lost and then, even when users were spotting it, some were confused about what action to take. I created a few different versions to dial-up visuals on those sections and added tooltips to explain what they're for. We also added hours and locations to the table of drivers after receiving user feedback and iterated on how to show over-time hours.
+During testing, I found users couldn't quickly identify outstanding work on the page. I iterated on the visual hierarchy and added tooltips to clarify actions. We also added hours and locations to the driver table based on user feedback and iterated on how to show overtime hours. I built a working prototype in CodePen and worked closely with engineering during implementation.
 
 ![Amazon Scheduling Component 1](/images/projects/amazon-scheduling-calendar-picker.png){: height="970" width="841" loading="lazy"}
 ![Amazon Scheduling Component 2](/images/projects/amazon-scheduling-calendar-in-context.png){: height="800" width="1306" loading="lazy"}
@@ -122,13 +126,11 @@ Also during testing, I found that users weren't able to quickly see which tasks 
 
 ## Final Design
 
-After getting leadership buy-in I built a prototype using our team's pattern library, Sketch, and Invision and took to the field for testing. We also conducted multiple interviews at bi-weekly video conference meetings with schedulers.
+I built a prototype using the pattern library, Sketch, and InVision and tested it in the field. We also conducted interviews at bi-weekly video conference meetings with schedulers. User feedback was positive and helped prioritize additional features. Most changes were around training text, help content, and empty states since users were confused by some terminology.
 
-User feedback was overall positive and helped us prioritize and add additional features we hadn't yet thought of. I made many changes based on their feedback—mostly with accompanying training text, help material, and empty states—as many were confused by the naming of certain processes and tasks.
+We developed a launch plan that released core features first, with additional screens coming out in phases. With each release, we returned to the field to validate and reprioritize. Engineering connected the prototype to the backend they had been building throughout the process.
 
-The product team, development team, and I developed a launch plan that released the necessary features first, with additional screens and features coming out in phases. With each feature release, we headed back into the field for research and to confirm future feature priority. The development team began connecting the prototype to the backend which the development team had been building throughout this process.
-
-In Fall of 2018, we completed the launch of the desktop scheduling experience which consisted of a weekly scheduling template, a weekly and daily scheduling view, the ability to schedule time-off, and the ability to filter each view based on various parameters. The team is now focusing on the driver facing mobile experience to receive and makes changes to schedules. This is being readied for mid-2019.
+The desktop scheduling tool launched in Fall 2018 with weekly templates, daily and weekly views, time-off scheduling, and filtering. It replaced the spreadsheet workflows for hundreds of delivery companies across North America. The team then focused on a driver-facing mobile experience to receive and make changes to schedules, planned for mid-2019.
 
 ![Amazon Scheduling Final 1](/images/projects/amazon-scheduling-final-01.png){: height="1928" width="2560" loading="lazy"}
 ![Amazon Scheduling Final 2](/images/projects/amazon-scheduling-final-02.png){: height="1928" width="2560" loading="lazy"}
@@ -136,4 +138,3 @@ In Fall of 2018, we completed the launch of the desktop scheduling experience wh
 ![Amazon Scheduling Final 4](/images/projects/amazon-scheduling-final-04.png){: height="1928" width="2560" loading="lazy"}
 ![Amazon Scheduling Final 5](/images/projects/amazon-scheduling-final-05.png){: height="2048" width="2880" loading="lazy"}
 {: class="gallery"}
-

@@ -1,15 +1,21 @@
 ---
 layout: default
 title: "Amazon Explore"
-description: "Amazon Explore called for a presence-building, browser-based streaming UI for customers and an app and gimbal to deliver experiences for guides."
+description: "Designing a browser-based streaming interface for virtual tours and a mobile app for guides delivering live experiences worldwide."
 order: 3
 featured: amazon-explore-customer-in-session-shoppping.png
 meta: [Amazon Explore, Design, 2020–2021]
 ---
 
-Amazon Explore is a virtual tour product consisting of guides (local experts) who sell virtual experiences on a new Amazon marketplace for customers to enjoy from their couch.
+Amazon Explore is a virtual tour product where local guides stream live experiences to customers at home. A guide in Tokyo walks through a market while a customer in Ohio watches, asks questions, and shops for items the guide can ship to them.
 
-My responsibilities include sole ownership of the customer in-session streaming UX/UI design (including audio/video controls, alerts and communication messaging, shopping confirmation, and multi-user support) and the  UX/UI design of the app our experts use to deliver these experiences (including providing scheduling, hardware checks, playing in-session media content, creating shopping carts, receiving alerts and messaging, etc.).
+I owned the design of both sides of this experience: the customer-facing streaming UI in the browser and the guide-facing mobile app used to deliver experiences.
+
+For the customer side, I designed the in-session streaming UX/UI including audio/video controls, alerts and communication messaging, shopping confirmation, and multi-user support. The challenge was keeping UI elements out of the way so customers could feel present in the streamed environment while still having access to controls when needed.
+
+For the guide app, I designed scheduling, hardware checks, playing in-session media content, creating shopping carts, and receiving alerts and messaging. Guides are walking through busy streets, holding a phone on a gimbal, narrating live. The app needed to be glanceable at arm's length and not distract from the experience they're delivering. I designed toast notifications, audio cues, and a minimal interface that let guides focus on their surroundings rather than their screen.
+
+The product launched in 2020 with a 4.8/5 customer satisfaction score.
 
 ![Amazon Explore Design 1](/images/projects/amazon-explore-customer-in-session.png){: class="col-span-2" height="2050" width="2880" loading="lazy"}
 ![Amazon Explore Design 5](/images/projects/amazon-explore-customer-in-session-shoppping.png){: height="" width="" loading="lazy"}

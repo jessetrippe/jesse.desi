@@ -1,21 +1,23 @@
 ---
 layout: default
 title: "Amazon Explore for Groups"
-description: "After a successful launch of Amazon Explore, the focus shifted to bringing down the price by launching Amazon Explore for Groups."
+description: "Reducing the average experience price from $52 to $14 by enabling group sessions with multiple customers."
 order: 4
 featured: amazon-explore-group-final-1.png
 meta: [Amazon Explore, Design, 2021]
 ---
 
-Amazon Explore launched in June of 2020 with great customer satisfaction scores (4.8/5) but extremely low conversion (1.2%). One factor for this (determined by customer surveys) was the high price for experiences (average price $52.50). Adding the ability for sellers to deliver group sessions - one host to a small group of strangers - would drive the price down considerably to a target average price of $17.00.
+Amazon Explore launched with strong satisfaction scores (4.8/5) but low conversion (1.2%). Customer surveys pointed to price as the main barrier. The average experience cost $52.50, which was too high for casual interest.
+
+The solution was group sessions: one guide streaming to multiple customers instead of one. This would let guides spread their time across more paying customers, dropping the average price to around $17.
+
+I designed the multi-customer experience for both sides: the customer UI showing other attendees with mute and raised-hand indicators, and the guide app with controls to manage multiple participants while walking and narrating.
 
 ---
 
 ## Kickoff and research
 
-Initial discussions kicked off between myself and the product manager to discuss a rough timeline. Designs and requirements were quickly needed to receive tech scoping and provide a timeline for Amazon leadership. We worked simultaneously with frequent check-ins to accommodate this urgency.
-
-I hosted ongoing brainstorming sessions with the Product Manager and an Engineering Lead. We discussed high-level, obvious requirements from both customers' and guides' perspectives (e.g. viewing other attendees, muting, microphone meters, scheduling, etc.) while simultaneously researching competitor solutions.
+The timeline was tight. Leadership needed designs and tech scoping quickly. I worked in parallel with the product manager, running brainstorming sessions with engineering while researching how Zoom, FaceTime, and other video platforms handled multi-user experiences.
 
 ![Amazon Explore Groups Market Research 1](/images/projects/amazon-explore-group-market-ft.png){: height="" width="" loading="lazy"}
 ![Amazon Explore Groups Market Research 2](/images/projects/amazon-explore-group-market-zoom.png){: height="" width="" loading="lazy"}
@@ -29,9 +31,7 @@ I hosted ongoing brainstorming sessions with the Product Manager and an Engineer
 
 ## Wireframes
 
-After presenting and critiquing the competitive analysis, we aligned on a handful of features and a rough design approach. I began wireframing ideas on both the customer and guide UIs.
-
-I presented many of these to design peers for critique and to generate additional design ideas. Eventually, I presented a limited number of wireframes to the Product Manager for collaboration and feedback.
+After aligning on features, I wireframed options for both customer and guide UIs. I presented these to design peers for critique and then narrowed down to a few directions for the product manager.
 
 ![Amazon Explore Groups Wireframe 1](/images/projects/amazon-explore-group-wf-1a.png){: height="" width="" loading="lazy" class="col-span-2"}
 ![Amazon Explore Groups Wireframe 2](/images/projects/amazon-explore-group-wf-1b.png){: height="" width="" loading="lazy"}
@@ -64,7 +64,7 @@ I presented many of these to design peers for critique and to generate additiona
 
 ## Further iteration
 
-After meeting with fellow designers and the Product Manager and failing to reach a consensus on an approach, I moved into slightly higher fidelity and focused on the best solutions from the wireframes.
+The team couldn't reach consensus on a direction, so I moved into higher fidelity to make the options more concrete and easier to evaluate.
 
 ![Amazon Explore Groups Customer Wireframe 13](/images/projects/amazon-explore-group-option-1.png){: height="" width="" loading="lazy" class="col-span-3"}
 ![Amazon Explore Groups Customer Wireframe 13](/images/projects/amazon-explore-group-option-2.png){: height="" width="" loading="lazy" class="col-span-3"}
@@ -86,11 +86,11 @@ After meeting with fellow designers and the Product Manager and failing to reach
 
 ---
 
-## Final Design &amp; Prototype
+## Final Design
 
-The final solution for the customer side leaned on our tenet of building and maintaining presence and essentially getting out of the way so a customer can feel immersed in the streamed environment. We used a similar solution to Zoom - a black row to house attendees and corresponding microphone and raised-hand statuses - but placed it at the bottom in a thin strip to maximize video stream size. Showing statuses to all attendees as well as the guide should help facilitate fluid communication between all participants.
+The customer solution leaned on our tenet of building and maintaining presence: essentially getting out of the way so customers can feel immersed in the streamed environment. We used a thin black strip at the bottom showing other attendees with microphone and raised-hand status. This maximized the video stream while keeping participant awareness visible. The design borrowed from Zoom's familiar pattern but optimized for immersion rather than conversation.
 
-This was launched to beta participants in early June. CSAT scores maintain above 4 but dipped lower than private sessions to 4.4. The average price of all experiences dropped to $24.25 and the average group experience price is $14.41, below our target price for group sessions.
+Group sessions launched to beta in June. CSAT scores held above 4.0 (slightly lower than private sessions at 4.4, as expected). The average experience price dropped to $24.25 overall, with group sessions averaging $14.41, below our $17 target.
 
 ![Amazon Explore Groups Final](/images/projects/amazon-explore-group-final-1.png){: height="" width="" loading="lazy"}
 ![Amazon Explore Groups Final](/images/projects/amazon-explore-group-final-2.png){: height="" width="" loading="lazy"}
@@ -98,9 +98,9 @@ This was launched to beta participants in early June. CSAT scores maintain above
 
 ---
 
-The final solution for guides also leans heavily into getting UI elements out of the way but for a different reason than customers. Guides' primary focus needs to be delivering great live experiences, focusing on the narration and their environment as opposed to their app. An equally important focus is their safety while walking through busy streets and sidewalks.
+The guide app also needed to stay out of the way, but for a different reason. Guides' primary focus is delivering great live experiences, focusing on narration and their environment rather than their app. An equally important focus is their safety while walking through busy streets.
 
-To add more features to the app, reduce UI clutter, and increase video size I moved shopping and in-session content into a curtain that can be toggled open and closed, and then added the new attendee list. The list also has tappable elements for guides to mute and unmute customers, and view raised-hand status. The solution heavily relies on toast notifications and sounds previously designed by myself for the app.
+To add more features while reducing UI clutter and increasing video size, I moved shopping and in-session content into a collapsible drawer and added the attendee list with controls to mute customers and see raised hands. The design relied heavily on toast notifications and audio cues I had designed earlier for the app.
 
 ![Amazon Explore Groups Final](/images/projects/amazon-explore-group-host.png){: height="" width="" loading="lazy"}
 ![Amazon Explore Groups Final](/images/projects/amazon-explore-group-host-in-session.png){: height="" width="" loading="lazy"}
@@ -110,9 +110,9 @@ To add more features to the app, reduce UI clutter, and increase video size I mo
 
 ## Feedback and updates
 
-After releasing this to guides in beta form and collecting feedback, I discovered two key insights on top overwhelmingly positive reviews: 1. In outdoor lighting with various darkness of the background stream, the icons can be hard to see at gimbal distance. 2. The icons which toggle the menu are placed too close to the device's selfie camera, blocking the stream while in that mode.
+Beta feedback from guides surfaced two issues: icons were hard to see in bright outdoor lighting at gimbal distance, and the menu toggle was too close to the selfie camera, blocking the stream when tapped.
 
-With this last iteration, I addressed both concerns.
+I addressed both in a follow-up iteration.
 
 ![Amazon Explore Groups Guide Final](/images/projects/amazon-explore-group-guide-final-rd2-1.png){: height="" width="" loading="lazy"}
 ![Amazon Explore Groups Guide Final](/images/projects/amazon-explore-group-guide-final-rd2-2.png){: height="" width="" loading="lazy"}

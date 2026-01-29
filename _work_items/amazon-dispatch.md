@@ -1,21 +1,25 @@
 ---
 layout: default
 title: "Amazon Dispatch"
-description: "Amazon's delivery partners needed a tool to track and monitor driver location, progress, route, and stop information."
+description: "A fleet monitoring tool that gave Amazon's delivery partners visibility into driver location, route progress, and exceptions."
 order: 6
 featured: amazon-dispatch-01.png
 meta: [Amazon Logistics, Design, 2017]
 ---
 
-Among Amazon's many delivery solutions is a network of 3rd-party courier companies delivering from Amazon-branded vans to customers' doors. Dispatchers at these companies had to be on-site at Amazon delivery stations to complete dispatching tasks and were largely blind to their fleets' progress. They needed a tool to monitor location, progress, route, and stop information and Amazon needed a tool to collect daily rosters. The new tool had to combine features and information that was previously spread among many different, clunky tools in an efficient and simple way.
+Amazon's 3rd-party delivery companies were flying blind. Dispatchers had to be physically present at Amazon stations to complete their work, and once drivers left for their routes, there was no way to track progress or spot problems until drivers returned.
 
-The Product Manager was new to Amazon's shipping space so my logistics expertise, business knowledge, and field observations were vital to defining all aspects of this tool. From receiving the project to launching in beta form, the project took 6 months and is being used by all Amazon 3rd-party dispatchers and managers across North America. The tool will launch worldwide in early 2018.
+The information existed, but it was scattered across multiple clunky internal tools. Dispatchers needed a single view showing where routes were, where drivers were, and which deliveries were at risk.
+
+The product manager was new to Amazon's shipping space, so my logistics expertise, business knowledge, and field observations were vital to defining all aspects of this tool. From receiving the project to launching in beta form, the project took 6 months.
 
 ---
 
 ## Wireframes
 
-In order to define our users and their needs for this tool, a Product Manager and I traveled to different delivery stations to observe users (painfully) completing dispatching tasks. We also had meetings with Amazon operations teams to understand their needs and then developed a timeline and scope for the project. I wireframed a handful of ideas, and, along with the Product Manager, decided on a design approach to move forward with. I then took these wireframes to a local delivery station to test my assumptions and get feedback.
+The product manager and I visited delivery stations to observe dispatchers completing their tasks. Watching them toggle between systems and manually track driver progress made the problem concrete.
+
+We met with Amazon operations teams to understand their needs, then developed a timeline and scope. I wireframed several approaches, and together we selected a direction. I tested the wireframes at a local station to validate assumptions before moving forward.
 
 ![Amazon Dispatch Wireframe 1](/images/projects/amazon-dispatch-wf-01.png){: height="823" width="1195" loading="lazy"}
 ![Amazon Dispatch Wireframe 2](/images/projects/amazon-dispatch-wf-04.png){: height="823" width="1197" loading="lazy"}
@@ -37,11 +41,14 @@ In order to define our users and their needs for this tool, a Product Manager an
 
 ## Final Design
 
-The final tool allows dispatchers to see where routes are, where drivers are, and quickly spot and triage exceptions. This enables 3rd-party companies to establish and more fully optimize their operations. The final designs were taken to a delivery station and presented to users for further feedback. This feedback influenced changes that were either implemented into the product or added to a future feature list.
+The final tool shows route locations, driver positions, and delivery progress in a single view. Dispatchers can quickly spot exceptions and triage problems before they escalate. The design consolidated information that was previously spread across multiple systems into one efficient interface.
+
+I presented the final designs at a delivery station for feedback. User input shaped changes that were either implemented immediately or added to the roadmap.
+
+The tool is now used by all Amazon 3rd-party dispatchers and managers across North America, with worldwide rollout following in early 2018.
 
 ![Amazon Dispatch Final 1](/images/projects/amazon-dispatch-01.png){: height="1700" width="2560" loading="lazy"}
 ![Amazon Dispatch Final 2](/images/projects/amazon-dispatch-02.png){: height="1700" width="2560" loading="lazy"}
 ![Amazon Dispatch Final 3](/images/projects/amazon-dispatch-03.png){: height="1700" width="2560" loading="lazy"}
 ![Amazon Dispatch Final 4](/images/projects/amazon-dispatch-04.png){: height="1700" width="2560" loading="lazy"}
 {: class="gallery"}
-

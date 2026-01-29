@@ -1,23 +1,25 @@
 ---
 layout: default
 title: "Amazon Work Tracking"
-description: "Amazon needed a tool for delivery partners to submit hours, mileage, and route counts daily in order to get paid."
+description: "Redesigning a failed beta into a tool that let delivery partners submit hours and route counts to get paid faster."
 order: 7
 featured: amazon-work-tracking-01.png
 meta: [Amazon Logistics, Design, 2016–2017]
 ---
 
-Due to various unforeseen complications throughout the day, the work Amazon planned for 3rd-party courier companies to complete and eventually invoice Amazon for changed drastically. Amazon needed a tool to allow these companies to review and submit driver hours and route counts daily in order to reduce invoicing disputes, inaccuracies, and speed up payments from Amazon.
+Amazon's 3rd-party delivery companies needed to submit driver hours, mileage, and route counts daily in order to invoice Amazon and get paid. But the work they actually completed often differed from what Amazon had planned due to route changes, delays, and other complications throughout the day.
 
-Prior to my involvement, this project launched in beta form to three UK delivery stations where it failed because too many untested assumptions proved to be wrong. I was brought on to work with and mentor a junior designer in order to provide a solution that successfully met the users' and Amazon's needs for a work tracking tool. The redesign took around 3 months to complete and involved a visit to the UK with a prototype I built in HTML, CSS, and JavaScript to test with users using real data.
+Without a shared system, invoicing disputes were common. Companies submitted one number, Amazon expected another, and reconciliation took weeks.
+
+A beta version of a work tracking tool had launched to three UK stations and failed. Too many assumptions about how users collected and recorded data proved wrong. I was brought on to work with and mentor a junior designer to provide a solution that met users' and Amazon's needs. The redesign took around 3 months to complete.
 
 ---
 
 ## Wireframes
 
-After getting up to speed on the goals of the product and how the beta failed, the initial designer and I conducted several interviews with beta testers to uncover pain points and frustrations. The beta failed due to an assumption about how users collect, record, and maintain daily route counts and mileage so the new solution had to support all the various ways this was being done.
+I started by interviewing the beta testers to understand what went wrong. The core issue: the beta assumed all companies tracked work the same way. They didn't. Some recorded data by driver, others by route, others by station. The new design had to support all of these approaches.
 
-I wireframed layouts that organized the collection of work in different ways and then reached out to the same beta testers for feedback. I used the wireframes to ensure the right information was being displayed to complete the task without overwhelming them with unnecessary stats and metrics.
+I wireframed layouts that organized work collection in different ways and tested them with the same users who had rejected the beta. The goal was to display the right information to complete the task without overwhelming users with unnecessary metrics.
 
 ![Amazon Work Tracking Wireframe 1](/images/projects/amazon-work-tracking-wf-01.png){: height="770" width="1123" loading="lazy"}
 ![Amazon Work Tracking Wireframe 2](/images/projects/amazon-work-tracking-wf-03.png){: height="739" width="1124" loading="lazy"}
@@ -28,12 +30,15 @@ I wireframed layouts that organized the collection of work in different ways and
 
 ---
 
-## Final Design &amp; Prototype
+## Final Design and Prototype
 
-Once the wireframe and overall approach were settled, we divided the design work between both designers and built pixel-perfect designs while syncing often. Because of the failures of the initial launch, after the design was somewhat complete, I built a working prototype using actual data, HTML, CSS, and JavaScript and traveled to the UK to test at the three beta stations. The new tool succeeded where the previous failed and also proved far more efficient. We collected feedback and made changes to many of the smaller details but overall the prototype and design were successful.
+Once we aligned on an approach, I split the design work with the junior designer and we built pixel-perfect designs while syncing often. Because of the beta failure, we needed to validate thoroughly before launch. I built a working prototype using actual data, HTML, CSS, and JavaScript, then traveled to the UK to test at the three stations that had rejected the original tool.
+
+The redesign succeeded where the beta had failed. Users could complete their tasks efficiently regardless of how they organized their data internally. We collected feedback, refined details, and launched.
+
+The tool reduced invoicing disputes and sped up payments for delivery partners across the network.
 
 ![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-01.png){: height="895" width="1280" loading="lazy"}
 ![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-02.png){: height="895" width="1280" loading="lazy"}
 ![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-03.png){: height="895" width="1280" loading="lazy"}
 {: class="gallery"}
-
