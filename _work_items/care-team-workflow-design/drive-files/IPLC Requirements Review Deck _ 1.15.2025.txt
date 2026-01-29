@@ -1,0 +1,604 @@
+Intelligent Prioritization & Loop Closure: Requirements Review
+January 15, 2025
+
+Agenda
+Intro (5 mins)
+S@S Stage
+Solution Goals 
+What we are not solving
+Setting the stage for MVP (25 mins)
+Guiding principles
+Workgroup decisions made
+Patterns
+User journey overview 
+MVP Requirements (1 hr)
+Prioritized panel management
+Comprehensive member interactions
+Loop closure (and other IPLC enablers)
+Operationalizing care team expectations
+Next Steps
+[Sam] Intro (5 mins)
+S@S Stage
+Solution Goals 
+What we are not solving
+Setting the stage for MVP (25 mins)
+[Fabiana] Guiding principles
+[Rachel, Irene] Workgroup decisions made
+[Fabiana] Patterns
+[Fabiana] User journey overview 
+MVP Requirements (1 hr)
+[Fabiana] Prioritized panel management
+[Fabiana] Comprehensive member interactions
+[Ryan] Loop closure 
+[Rosie] Operationalizing care team interactions
+
+
+Solving @ Scale: Where We Are Today
+We are in Step 3: Ideation & Concept Development
+Today, we will focus on requirements identified to address prioritized business problems; not the actual design of solution itself.
+In order to pilot an MVP in March, we are proposing that this group reviews a demo as part of Build Approval to allow work group more time to align on draft solutions.
+Approval Request: Are these the minimum set of requirements that must be met in order to successfully address business problems and launch in markets?
+Goal of Today’s Discussion: Align on requirements needed for MVP solution to be successfully launched in markets.
+S@S Overview Here
+
+Opportunities closed per interaction
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.
+Problems to Be Solved
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.
+% opportunities closed with top priority members
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Trust & Satisfaction Score
+Longitudinal engagement
+Our frontline staff, and their managers, do not have clear responsibilities and performance expectations. Productivity expectations for care teams are not integrated in panel management or cadenced proactive outreach expectations.
+N/A - Manager tools in place
+Comprehensive Member Interactions
+Prioritized Panel Management
+Loop Closure & Follow Through
+Operationalizing Care Team Expectations
+Component
+Business Goals
+Decrease cost per activated member
+Meet Quality & BOI targets
+Reduce TCOC
+Lagging Indicators*
+*Metric definitions still under discussion. Leading and mid-funnel metrics will also be monitored.
+Goals: What are we trying to achieve?
+
+Problems we are not solving
+Through stakeholder engagement, we have heard the following problems expressed. While these are important points of friction to address, we want to be explicit that we have not thought of them as in-scope for this work.
+Problem Statements Not Addressed
+1
+We do not have standardized roles defined for Sr. CHPs and Sr. RN CMs across markets, making it difficult to provide clear career paths for our frontline teams.
+2
+The quality of notes in the timeline varies, the timeline is difficult to scan, and updates can be difficult to find. This means that time spent sifting through the Timeline to prepare for a call can feel like time wasted if the member doesn’t answer.
+3
+Tasks completed do not map 1:1 with value delivered to members. It is challenging to measure and manage against value in day-to-day operations.
+4
+The current External referrals feature in our timeline notes does not provide an easy way to track multiple referrals to resolve a member need  from start to finish. 
+5
+External referrals managed through Findhelp are not integrated back into commons requiring users to double document into multiple timeline in Commons 
+6
+We have disparate systems for grouping action-items, some of which require linear formatting. (Workflows, Goals, Commons Companion Quality Widget, etc.)
+
+Setting the stage for MVP
+What is the thinking that got us to the requirements and how we are approaching the work 
+
+Guiding Principles for IPLC Solutioning
+Stop developing piecemeal solutions. Create patterns for how we surface specific members and action items to care team members & close the loop, which all current and future use cases can follow.
+Do not exacerbate the scattered signals issue. Ensure all new and existing signals are brought into Commons (quality gaps, BOI, chase lists, outreach campaigns). 
+Continue to clean up tasking as the key driver for all of the below.
+Strive for clarity. Ensure all signals surfaced for care team action have clear action item(s), owners and due dates associated with them. 
+Keep it simple. Do not introduce new concepts, risking change fatigue and complexity. Continue to use tasking as the underlying mechanism for how work is surfaced to care teams, and regular check-ins for proactive panel management
+Make work visible. Bring all action items into Commons tasking ecosystem (no more spreadsheets and google docs) so care teams, managers, and the business  can understand the work to be done and track progress against it.
+Reduce, or at least do not exacerbate, the documentation burden. Make it easier for care teams to connect evidence of the work to the work surfaced in Commons.
+Report based on evidence of work. When possible, reporting on work progress should be based in evidence of work completion (vs. self-reported work completion in current state).
+Create observability for managers. Help managers understand performance in order to effectively manage their teams.
+These are principles that will guide our solutioning on IPLC work throughout the year. These are things we will work towards, not necessarily things that will be completed as part of the MVP. 
+As we go through the requirements section, it will become clearer more specifically what we aim to solve for within the MVP solutions
+
+Review of Workgroup Decisions Made | Bundling
+✅  Rationale: Given we have low reach rates today and know hard to reach members are costly, care teams should capitalize on moments they reach the member. We believe the opex cost of a RN not working at the top of their license 100% of the time is outweighed by the potential savings the comprehensive member interaction could result in, if as many action items are closed as possible (ex: enrolling a member in a pathway, scheduling a provider visit) and we reduce actively disengaging members through too many disparate contacts across the care team in a given interval as happens today  
+
+⚠️ Tradeoff: RNs may not always be working at the top of their license, opex concern
+
+🔎 Interdependencies: Correct track & primary assignments, staffing calculator, performance management and incentivizing bundling 
+
+🤝 SMEs involved in decision: Ali H., Maryann S., Rachel B., Laura S., Ryan S., Rosie E., Fabiana S.
+
+
+Care teams should bundle & address as many action items as possible in a successful member interaction. This includes tasks assigned to themselves AND supporting tasks assigned to other teammates. While CHPs would not be expected to complete clinical tasks, they should assist in scheduling clinical visits or getting the member connected to clinical resources. RNs would be expected to support non-clinical tasks where possible.
+Important decisions made, a lot of our requirements and our approach builds off these.
+
+✅  Rationale: 
+Surfacing action items as tasks creates observability and consistency. Through this effort, no new work will be created but rather existing work and responsibilities will be surfaced as part of our tasking ecosystem in order to make it observable. 
+“Opportunities” are business priorities. Surfacing opportunities with clear action items, assigned owners & due dates will help create accountability for the work. Otherwise, we risk high priority work not getting done (15% of assigned tasks are overdue, 36% of unassigned tasks are overdue). Also, introducing opportunities as a new concept risks change fatigue. We need to create patterns to make things feel simple and easy for our users
+
+⚠️ Tradeoff: The  volume of tasks created is expected to increase. However, the total number of open tasks at any time could decrease because we're (1) removing regular check-in tasks and (2) should see fewer overdue tasks due to loop closure improvements and control reporting. Additional tasking enhancements include aligning task due dates to next regular check-in, clarifying task urgency levels, and improving task categorization. See here for how we will alleviate current tasking pain points, including task overwhelm, and make tasking work better for us moving forward.
+
+🔎 Interdependencies: performance monitoring needed (will be addressed as part of operationalizing care team interactions workstream)
+
+🤝 SMEs involved in decision: Sam F., Ryan S., Fabiana S., Irene D., Jesse T., Ericka W., Maryann S., Matt F.
+Review of Workgroup Decisions Made | Tasking
+(A) While concerns about task volume and task overwhelm have been raised in the past, we are not getting rid of tasks. Tasks are fundamental to how we surface work at Cityblock and we should continue to leverage tasking as a consistent way to surface action items to users. Instead of running away from tasking, we must invest in making tasking work for us and alleviate pain points. (B) We should not introduce new concepts and ways of doing work. Opportunities should unfold and surface as tasks with discrete required actions, specific owners and due dates.
+
+Patterns we are establishing, applicable to all use cases
+Task Ecosystem
+Loop Closure
+Unified View 
+Panel Mgmt. Surface
+Data signal 
+(trigger)
+Task(s) automatically generated
+Task(s) assigned to user 
+Regular check-in feed
+All task(s)/open action items for member
+Contextual information
++
++
+User reviews prioritization signals (due dates) on panel mgmt surface & determines which members on their panel they should focus on for the day
+User reviews unified view to see all open tasks & contextual information for prioritized member to prepare for comprehensive interaction
+User makes progress on tasks. Evidence of the work updates/ closes task(s) which updates panel & unified view
+Data signal surfaced in Commons
+System triggers task(s), bringing all work into Commons task ecosystem
+Task object
+Quality gaps
+BOI gaps
+Outreach campaign
+Inbound comms
+Program eligibility / enrollment
+Pathway eligibility / enrollment
+Signal
+User generated tasks
++
+Additional data signals
+Care plan goals
+Scheduled visits
++
++
+Why a pattern?
+✅ Ensures signals are actionable
+✅ Ensures action items are assignable
+✅ Makes action items observable
+✅ Unlocks management control reporting visibility
+✅ Creates consistency for care teams & central teams
+✅ Simplifies complexity 
+✅ Helps care teams work more efficiently 
+This slide illustrates how the tasking decision could be manifested into a pattern. The focus is on the benefit of a pattern and how we might get there, not on the specific words/names of things. 
+
+Mapping a user journey through Intelligent Prioritization & Loop Closure scope
+11
+Proprietary & Confidential  
+The Day Begins: Who to Engage?
+RN CMs and CHPs open Commons to their panel view, where they see lists of members who need action today.
+Product Build: Panel View
+The “panel view” surfaces the below prioritization signals to help RN CMs and CHPs to decide who to engage next:
+
+Members with appointment scheduled today
+Members with task due (urgent tasks at the top)
+Members due for proactive outreach 
+Connecting with a Member: What to Discuss?
+RN CMs and CHPs comprehensively address all aspects of a member’s care appropriate to their scope of practice.
+Product Build: Defragmented View
+The “defragmented view” surfaces all relevant information (action items & contextual information) needed to effectively prepare for & conduct a comprehensive member interaction
+
+Care pathway eligibility
+Program eligibility
+Care plan goals and tasks
+BOI and Quality gaps
+Documentation and System Loop Closure
+Following a member interaction, RN CMs and CHPs document their care progress, which automatically updates members queued in the panel view for engagement
+Product Build: Loop Closure
+Loop closure is how Cityblock monitors that actions surfaced for care teams are completed. This includes both documentation support for care teams to record progress on identified member needs, as well as automatic system identification of completed work.
+
+Loop closure ties together the panel view and the defragmented view. Work identified and completed during a comprehensive interaction impacts when a member will next be queued for engagement.
+Performance Management
+Frontline managers can zoom into daily, weekly, and monthly RN CM and CHP performance
+Analytics  Build: Frontline Manager Visibility
+The Frontline Manager Visibility dashboard gives care team managers a comprehensive view into how care teams are performing, and will link out to CHP Productivity View and RN Scorecard (existing dashboards), and CHP Scorecard (to be completed in T1). 
+Before we dive into specific requirements, this is an overview of how these pieces all fit together
+Loop closure - ties together the work surfaced and the work completed, which then impacts when the member will be prioritized for engagement next (informs panel management)
+Performance management - building frontline manager visibility dashboard for view into team performance 
+
+Problem <> MVP Requirement Mapping
+What requirements are missing that are absolutely necessary for an MVP?
+Are any of the requirements listed not absolutely necessary for the MVP?
+Do we need to refine any of the requirements?
+Goal: final approval of MVP requirements from business owners & market sponsor 
+
+Prioritized Panel Management | Requirements
+1. The below prioritization signals must be surfaced to help users understand which members to focus on for the day
+Scheduled Visits Today
+Regular check-ins due 
+Tasks Due Today 
+Urgent tasks automatically prioritized (ex: TOC, MIC)
+Important tasks (ex: self-activation, inbound comms)
+Non-urgent tasks due 
+Non-urgent task due dates are aligned to next regular check-in 
+Members are deduped from regular check in feed to focus the work
+
+2. Prioritization signals must be surfaced in one tool (note: not integrated into one single list)
+💡Solving the scattered signals issue & surfacing all prioritization signals within one tool will help users prioritize their day 
+⚠️ Our underlying tasks are too messy right now for the system to be able to force rank & prioritize work for users. Task clean up, introducing task categories and better tasking oversight will help lay foundations needed
+
+3. Users continue to anchor on due dates for panel prioritization
+
+4. Stop generating tasks for regular check-ins
+
+5. Market operators can request adjustments to regular check-in cadence corresponding to each track as needed, based on market capacity. Changes are reflected within 1 week
+In order for MA P32 to shift to regular check-ins, must be able to leverage acuity for regular outreach cadence
+
+6. Managers can see all regular check-in calls due across their team & easily reassign work if staff are out (for the day or long term)
+User opens Commons and reviews panel prioritization signals surfaced
+7. Care team members have clear guidance for how to prioritize members across scheduled visits, tasks due, and members needing proactive outreach
+MVP 
+Requirements
+User 
+Journey
+Start day
+Interpret prioritization signals to determine which member to focus on first 
+Future requirements (out of scope for MVP):
+The system prioritizes panels for care team members (decrease mental burden)
+The regular check-in feed evolves to a more comprehensive call list including other outreach related tasks (TOC, MIC, self-activation, inbound comms f/ups, campaigns)
+Approver(s): Maggie, Mike, Libby
+2, 5, 7
+2
+1
+        Maps to requirement #x          ⚠️Assumption        💡Hypothesis
+X
+6
+3, 4
+What requirements are missing that are absolutely necessary for an MVP?
+Are any of the requirements listed not absolutely necessary for the MVP?
+Do we need to refine any of the requirements?
+
+
+Prioritized Panel Management | Problem Statements
+What’s contributing to the above?
+1
+Lack of clear prioritization guidance: We have not identified what matters most to inform a care team member’s day; have not created a forced rank of priorities or defined operational variables. because of this, product does not have a way to create an applicable solution.
+2
+Scattered signals across various systems: To understand which members they should focus on first, care teams must piece together various information which is scattered across systems (inbox tasks, workflows, member feed, scheduled appts, Sheets/reports, G Sheets, Looker dashboards/lists, Slack)
+3
+Inability to customize regular check-in configuration for markets: Product tooling does not account for market capacity constraints and market prioritization needs (either does not account for all prioritization inputs, cannot be configured as is, or SLA for configuration changes is too long). For some teams, the expected cadence for member touches is higher than clinically recommended and/or is infeasible to achieve
+4
+Unclear feasibility of care model activities within staffing: Completing all “priority” activities may exceed feasible work hours. Care model activities haven’t been fully reconciled with staffing or performance targets (ex: completing 100% of regular check-ins for a panel size of 500 members may exceed work hours)
+5
+Panel management tooling does not adequately prioritize member needs across panels: Users are empaneled with a large number of members with complex needs and the current tooling does not adequately prioritize member needs across their empaneled population. This results in care teams carrying the mental burden of dozens of needs across multiple members to ensure that the correct next best action is taken.
+6
+It is challenging for managers to re-assign work when staff are out of office or leave Cityblock: There is no system-assisted solution or even an SOP to deal with these common situations. Processes to manage this are manual, risk error (like tasks being left behind), and impacts prioritization of work for teammates with reassignments.
+7
+Underlying task due dates may prompt excessive outreach efforts. Actions to complete for members each come with their own due date, signaling activities must be completed at various times vs. bundled in single interactions, which can be misleading and create inefficiencies
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach (i.e., Regular Check-In), market chase lists, signal-based proactive outreach (e.g., BOI gap, change in condition), and follow-through on member commitments (e.g., follow-up tasks); however, these can conflict with each other, have not been integrated into unified expectations, and creates a disjointed experience for the member.
+
+1. The below information (action items) must be surfaced on a single Commons surface to help users prepare for & conduct a comprehensive interaction
+💡 Surfacing all required information for an interaction in a single view will help users bundle work and have more meaningful member interactions 
+Care plan goals and tasks (centrally & manually generated)
+Includes outreach campaigns [new]
+Program eligibility / enrollment (CoCM, Advanced BH, Pregnancy, Pharmacy)
+Care pathway eligibility / enrollment 
+Quality gaps (largely RN/CHP coordination & scheduling tasks)
+BOI gaps
+
+
+ 2. All of the above signals are identifiable in our systems 
+
+3. All of the above signals have clear action item(s), owners & due dates associated
+
+4.🚨The below contextual information must be surfaced on a single Commons surface to support effective prep 
+💡 Surfacing contextual information in a single view will help users effectively prep for upcoming visit
+Clinical: Problem/diagnosis list, Last hospital discharge
+Other: Outreach history (last contact, date), recent campaigns (to use as hook)
+
+
+User opens member profile
+MVP 
+Requirements
+User 
+Journey
+Make decision for what to address in upcoming interaction
+Comprehensive Member Interactions | Requirements
+
+Review all required information for interaction (action items & contextual info)
+5. Users have central prioritization guidance to help them determine what to focus on for the member first (note: system prioritization not in scope for MVP)
+⚠️  Our underlying tasks are too messy for the system to be able to force rank & prioritize work for users. Task clean up, task categories & better tasking oversight sets foundations needed
+
+6. Users focus on work assigned to themselves & also complete other action items assigned teammates as much as possible, in order to make the most of the successful interaction. Users have guidance re: bundling expectations
+
+7. User is clear on what constitutes a meaningful interaction
+
+No MVP requirements or changes related to prep
+💡The unified view will help users prep (all action items & context)
+Prep for interaction
+Outreach member
+8. Users have clear outreach guidance for regular check-in (mirrors recently updated CBH difficult to reach policy)
+
+9. Members fall off the regular check in feed based on call attempts. Logic is baked into feed which automatically updates in real time based on documented attempts & successful interactions 
+
+10. Meaningful interactions count towards regular check ins, not all bilateral interactions by qualifying role types (ex: member says call me back). We have a way to differentiate meaningful interactions that count in our system 
+Future requirements (out of scope for MVP): 
+The system helps users prioritize what they should cover in the upcoming member interaction (decreased mental burden)
+The system helps users prep for their interaction via AI summary tooling (use case expanded from case conference)
+Assessments due are surfaced in the single member level view (Core, PHQ, HRSN, quality of life, LTSS)
+Welcome activities are surfaced in the single member level view 
+
+
+
+Approver(s): Maggie, Mike, Kalpana
+1
+1, 2
+2
+1, 2
+3
+3
+4
+        Maps to requirement #x          ⚠️Assumption        💡Hypothesis   🚨Needs discussion
+X
+5
+6
+
+Comprehensive Member Interactions | Problem Statements 
+What’s contributing to the above?
+1
+Member needs are scattered across surfaces (ex: assessment responses, timeline note documentation, care plan goals, tasks, member impressions, Athena, health gorilla). Care team members lack a centralized and easily accessible view of member needs. This fragmented info can result in gaps in care, hinder collaboration, coordination & timely response to member needs.
+2
+Actions to complete for each member are scattered across various surfaces (inbox, care plan tasks, market chase lists, member feed, welcome activities)
+3
+We have not yet defined what a meaningful interaction is from a clinical or member experience standpoint and what care teams should focus on
+4
+Coordination within and across teams is lacking, resulting in uncoordinated outreach to the member for various reasons by different users. Guidance around bundling is varied across markets.
+5
+Canceled regular check-in workflows are not being managed and re-triggered appropriately, risking members falling through the cracks
+6
+Any bilateral interaction with a qualifying role counts towards regular check-in, however, not all should given high variation in the interaction quality (ex: if a member answers but says call me back). We do not have a way to identify meaningful interactions in our system.
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+
+Loop Closure (and other IPLC enablers)| Requirements
+
+1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+Outreach & Attempt to Engage
+Future 
+Requirements 
+User 
+Journey
+Address Action Items
+Document & Measure Progress
+4. All signals/”containers of work” surfaced on the unified view have underlying assignable action-items. 
+
+5. All action items are discrete tasks that can be started and completed in a single step. 
+6. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+7. Incomplete/cancellation reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+1
+Approver(s): Maggie, Charisse, Libby
+8. Ability to initiate multiple linear processes (e.g., measure blood pressure, upload result) and non-linear action-items within a single “container of work”.
+
+9. Multiple discrete action-items can be selected/updated from the unified view to be linked in a progress note 
+3, 4, 5
+2
+        Maps to requirement #x          ⚠️Assumption        💡Hypothesis
+X
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+
+
+
+2
+4
+
+Loop Closure (and other IPLC enablers) | Problem Statements 
+What’s contributing to the above?
+1
+Outreach work  vs Care delivery: The current Tasking system fails to decouple “outreach” and “care” action-items, making it difficult to understand when lack of progress on task is due to unsuccessful outreach vs. incomplete “care”. This is critical for accurate reporting on care team member productivity and performance. 
+2
+Measuring Work Progress:  Signals for attempted but incomplete work are managed across task statuses and cancellation reasons. And, operational guidance for status and cancellation reason usage is not standardized.
+3
+Work Completion Evidence: User action/evidence of work are not linked to task objects
+4
+Tasking/Documentation Efficiency: Our users are overly burdened by Commons navigation and documentation activities. Manual work (double) documentation and task closure is required in current state because task<>evidence linkage is not available. 
+5
+Documentation Quality: Manual work double-documentation system is prone to error.
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Problems De-Scoped from MVP
+6
+Action-Item Grouping: We have disparate systems for grouping action-items, some of which require linear formatting. (Workflows, Goals, Commons Companion Quality Widget, etc.)
+
+Operationalizing Care Team Expectations | Requirements
+
+Approver(s):  Maggie, Dodie 
+As part of the insights gathering, we are collecting inventory of existing manager dashboards with the following  criteria in mind:
+
+Number of dashboards by market
+Number of dashboards by role
+Dashboard audience
+Redundancies/duplications in metrics reporting
+Areas where reports can be consolidated
+Accessibility of dashboard*
+Usefulness of reports*
+Tracking of key performance metrics as defined by program requirements** 
+
+
+*User feedback required here
+**Program requirements to be finalized 
+
+Inventory Process of Existing Manager Dashboards and Tools
+Future requirements (out of scope for MVP): 
+Performance expectations for roles outside of RNs and CHPs
+
+
+Based on our findings, the best frontline manager tools will be pulled forward to be standardized across markets. Requirements of the new dashboard will include –  
+
+Lists:
+Regular check-in cadence: frontline managers will have visibility into who needs outreach, who has successfully been reached,  who is overdue for a check-in, and how many attempts have been made
+Contact by type: who needs to be outreached based on recent event type (eg TOC, MIC)
+
+Metrics:
+Average panel size per CHP: visibility into CHP panel sizes and caseloads
+Active care plan: do all activated  members have a care plan
+Task management: are tasks being managed appropriately
+Longitudinal engagement  rate: are the right members being outreached on time as needed
+Check-in rate: how successful are care team members in reaching and attempting to reach members
+Hospital Utilization: how many members need connections and when, based on recent hospitalization
+Assessments: who has recently been assessed, who needs to be assessed and who is due for assessment
+Provider Visits: who has recently seen a Cityblock provider, who is due for a provider visit, how many provider visits have been scheduled and completed
+MIC: what is the MIC utilization, who has completed an MIC workflow 
+Frontline Manager Visibility Requirements 
+What are the  key responsibilities for care teams, and are they performing them?
+
+
+How are frontline managers using data to inform on progress? 
+
+
+How can we leverage existing data to build a comprehensive, one-stop-shop for managers to track and report on individual and team performance?
+Overarching Questions to Solve
+1, 2, 3, 4
+        Maps to requirement #x          ⚠️Assumption        💡Hypothesis
+X
+
+Operationalizing Care Team Expectations | Problem Statements
+What’s contributing to the above?
+1
+Leader Visibility: we cannot observe whether staff followed the recommended prioritization of their work for a given day
+2
+Lack of Visibility into Progress: managers can't track or report team progress effectively due to the absence of tools and processes
+3
+Ineffective Performance Assessment: managers lack clear, standardized metrics to assess team performance accurately
+4
+Manager Performance Manager Expectations: managers may not fulfill their roles effectively without clear expectations and tools
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+
+Next Steps
+
+Next Steps [build approval of MVP]
+Risks: large scope, many assumptions that build off one another, no time to test and build confidence, change management and training lift high, 
+
+Next steps
+Develop & Learn
+Now
+Validate
+Later
+Build
+Next
+Engineering to confirm feasibility of MVP, ad hoc tradeoff discussions will resolve any flagged risks to delivery timeline
+Design MVP pilot testing plan. What do we want to learn from our pilot markets? What leading indicators will we track to measure feature success? 
+
+
+
+Conduct user acceptance testing with central partners and market representatives
+Begin testing and collecting end user feedback 
+Share baseline metrics 
+
+
+
+
+Implement in target beta markets
+MVP end to end user journey review
+Review leading indicators and synthesized user feedback
+Scale MVP to additional markets  
+
+Appendix
+
+How tasking will evolve over time  
+FROM
+TO
+Work progress (and parallel reporting) is based on self-reported action and is not based on evidence of the work
+⭐️*When possible, reporting on work progress will be based in evidence of work completion
+Because manual task completion is the method of documenting work but is separate from the actual work, some users forget/skip task completion 
+⭐️ *When evidence is present, tasks are programmatically closed
+Multiple action items are nested within single tasks, making it difficult to measure progress. We use broad statuses like “in progress” which fail to represent what work is done/not done
+Every task is limited to a single discrete action item which is either “open” or “complete”.
+Outreach actions and care actions are commingled in tasks
+⭐️ Outreach disposition is measured separately from care so attempted/unsuccessful outreach does not impact task status
+Our task categorization system is immature, which makes prioritization at the member or panel level difficult. Responsibility for prioritization often falls to the care team
+⭐️ Tasks include a task category. 
+Eventually, we can systematically prioritize work at the member and panel level, decreasing mental burden on care team members
+Non-urgent task due dates prompt unnecessary outreaches - not aligned to next regular check-in
+⭐️ Non-urgent task due dates are aligned to next regular check in. The system enables this easily
+No standards for task urgency - Expectations for urgent, important, and regular priority tasks are unclear and vary by market
+⭐️Clear standards defined for urgent, important and regular priority tasks. 
+Eventually, urgency can be better used to systematically prioritize work at the member and panel level
+We can only trigger a linear set of tasks for care teams which creates significant complexity in our tasking (i.e. bundling many IF/THEN statements in a single task). The reality of care team work is not always linear in nature
+We can trigger a set of related, non-linear tasks, allowing tasks to reflect more discrete action items and unlocking observability. Decreases complexity and mental burden for care team members
+Users are overwhelmed by tasks in their inbox
+⭐️ Inbox enhancements focus users on tasks due today, instead of on the entire universe of tasks assigned. Tasks can be easily bundled by member and due dates are more organized around regular check-ins
+⭐️  Part of MVP
+
+ *select use cases tbd for MVP
+
+Priority: Important 
+(things i need to do within 1 week)
+Priority: Urgent
+(things i need to to before EOD)
+Draft framework
+Task
+Due 1/5
+Task
+Due 1/5
+Task
+Due 2/6
+Task
+Due 1/19
+Task
+Due 2/1
+Task
+Due 1/10
+Regular Check-In
+Due 2/1
+CARE PATHWAY Task 
+Due 1/5
+MIC Task 
+Due 1/5
+SCHEDULING Task 
+2/6
+CARE PATHWAY Task
+1/19
+ EDUCATION Task 
+2/1
+ CARE COORDINATION Task 
+Due 1/10
+Regular Check-In
+Due 2/1
+Re-prioritize tasks & Align due dates to next Regular Check-In 
+Conduct by due date
+Note: not all tasks require a call with a member
+Conduct regular check-in, bundling all open items (comprehensive member interaction)
+Prioritize at the start of day
+Task 
+Due at regular check-in
+Task 
+Due 1/5
+Task 
+Due at regular check-in
+Task
+Due at regular check-in
+Task 
+Due at regular check-in
+Task 
+Due 1/10
+Regular Check-In
+Due 2/1
+Focused & Bundled Work
+WIP
+
+Draft member level prioritization guidance
+Urgent
+Member-expressed high priority needs
+Urgent tasks: time-sensitive handoffs and internal referrals (e.g., TOC handoff, high-impact campaign)
+In progress
+Non-urgent tasks for in-progress care plan goals / associated tasks
+New
+Care pathway and/or program enrollment
+Boi gaps
+Quality gaps
+Non-urgent tasks for goals not yet started

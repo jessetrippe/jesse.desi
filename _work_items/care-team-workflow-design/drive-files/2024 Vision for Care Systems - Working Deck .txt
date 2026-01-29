@@ -1,0 +1,2293 @@
+Mental Models  for the months ahead | 2024
+Care Systems
+
+Care Systems Mission
+Scale the impact of our Care Teams on Member Experience and Total Cost of Care
+
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes are automated, high value, and increasingly “easy” to do. 
+
+Objectives for the Care Systems Product Group cascade from company goals
+In Q1 2024, the Care Systems Product Group will  be focused on tools and processes that support:
+Growth & Implementation | Achieve $1.4B in ARR (signed & launched by January 31, 2025) and $1.105B 2024 Revenue (in-year)
+TCOC | $12.7M TCOC reduction (+390 bps gross margin improvement on existing contracts) by executing our core services & programs effectively and efficiently
+Engagement | Enhance the efficacy and efficiency of our engagement strategies, which fundamentally impacts our ability to improve quality and outcomes for members
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level [Care Delivery] 
+Member Level [Member Profile]
+Process Level [TOC] 
+Configuration Layer [All]
+Member Management
+Member Health Summary
+Member Demographic
+Partner + Location Build
+Member Profile
+Workflows
+Business Rules
+Tasking, Queues, Inbox
+Business Rule Builder
+Workflow Builder
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+A vision + model  for the months ahead | Q1 2024
+Care Systems
+
+Mission
+Our mission is to radically improve the health of marginalized communities at scale. 
+
+Vision
+Our Vision is to be the leading provider of tech-enabled, value-based healthcare for individuals with complex needs — with a focus on Medicaid beneficiaries and those who are dually eligible for Medicare and Medicaid. 
+Cityblock Mission and Vision
+Source: 2023 Equity in Action Report
+
+Cityblock Theory of Change
+We were founded on a clear theory of change: 
+In order to meaningfully improve health outcomes and increase the value of care for those who have been left behind, we need a new approach for how care is delivered, one that centers on high-touch member engagement, provides high-quality care that integrates physical, behavioral and social health, and is supported by best-in-class data and technology.
+Source: 2023 Equity in Action Report
+
+Cityblock Theory of Change
+We were founded on a clear theory of change: 
+In order to meaningfully improve health outcomes and increase the value of care for those who have been left behind, we need a new approach for how care is delivered, one that centers on high-touch member engagement, provides high-quality care that integrates physical, behavioral and social health, and is supported by best-in-class data and technology.
+Source: 2023 Equity in Action Report
+
+2024 Product Vision
+Care Systems
+
+Care Systems Mission
+Scale the impact of our Care Teams on Member Experience and Total Cost of Care
+
+Care Systems Mission
+Scale the impact of our Care Teams on Member Experience and Total Cost of Care
+
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+“Scaling” is different than “growing” - and often happens in a predictable order of operations  
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes are automated, high value, and increasingly “easy” to do. 
+
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+Processes are automated, high value, and increasingly “easy” to do. 
+Most of our efforts over the last years have been focused here. It takes significant time to move through just this stage.
+
+TOC : 1 + Year
+Regular Check ins : 6 Months
+Scheduling : 9 months
+
+“Scaling” is different than “growing” - and often happens in a predictable order of operations  
+
+Care Systems Mission
+Scale the impact of our Care Teams on Member Experience and Total Cost of Care
+
+The impact of care teams happens through member encounters and care coordination
+Proactive 
+Reactive
+Proactive encounters are the things we execute on without a trigger - things like regular check ins, scheduled visits, goals teams set for themselves, their team, and their members. 
+Reactive encounters are triggered by an event, internal or external, driven by the member or a new piece of information.
+Existing examples are regular check ins, scheduled clinical appointments, daily work through established tasks
+Existing examples are IP and ED admits, discharges, and members requesting urgent care or ED @ home
+
+In the future… regular check ins will be even more predictable and proactive. Care Team ceremonies will be impactful and a great use of time. 
+In the future … we may have stronger approaches for managing non urgent member inbounds, and changes in member health status 
+
+WORK | MEMBER ENCOUNTERS
+WORK | MEMBER ENCOUNTERS
+
+The impact of care teams happens through member encounters and care coordination
+Proactive 
+Reactive 
+Care Delivery Team + Core Services Workgroup
+TOC Team + Acute Services Workgroup
+
+WORK | MEMBER ENCOUNTERS
+WORK | MEMBER ENCOUNTERS
+
+Care Systems Focus Areas for H1 2024
+
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+Processes are automated, high value, and increasingly “easy” to do. 
+
+Objectives for the Care Systems Product Group cascade from company goals
+In Q1 2024, the Care Systems Product Group will  be focused on tools and processes that support:
+Growth & Implementation | Achieve $1.4B in ARR (signed & launched by January 31, 2025) and $1.105B 2024 Revenue (in-year)
+TCOC | $12.7M TCOC reduction (+390 bps gross margin improvement on existing contracts) by executing our core services & programs effectively and efficiently
+Engagement | Enhance the efficacy and efficiency of our engagement strategies, which fundamentally impacts our ability to improve quality and outcomes for members
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+Slide 🪦yard
+
+I. Growth & Implementation
+In order to scale to our ambitions, we need to enable faster and easier Commons configuration to reduce complexity and improve speed to implement. We must also nail our impending go lives, even without this tool kit. 
+Identified Gap
+New Build to Close the Gap
+Projected Timeframe
+In current state, there is no ability to configure Commons tooling for specific market and/or partner outreach requirements
+Connection Cadence Configurator
+MVP in Q1, release in XX
+Screening Tool Configurator
+MVP in Q1, release in XX
+Business Rule Configurator
+MVP in Q1, release in XX
+We must demonstrate responsiveness to new partners and successfully launch new lines of business
+Respond to All P0 New Dawn Issues Within 24 Hours
+Now through end of Q1
+Goals currently in refinement, here
+
+II. Engagement
+The Care Systems team will be focused on longitudinal engagement of members, from the initial welcome experience through ongoing regular check-ins
+Company Focus
+Product Support
+Member Experience
+Welcome Activities (Onboarding)
+Understand current state performance and design ideal vision for member welcome activities
+Develop approach for overhauling Commons Member States (note: likely not productionized until Q2)
+Inbound Call Routes
+Understand current state performance and design ideal vision for inbound calls (e.g., MSC to longitudinal or acute teams)
+Core Services Adherence Rate
+Regular Check-Ins
+Increase % members meeting regular check-in cadence
+Reduce check-in workflow cancellation rates
+Demonstrate proof of concept in re-engaging members with lapsed engagement (e.g., lost to contact)
+Primary Care Engagement
+Provide enhanced visibility into (1) PCP attribution and (2) date of last PCP visit (internal and external)
+Success measures will be aligned with market KPI scorecards to ensure ongoing alignment between product development and market efforts
+Goals currently in refinement, here
+
+III. Total Cost of Care
+Market Operating Plan (MOP) Initiative
+MIC
+TOC
+Core Svcs
+CoCM
+Adv BH
+Others
+Increase rate of MIC Urgent Care handoff with correct attempted action within 4 days
+Enhance efficiency of TOC workflows through checklists and process automation
+Introduce Advanced BH eligibility and enrollment data signals into Commons
+Improve adoption of care pathway and goal infrastructure
+Improve % of FVs who are on track for regular check-ins, have a SAP, and have an active goal
+Design a renewed skill building strategy for member “primaries” and care team collaboration
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+Product Team Focus Area
+TCOC work must be closely tied to MOP initiatives to ensure company-wide focus on the right drivers of success
+Goals currently in refinement, here
+
+Feature Sneak Peeks 👀
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+Across my panel, which members do I focus on?
+Prioritization at a glance with suggested care activities tailored to steps of the member journey (onboarding, ongoing care)
+
+Prioritization logic is configurable by key operations and data stakeholders.
+Panel Management
+
+Right now we ask teams to look at a variety of tools to prioritize their work. 
+Three themes that have surfaced in our user research are prioritization, proactiveness, and curation. How do these priorities fit into the reality of someone’s work day? Dovetail Which signals do we present to a care team member and how can they dive deeper and execute on the next step?
+
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+For my member, what are key focus areas? 
+Care teams upskilled in motivational interviewing, trauma-informed care & identifying root cause drivers of member health in order to understand what matters most and identify impactful focus areas.
+
+Data signals will inform the work we do for our members, prompting users with suggested care activities.
+Suggested care activities on Member 360
+Initial Care Planning: During the onboarding process, care delivery would likely be focused on creating an initial care plan. What does it looks like to better translate assessments and all the data we have on a member, to an initial set of items that the care team and member would focus on? 
+
+RN or CHP would schedule the initial call. Then with an updated pathway suggestion toolset or goal template library, how can we better support care teams in creating an initial care plan. 
+
+Care teams think of care planning broadly, as all longitudinal member interactions and care delivery. This means, we may be neglecting the act of clear & collaborative goal setting. ref
+
+
+For a focus area, what are the next steps?
+Commons recommends next best actions based on data signals
+
+Template libraries are more inclusive of all interventions including member goals and care team workflows.
+
+We share goals with members to promote care plan progress and self-management
+
+Care plan template library
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+A centralized work surface
+
+Quick access to the context and tools care teams need to get their work done.
+
+
+Problem - Care teams have to navigate to too many different surfaces to gather information about work to be done, and then to document and execute their work (notes, tools, appointments, etc.)
+Vision - Provide a single surface that brings together all of the context and tools the care team needs to get their work done.
+
+Automated task progress tracking
+
+At-a-glance visibility into what work has been completed and what’s outstanding. 
+Problem - It’s difficult for care teams to understand where a member is in a multistep process, what work is done, and what work still needs to be done. 
+
+Vision - Commons provides at-a-glance visibility into all work that has been completed and all work that’s still outstanding to ensure care teams are delivering the highest quality of care to all of our members, every time.
+
+Dynamic workflow tasks
+
+Customizable work instruction based on market, payor, risk profile, and more.
+Problem - Workflows prescribe a one-size-fits all process to care teams, forcing teams to hold context in their heads about any process variations that are needed based on different member attributes.
+
+Vision - Workflows are customizable and can provide dynamic instruction based on market, payor, line of business, risk profile, and many other member attributes when we need our care teams to follow different processes and take different steps. 
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+Configuration Layer
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+User-built workflows
+
+Tooling to enable non-technical staff to create and update workflows and business rules.
+Problem - All updates to Workflows and Business Rules are currently made in code by the engineering team, which is costly, inefficient, and leads to Workflows falling out of date.
+
+Vision - Provide a suite of tools that enable non-technical staff to design, build, and update existing Workflows and Business Rules.
+
+Commons Configurator - Location build tools
+Build out the basics for market and partner management onboarding and maintenance, removing engineers from the critical path to scale 
+
+What do we need to succeed?
+Given how we are organized, there are key areas where cross group and cross company staffing is required
+
+In 2024 there are four key programs central to our total cost of care success
+
+Observability
+Consistency
+Efficacy
+Controllability
+Efficiency
+Workflows
+
+Business Rule Builder
+Workflow Builder
+
+Regular Check Ins
+
+Cadence Configurator
+
+Regular Check Ins
+
+Recommended Care Activities
+
+Regular Check Ins
+
+Panel Management
+
+Handoffs: Onboarding
+
+Alignment on current state of onboarding + “meeting your team” 
+
+Workflows
+
+Automated Task Progress 
+
+Workflows
+
+Expanded Workflow Coverage
+
+Regular Check Ins
+
+Care Plan Content Overhaul
+
+Workflows
+
+Dynamic Workflow Tasks
+
+Handoffs : Acute
+
+MIC -> Longitudinal Handoff Success
+
+TOC -> Longitudinal Handoff Success
+
+
+Foundations
+ Proactive Compliance Enhancements
+
+
+
+Foundations
+
+Commons Configurator
+
+Initiatives where central cross functional staffing is required
+Handoffs
+
+Revamp processes for “lost contact” members (Long -> OS) 
+
+Handoffs : Onboarding 
+
+Member Statuses
+Work needs to be done to align Commons member statuses with current processes
+
+Re-build or deprecate the intake checklist. 
+
+🧪Data Science
+🏴‍☠️ MAR
+🚑 Clinical 
+🧪
+🧪
+🚑
+🚑
+🚑
+🏴‍☠️
+🏴‍☠️
+🏴‍☠️
+
+All Programs must be shared with Markets - and that collaboration must be structurally enabled
+
+A Lesson From Core Services Foundations
+
+While our xfn team was strong to begin with, with Market Ops fully integrated. Embedding Libby into the working team accelerated our progress, influence, and decision making capability significantly. For any major company initiative - like regular check ins, we need market representation at the highest level. We need to set the expectation that these leaders both “lead” (offer direction)  and “do” (do work to bring that direction to life) in order for these programs to be successful. The teams that matter most to get things done, are the explicit cross functional teams we design. 
+
+For upcoming major programs we should ask the following questions, and then structurally enable focused teams: 
+Who is the key leader driving this body of work?
+What teammates across the entire organization do they need dedicated to get that work done?
+
+Product 💙 Markets
+
+Observability
+Consistency
+Efficacy
+Controllability
+Efficiency
+Workflows
+
+Business Rule Builder
+Workflow Builder
+
+Regular Check Ins
+
+Cadence Configurator
+
+Regular Check Ins
+
+Recommended Care Activities
+
+Regular Check Ins
+
+Panel Management
+
+Handoffs
+
+Alignment on current state of onboarding + “meeting your team” 
+
+Workflows
+
+Automated Task Progress 
+
+Workflows
+
+Expanded Workflow Coverage
+
+Regular Check Ins
+
+Care Plan Content Overhaul
+
+Workflows
+
+Dynamic Workflow Tasks
+
+Handoffs
+
+MIC -> Longitudinal Handoff Success
+
+TOC -> Longitudinal Handoff Success
+
+
+Handoffs
+
+Alignment on current state of onboarding to OS - Longitudinal process
+
+Foundations
+ Proactive Compliance Enhancements
+
+
+
+Foundations
+
+Commons Configurator
+
+Handoffs
+
+Revamp processes for “lost contact” members (Long -> OS) 
+
+Member Statuses
+
+Work needs to be done to align Commons member statuses with current processes
+
+
+Care Systems group leads
+Operations+ Clinical Partners
+Exec Sponsor
+Others as needed
+Care Delivery Team
+TOC Team
+Member Profile Team
+Embedded
+NEVES
+
+
+A quick mental model for Care Activities
+At their core, the activities we need to scale share a consistent framework
+
+Framework for context and work layers
+Process must be considered across three levels of user context and experience
+Panel Level
+Member Level
+Process Level
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+… but how can Care Systems drive MOP outcomes?
+MOP Programs
+Member Encounters
+Care Team Activities
+Commons
+
+V1.1
+
+2024 Product Vision
+Care Systems
+
+Care Systems Mission
+To impact total cost of care, consistently deliver on our brand promises at scale
+
+By 2025, we must be consistently delivering on our promises at scale
+We promise members something different, but today with the exception of localized care team heroism -  we often fall short of those promises at scale. 
+
+In 2024, we must ruthlessly refocus as a single cityblock team on the central member journey delivering on the moments that matter, as a mechanism to hit our goals
+
+
+
+“Scaling” is different than “growing” - and often happens in a predictable order of operations  
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+Processes are automated, high value, and increasingly “easy” to do. 
+
+“Scaling” is different than “growing” - and often happens in a predictable order of operations  
+Consistent
+Effective
+Observable
+Controllable
+Efficient
+The ability to see an observe the activity, understand current state, and measure impact of any changes. 
+
+This is the first stage of any scaling endeavor
+Ensuring the activity happens as often as needed, by the people who need to do it. 
+Consistently improving the impact of the activity. Making sure it meets the evolving needs of the users and members. 
+Processes can be managed and modified at scale. We can make changes and updates easily. 
+Processes are automated, high value, and increasingly “easy” to do. 
+TOC -> ~ 1 Year
+Regular Check Ins -> ~3 quarters
+Scheduling -> 3 quarters
+BOI -> 3 quarters
+
+Care Systems 2024 Vision
+Consistent, integrated care. 
+Satisfied care teams.
+
+In 2024 there are four key programs central to our total cost of care success
+
+
+In 2024, Care Systems will focus on establishing and scaling excellence in four key member moments
+
+2024 Care Systems Strategy & Tactics
+Invest in core member and care team value props, with scalable tech and process
+
+In 2024, we’ll focus on establishing and scaling excellence in four key member moments
+Key Constraints on Success 📉👎
+
+Inconsistent and unclear panel prioritization
+Work Processes outside of core systems - unobservable, and unautomated. 
+Limited to no visibility on core member touch points like inbound calls or onboarding calls. 
+Limited data to trigger reactive help 
+Poor coordination between siloed cityblock teams
+Teams work around our tools, when we can’t move fast enough to configure for them
+Limited and ineffective skill building and competency assurance for care teams. 
+Teams uncertain what to focus on with a member. 
+
+
+Then, we’ll focus on 5 key areas* to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#1 Easy, proactive prioritization across panels, and member focus areas
+#2 Effective, efficient, and automated workflow coverage
+#3  Effective internal member handoffs and loop closure
+#4 Strategic, consistent compliance investment
+#5 Step level increases in operator led Commons configuration
+*Key areas does not mean these are the only things. About 25% of our time will be spent maintaining our systems, fixing bugs, implementing new business, and tackling opportunistic projects as warranted. 
+
+Framework for care activities
+Go forward mental model to thread all the expressions of work
+Panel Level
+Member Level
+Process Level
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#1 Easy, proactive prioritization across panels, and member focus areas
+
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Q1
+Q2
+Q3
+Q4
+
+
+
+
+
+
+
+
+
+Recommended Care Activities: Existing Pathways, Quality, BOI
+Panel Management 4.0
+TOC Workflow Prioritization
+Care Delivery
+TOC
+Member Profile
+Ops Design
+To be completed collaboratively based on team roadmaps
+Member Anomaly detection(?) for discussion  / TOC Care Delivery collab? 
+Member Profile - Add details about advanced BH and pregnancy and maybe talk about others that could come up. 
+
+Across my panel, which members do I focus on?
+Prioritization at a glance with suggested care activities tailored to steps of the member journey (onboarding, ongoing care)
+
+Prioritization logic is configurable by key operations and data stakeholders.
+Panel Management
+
+Right now we ask teams to look at a variety of tools to prioritize their work. 
+Three themes that have surfaced in our user research are prioritization, proactiveness, and curation. How do these priorities fit into the reality of someone’s work day? Dovetail Which signals do we present to a care team member and how can they dive deeper and execute on the next step?
+
+
+For my member, what are key focus areas? 
+Care teams upskilled in motivational interviewing, trauma-informed care & identifying root cause drivers of member health in order to understand what matters most and identify impactful focus areas.
+
+Data signals suggest care activities, informing the work we do for our members.
+
+Suggested care activities on Member 360
+Initial Care Planning: During the onboarding process, care delivery would likely be focused on creating an initial care plan. What does it looks like to better translate assessments and all the data we have on a member, to an initial set of items that the care team and member would focus on? 
+
+RN or CHP would schedule the initial call. Then with an updated pathway suggestion toolset or goal template library, how can we better support care teams in creating an initial care plan. 
+
+Care teams think of care planning broadly, as all longitudinal member interactions and care delivery. This means, we may be neglecting the act of clear & collaborative goal setting. ref
+
+
+For a focus area, what are the next steps?
+Commons recommends next best actions based on data signals
+
+Template libraries are more inclusive of all interventions including member goals and care team workflows.
+
+We share goals with members to promote care plan progress and self-management
+
+Care plan template library
+
+Single work surface for Workflows
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+
+Successful care teams == successful members
+#2 Effective, efficient, and automated workflow coverage
+
+Invest in primitives that enable effective, efficient, and reliable care and care coordination
+Care Delivery
+TOC
+Member Profile
+Ops Design
+Q1
+Q2
+Q3
+Q4
+
+
+
+
+
+
+
+
+
+Task Checklist
+Workflow Checklist Automation
+Floating Content Composer
+Dynamic workflows
+Surface and aggregate TOC clinical context
+Correct mistakes, undo, re-open workflows
+Improve workflow usability and automation
+
+A centralized work surface
+
+Quick access to the context and tools care teams need to get their work done.
+
+
+Problem - Care teams have to navigate to too many different surfaces to gather information about work to be done, and then to document and execute their work (notes, tools, appointments, etc.)
+Vision - Provide a single surface that brings together all of the context and tools the care team needs to get their work done.
+
+Automated task progress tracking
+
+At-a-glance visibility into what work has been completed and what’s outstanding. 
+Problem - It’s difficult for care teams to understand where a member is in a multistep process, what work is done, and what work still needs to be done. 
+
+Vision - Commons provides at-a-glance visibility into all work that has been completed and all work that’s still outstanding to ensure care teams are delivering the highest quality of care to all of our members, every time.
+
+Dynamic workflow tasks
+
+Customizable work instruction based on market, payor, risk profile, and more.
+Problem - Workflows prescribe a one-size-fits all process to care teams, forcing teams to hold context in their heads about any process variations that are needed based on different member attributes.
+
+Vision - Workflows are customizable and can provide dynamic instruction based on market, payor, line of business, risk profile, and many other member attributes when we need our care teams to follow different processes and take different steps. 
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#3  Effective internal member handoffs + coordination
+Care Delivery
+TOC
+Member Profile
+Ops Design
+Q1
+Q2
+Q3
+Q4
+
+
+
+
+
+
+
+
+
+To be completed collaboratively based on team roadmaps
+MIC → Longitudinal: Maintain and Enhance
+Inbound Call + Text Routing: Longitudinal Teams
+Onboarding:  OS → Longitudinal Teams
+TOC -> Longitudinal: Redesign
+Escalations
+TOC OS: Final Launch & Maintain
+Lapsed Members back to OS
+
+Longitudinal Teams must be cohesive and coordinated with our central outreach, MSC, and Acute Care teams
+Longitudinal <> OS
+Longitudinal <> Acute
+Member Onboarding
+
+Return to OS for re-engagement
+Call / Text Routing
+Post TOC Handoff
+
+Post MIC Handoff
+2024 Focus will be on comprehensive integration of care across our acute, MSC, OS, and Longitudinal Teams
+Case Conference
+
+Longitudinal Teams must be cohesive and coordinated with our central outreach, MSC, and Acute Care teams
+OS
+Longitudinal
+Return to OS for re-engagement
+Call / Text Routing
+Post TOC Handoff
+2024 Focus will be on comprehensive integration of care across our acute, MSC, OS, and Longitudinal Teams
+Case Conference
+Acute
+Post MIC Handoff
+Member Onboarding
+OS/TOC pilot?
+
+x
+Clear expectations are established between teams for when / how a member is appropriately handed off with clear points of “ownership” transition 
+Users have the right tools / forums to exchange member & interaction information to ensure seamless member experience through handoff 
+The system nudges users when a handoff occurs, ensuring no members slip through the cracks 
+Teams have the reporting tools they need to monitor handoffs between teams 
+x
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#4 Strategic, consistent compliance investment
+Care Delivery
+TOC
+Member Profile
+Ops Design
+Q1
+Q2
+Q3
+Q4
+
+
+
+
+
+
+
+
+
+To be completed collaboratively based on team roadmaps
+Consistent Investment in Singular Compliance Backlog
+Linking Goals to originating assessments
+Collecting Goal status change reasons and notes
+Ensure appropriate care plan publishing
+Documenting approval of external care team members 
+Ensuring appropriate care plan publishing will take care of multiple items on the compliance backlog. Still working on the exact approach but tentatives set as a nudge , notification or task that work needs to occur.  we think we can can something that improves this in the near term pending technical investigations. 
+
+Established a formal process for prioritizing and planning around compliance related development
+
+
+Member Profile team has taken responsibility for the compliance backlog for Commons. 
+Backlog has been integrated in our existing Fresh Service and Clickup Share Product Backlog workspace. 
+Using an established P0/P1/P2 ranking system we are working through this list  
+Bi-weekly design review meetings with compliance, market (MA), analytics stakeholders for sign off on any new development. 
+Majority of development will done by Member Profile but also working with our other product teams for any dependencies or for any projects that
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#5 Step level increases in operator led Commons configuration
+Care Delivery
+TOC
+Member Profile
+Ops Design
+Q1
+Q2
+Q3
+Q4
+
+
+
+
+
+
+
+
+
+
+To be completed collaboratively based on team roadmaps
+Business Rules UI
+Workflow Builder
+Commons Configurator
+Assessment and Tool Builder
+Regular Check In: Cadence Configurator
+
+User-built workflows
+
+Tooling to enable non-technical staff to create and update workflows and business rules.
+Problem - All updates to Workflows and Business Rules are currently made in code by the engineering team, which is costly, inefficient, and leads to Workflows falling out of date.
+
+Vision - Provide a suite of tools that enable non-technical staff to design, build, and update existing Workflows and Business Rules.
+
+Commons Configurator - Location build tools
+Build out the basics for market and partner management onboarding and maintenance, removing engineers from the critical path to scale 
+
+Key Risks and Asks
+Stand up new cross functional focus areas, with leader buy in
+
+Where we need cross functional org level focus
+Project
+Description
+Partners
+Simplify Member Journey in Systems + pay down debt
+Overhaul our Commons member statuses to match a simpler and real member journey, and introduce sub- statuses for greater flexibility in process. 
+Analytics, MAR, Markets,
+Onboarding
+MAR
+Skill Building
+There is a major opportunity to enhance our skill building toolkit, 
+Care Team Recommendations
+Data Science, Clinical Innovation, 
+
+Major Technology Opportunities we are not addressing
+Knowledge management and upskilling
+AI summarization
+Member Facing Digital Tools
+
+Other Tested Slides
+
+Onboarding
+What is our target member onboarding experience? 🎯
+What is onboarding? 
+A process to manage and track the movement of a member from the initial outreach funnel into an ongoing longitudinal engagement with their care team. A member is fully onboarded when they have had any successful connection with their care team, they have completed all intake assessments, they have agreed to baseline consents, and they have a documented care plan with at least one shared goal. [Figma Link from working session]
+
+Outbound call to Member
+Call from Outreach Specialist
+Call from TOC Nurse or TOC OS
+Community Outreach + Events
+Inbound from Member
+Response to a scaled comms
+Webform completion
+Inbound call to MSC
+Walk into Hub
+First Contact
+Goal of interactions
+Address presenting concern
+Sell Cityblock, and the value we offer. 
+Collect essential contact information
+Warm Handoff or schedule with LCT
+
+Initial Engagement
+Longitudinal Care
+Meeting your care team
+Goal of interactions
+Resolve core concern
+Re-iterate Cityblock value props
+Schedule welcome session. 
+
+
+Welcome Session with Point Person (Kicking off Regular Check Ins)
+Structured welcome call to collect core information, discuss member goals, and re-introduce Cityblock offerings.
+Work through onboarding checklist
+
+Asking for help
+(aka Urgent Need)
+Urgent Help
+Provider appt
+CHP Support
+BH Referral
+MIC
+Other Escalation
+Proactive Check Ins
+Goal of interactions
+Welcome member to cityblock, explain value props. 
+Complete onboarding checklist
+Generate Care Plan
+Schedule Follow Up
+
+
+Goal of interactions
+Make Progress on existing goals
+Establish new focus areas
+Onboarding Checklist
+Set of core onboarding elements to be collected, in the welcome session, the first proactive check in, or other follow up calls. 
+
+MAR
+Care Systems
+🤝
+Regular Check In
+Follow up
+New Goals or Barriers
+Reminder of cbh offerings
+
+Are members supported after conclusion of an Acute Cityblock event / program? 
+MIC -> Longitudinal 
+The v2 redesign in Q4 set expectations and increased visibility but we must monitor performance and outcomes to understand where we fall short from the vision 
+TOC -> Longitudinal 
+A handoff process exists but it is missing the inclusion of Core Services foundations, effective tooling, nudges and reporting to ensure success 
+VISION
+Clear expectations are established between teams for when / how a member is appropriately handed off with clear ownership transition point
+Users have the right tools / forums to exchange member & interaction information to ensure seamless member experience through handoff 
+The system nudges users when a handoff occurs, ensuring no members slip through the cracks 
+Teams have the reporting tools they need to monitor handoffs between teams 
+Intentional handoff processes following MIC urgent care visits and TOC program completion
+
+Are we able to effectively support our members when they ask for help? 
+Inbound member call/text routing to get our members to the right care team member for support 
+By the Numbers 
+Cityblock receives 20k inbound calls per month 
+Less than ~200 inbound texts per month, down from ~600 earlier this year 
+45% of calls to MSC are to get in contact with a care team member 
+24% of inbound calls are disconnected within first 30 seconds
+Users have the tools they need to efficiently route member calls in a timely manner, with little to no added administrative efforts on clinical staff 
+We have processes to ensure member need resolution to support trust building with clear operational visibility 
+Right systems and reports in place to monitor inbound call routing 
+CURRENT STATE
+VISION
+Calls can’t be routed to all care team members because not all users routinely utilize TalkDesk, our call routing system 
+We have little to no insight into whether member needs are in fact resolved upon transfer 
+We have little visibility into call routing operations in current systems
+MSC tooling and processes do not allow for flexibility in member routing based on member info / program engagement  
+System-led nudges / tooling to help MSC route member calls to the “right” person based on member need 
+
+What will initial care plan development & regular check-ins (care planning) look & feel like by the end of 2024?
+Care planning is everything we do for our members; we may be neglecting the act of clear & collaborative goal setting
+Care planning is redefined as two distinct, valuable activities, enabled by Commons tooling. 
+Initial care plan development: we listen to what matters most, “hook” members with impactful & meaningful interventions we can deliver, and develop a plan
+Regular Check-Ins: we deliver on the promises made, help members make progress against goals & celebrate shared achievements
+We see infrequent care plan updates & progress
+Care plan quality varies, impacting its usefulness as a communication & coordination tool across teams
+Care plans are high quality, enabling teams to work, coordinate care & communicate efficiently
+Care planning/the care plan is more valuable for care teams than members, despite member interest in this service 
+We are not providing members with sufficient access to physical & digital member-facing care plans 
+Members have access to physical & digital copies of their member-centric care plan to support self-management 
+Commons users have unmet documentation & decision support needs 
+Commons enables efficient care planning documentation and aids users in decision making 
+Today…
+By End of 2024…
+How We Get There…
+Redefine & reinforce care plan purpose 
+Team skill building & reference content development: motivational interviewing, identifying root cause drivers, trauma informed care, shared decision making, building high quality care plans, goal prioritization
+Clear care team R&R
+Define expectations & process
+Digital checklists / workflows
+Panel management tooling
+Revamp goal template library
+Care plan suggestions & signals
+Simplified documentation 
+Member-centric physical & digital care plans
+Leverage scaled comms 
+“I think what motivates [members] is seeing progress and what motivates them is the feeling heard aspect” - ARN
+“I think once we get to the point where everybody is comfortable with [care planning], it'll be a lot better than it is” - RNCM
+“[what members] appreciate most is the engagement, us calling them reaching out to them following up.. that's what I think is the biggest motivation… but you can't call with no direction. So the care plan is the direction” - RN
+Today, care planning feels like any any everything we do for our member, and the care plan / care planning discussions vary in quality / impact
+In 2024, we will shift to thinking about care planning as two distinct activities: initial care plan development when you first meet your care team & meaningful, high quality regular check ins every 30/60/90 days to make progress against the care plan. The care plan surface will create visibility to enable coordination & communication across teams. 
+We will enable this through team skill building, process redesign, scaled comms & digital tooling such as suggested activities, panel management, workflows, templates
+
+The purpose & intent of case conference varies today. Some case conference discussions are more valuable for care teams than others.
+Case conference guidance (who & when) varies greatly today
+We are not properly prioritizing members for discussion & see case conference bottlenecks
+Case conference is a resource-intensive activity
+Case conference is an effective & efficient use of care team time
+Case conference tracking is manual & relies heavily on CTLs
+Commons tooling enables efficient & painless case conference tracking & scheduling 
+Today…
+How We Get There…
+We take a cadenced approach to case conference
+Case conference is productive, focused, and action-oriented. It is a forum for problem solving & helping to unblock teammates who need support 
+We take a needs-based approach, case conferencing members who need it the most
+Redefine case conference purpose & intent 
+Clear attendee R&R 
+Escalation tooling 
+Digitally enabled tracking & scheduling
+Huddle vs. case conference guidance
+Clear activity expectations & process
+Simplified & template enabled documentation
+Strategy for LCT vs. specialty program case conference
+Strategy for re-activation
+I think it would be a lot more beneficial to [case conference] members that are engaged or that we’re actually struggling with - CHP
+“We attend all [case conferences] every Tuesday and Thursday… Even if you don't have any [members] to present, you're usually still there” - RN
+By End of 2024…
+What will case conference look & feel like by the end of 2024?
+Today, case conference is a resource intensive activity, we are not effectively prioritizing members for discussion, and case conference discussions vary in quality/value. 
+In 2024, case conference will be an effective use of case team time, result in meaningful, action-oriented discussion, and take a needs based approach. 
+We will focus on resource optimization, member prioritization efforts, improved tracking tooling, data signals to indicate case conference needs, and escalation tooling.
+
+First, we need to change our approach to product* development, or we won’t achieve our vision
+A focus on Cityblock goals and value props
+A focus on Care Team and Member Value Props
+Tactical, reactive builds to “hot” initiatives
+A clear, 2 year strategy to nail our brand promises. 
+A divided Central and Market mental model
+A single organizational shared strategy + KPIs - with no middle men between care teams  and product
+A “stick,” control-based and punitive care team management style
+A “carrot,” celebratory, and continuous improvement style of management
+*Product here  is not the function, but the discipline of designing, building, ‘selling’, and supporting  a compelling offering for care teams, members, and partners. 
+Informal, impromptu user support
+Clearly funded and scoped tool and process support channels for care teams
+Reliance on engineering for customization
+A clear strategy with aligned upon elements of operator configurability.
+
+Framework for longitudinal care
+Go forward mental model to thread all the expressions of work
+All the work that we ask care teams to do, whether it be proactive or reactive, follow the same life cycle. It starts with a data signal, then helping our teams understand why they’re seeing that, then supporting care teams in preparing for, executing on, and following up on the relevant activity. How does the platform support teams in structuring their workflows and automating when possible for the best user and member experience. 
+
+
+By 2025, we must be consistently delivering on our promises at scale
+We promise members something different, but today with the exception of localized care team heroism -  we often fall short of those promises at scale due to inconsistent strategy around and investment in tooling + the success of field teams, inconsistency in our contract and implementation processes, and ineffective training and change management in a remote environment
+
+In 2024, we must ruthlessly refocus as a single cityblock team on the central member journey delivering on the moments that matter, as a mechanism to hit our goals
+initial trust building + influence when we first meet a member digitally, virtually or in person. 
+the onboarding experience to know what to focus on, and how we can most help
+our proactive care + care planning to stay present for our members
+our reactive acute services to be there when members are at their lowest
+
+To do this, we need to explicitly measure, and hold ourselves accountable to the success and satisfaction of our field teams as well as our members. If we don’t show up explicitly for them, they cant show up for our members.
+
+We’ll know its working if by the end of the year every member reports high trust in their longitudinal care teams, receives consistent proactive support to manage and achieve their goals, and rapid reactive support when things go wrong. Care teams should report that their tools and systems help them, and that it’s easy and obvious to find what they need, know what to focus on to drive member outcomes, and do their work efficiently.
+
+
+
+
+
+These focus areas will create the environment for a 2025 layering of novel clinical programs and robust population health initiatives
+
+
+Consistent, trusted, repeatable Core Services and Acute Care @ Scale
+Targeted, novel, population + quality programs
+Massive Market Expansion
+2024
+2025
+2026
+Care Model + Technology Experimentation + Innovation 
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#1 Easy, proactive prioritization across panels, and member focus areas
+
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Panel Management
+Pathway Suggestions and Goal Templates
+Recommended Care Activities
+Care Delivery Team
+Care Delivery Team
+Care Delivery Team
+Member Signals
+Member Profile Team
+TOC prioritization
+Member Profile - Add details about advanced BH and pregnancy and maybe talk about others that could come up. 
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+
+Successful care teams == successful members
+#2 Effective, efficient, and automated reactive workflows
+
+Invest in primitives that enable effective, efficient, and reliable care and care coordination
+Workflow Object Embedded Work
+Add a note in a window
+Member Summary and Since you last viewed summary
+TOC Team
+TOC Team
+TOC Team
+Workflow checklists
+Care Delivery
+TOC
+Member Profile
+Ops Design
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#3  Effective internal member handoffs + coordination
+Handoffs (MIC)
+Inbound call routing to Long. Team 
+Onboarding
+Case Conf? 
+TOC to Long Care
+Empanelment? 
+“Escalations”
+Care Delivery
+TOC
+Member Profile
+Ops Design
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#4 Strategic, consistent compliance investment
+Compliance Backlog Investment
+Member Profile Team
+Care Delivery
+TOC
+Member Profile
+Ops Design
+
+Then, we’ll focus on 5 key areas to make sure care teams are successful and satisfied delivering member moments 
+Successful care teams == successful members
+#5 Step level increases in operator led Commons configuration
+Commons Configurator
+Workflow Builder
+TOC Team
+Member Profile Team
+Assessment + Tool Builder
+Care Delivery
+TOC
+Member Profile
+Ops Design
+
+❌ Consistent
+❌ Effective
+❌ Efficient
+❌ Observable
+❌ Controllable
+❌ Consistent
+❌  Effective
+❌  Efficient
+✅ Observable
+✅ Controllable
+❌Consistent
+🧐 Effective
+🧐 Efficient
+❌ Observable
+❌ Controllable
+✅ Consistent
+❌ Effective
+❌ Efficient
+✅  Observable
+✅  Controllable
+Problems to solve
+Onboarding, intake checklist, and new processes mean there is fragmentation and heterogeneity in practice. 
+
+Problems to solve
+These are of varying efficacy
+Regular check ins are inefficient, and often not focused on the most impactable areas. 
+
+Problems to solve
+We have no visibility into our inbound calling reasons, or quality of our response. 
+Anecdotally members often are trying to reach a member of their team, and wind up in phone tag. 
+
+
+Problems to solve
+While we support reacting for TOC, we dont react to other key changes in member health. 
+Processes remain largely manual and click heavy. 
+Interventions are working, but could be even more innovative and adaptive to member needs.
+
+Care Team Activities
+Handoff from OS
+Initial Care Plan Creation
+Onboarding Checklist
+Initial case conference? 
+Care Team Activities
+Regular Check Ins
+Check In prep
+Discussion + focus areas
+Follow ups 
+Goal Setting and Care Plan Progress
+Care Team Activities
+Inbound calls
+Transfer to longitudinal teams
+First call resolution
+Care Team Activities
+Transitions of Care
+Change in Health Status 
+Reactive Follow Ups
+
+
+V1
+
+2024 Product Vision, Strategy and Tactics
+Care Systems
+
+2024 Care Systems Vision
+Consistently deliver on our brand promises at scale
+
+By 2025, we must be consistently delivering on our promises at scale
+We promise members something different, but today with the exception of localized care team heroism -  we often fall short of those promises at scale due to inconsistent strategy around and investment in tooling + the success of field teams, inconsistency in our contract and implementation processes, and ineffective training and change management in a remote environment
+
+In 2024, we must ruthlessly refocus as a single cityblock team on the central member journey delivering on the moments that matter, as a mechanism to hit our goals
+initial trust building + influence when we first meet a member digitally, virtually or in person. 
+the onboarding experience to know what to focus on, and how we can most help
+our proactive care + care planning to stay present for our members
+our reactive acute services to be there when members are at their lowest
+
+To do this, we need to explicitly measure, and hold ourselves accountable to the success and satisfaction of our field teams as well as our members. If we don’t show up explicitly for them, they cant show up for our members.
+
+We’ll know its working if by the end of the year every member reports high trust in their longitudinal care teams, receives consistent proactive support to manage and achieve their goals, and rapid reactive support when things go wrong. Care teams should report that their tools and systems help them, and that it’s easy and obvious to find what they need, know what to focus on to drive member outcomes, and do their work efficiently.
+
+
+
+
+
+Our focus for last year was on foundations, so why are we  still talking about scale + foundations? 
+
+
+
+
+56% of Cityfolx feel they don’t have the systems and processes they need to support getting their work done effectively. It drops to 51% when you isolate to just care teams. 
+Care teams report hours of manual work to manage key rules based processes and aggregating member context for ceremonies like case conference. 
+“I only use Inbox at the end of the week (if at all) as an afterthought. It often contains too many tasks that aren’t relevant to my day-to-day or even week,” - NY CHP
+“After the re-org my case-load doubled and now the Inbox has become too difficult to manage.” - NY CHP
+Despite a 30% utilization rate in aggregate for September, we are not sure where the other time is going for our providers. 
+
+We consistently receive CAPs related to routine care plan + encounter documentation. 
+Today, despite our desire, we are unable to drive broad scaled change across our programs, and instead invest in market by market custom training, roll outs, and testing. 
+
+“Designer: Are you all using acuity or segmentation today? 
+CTL: Both.”
+
+“Scale” means that we are consistent, efficient, observable, and controllable in our delivery   
+Consistent
+Efficient
+Observable
+Controllable
+39% of members verbally agree to our services, but only 17% have been activated
+
+56% of members do not have any active goals. However, this decreases as track intensity increases (R: 77%, F: 82%,I: 35%)
+
+80%+ of members across all tracks have not had an update to a goal that wasn't a deletion or archival in the past 90 days
+
+72% of consented & enrolled members do not have any completed goals on their care plan.
+
+While we achieve targets for case conference, front line teams report lack of clarity on the intent or purpose of the ceremony . 
+
+Ten year company journey 
+Product Market Fit  ➡️  Delivered @ Scale  ➡️  Sophisticated, predictable performance
+We never successfully completed this part
+But we are planning 
+like we are here
+
+2017
+2024
+Toyin, Ari
+Juliana
+Azalea
+Kam + Clin Innovation
+Care Models
+Pandemic + Full Remote
+Pandemic
+Remote Work
+How did we wind up here*? (1 of 2)
+Major Funding Rounds (ish)
+B
+C
+D
+D+
+Technology Leaders
+Mat
+Justin
+Bay
+Lon
+D H
+Liza
+Adam
+The context for Cityblock’s growth and scale has been a complex one, with a number of factors at play
+
+Strategic Leadership Churn →  We have had a rotating cast of characters leading the technology org, the clinical org, and our operations. This has led to inconsistent vision and strategy to guide the teams. 
+
+Lack of clarity on which model to scale → While the earliest part of this timeline predates me, there have been a variety of leads reinventing our model, which has led to a significant amount of care model debt, and a technology org which has been poised for a long time to invest in the “right” or “new” model, and not waste effort on legacy components. 
+
+Major funding, exec onboarding, and mismatched expectations -> Following major funding rounds during the pandemic, we brought in leaders to operate a large organization, but failed to finish scaling our tech and process to enable them to operate an org at scale. The system we think we are controlling is not yet built to be strategically controlled. 
+Bay
+Data Leaders
+Spencer
+Lon
+David
+Ankush
+Roselin
+Mel B
+Bay
+*this is bias, imperfect, and likely incomplete. Intention is to demonstrate the experience  of ground truth of where we are, and how we have been building our product to date. 
+
+How did we wind up here? (2 of 2)
+There is no single shared understanding of our core experience and offering. Cityblock does not share an understanding of the essence of what we offer to our members, and what the most important moments in that journey truly are. In addition, we have sold configurable elements on a model that has not yet scaled to be configurable.
+
+To do this, we need to focus as a group and company on measuring what matters for our members
+A clear baseline member journey + moments that matter
+
+Cityblock must have a shared vision for our member experience, and the outcomes that we want to scale, regardless of the mechanism to scale them. 
+
+
+Shared top line metrics based on that journey
+
+
+From the top to the bottom of the organization we should be able to answer questions like…
+
+Are we able to reach and find members effectively?
+Are we able to sell them on Cityblock?
+Are we onboarding them to care properly?
+Are we delivering on our promises to build plans and make progress against them?
+Are we focusing on the areas most impactable for our members?
+Are we seeing members adopt and report satisfaction with our reactive services?
+
+Today we have 5 layers of metrics, on a sheet that is hard to understand and to use. How might we simplify to start? 
+
+2024 Care Systems Strategy & Tactics
+Invest in core member and care team value props, with scalable tech and process
+
+First, we need to change our approach to product* development, or we won’t hit our goals + vision
+A focus on Cityblock goals and value props
+A focus on Care Team and Member Value Props
+Tactical, reactive builds to “hot” initiatives
+A clear, 2 year strategy to nail our brand promises. 
+A divided Central and Market mental model
+A single organizational shared strategy + KPIs - with no middle men between care teams  and product
+A “stick,” control-based and punitive care team management style
+A “carrot,” celebratory, and continuous improvement style of management
+*Product here  is not the function, but the discipline of designing, building, ‘selling’, and supporting  a compelling offering for care teams, members, and partners. 
+Informal, impromptu user support
+Clearly funded and scoped tool and process support channels for care teams
+Reliance on engineering for customization
+A clear strategy with aligned upon elements of operator configurability.
+Our build and design tenets:  
+ 
+Care Team  success + satisfaction above all else
+What user problems does this solve? 
+What burden are we removing? 
+How will we measure satisfaction? 
+Operator owned configuration for everything 💯
+Where can we enable operators?
+What is the cost to maintain over time? 
+Reliable tools, platforms, and processes that scale
+How are we testing, how will we support?
+Continuous program improvement + celebration
+Are we celebrating successes, just as much as catching misses? 
+
+
+Then, set goals based on the outcomes we want to see by the end of the year
+Objective
+2024 Key Results
+Our member longitudinal experience consistently meets our brand promises
+Increase % members with achieved goals on care plans. 
+Baseline, and improve trust and sat at onboarding complete
+Baseline and improve trust and sat
+Our member acute experience consistently meets our brand promises
+Care Team Leads are set up to lead high performing care teams 
+CTL role clarity measure?
+CTL tool/ dashboard adoption? 
+Care Teams are efficient in doing their work
+Reduce time to find key information in Commons 
+Increase trust in Commons data from X to Y 
+New Markets are launched with the best default model and tech
+Established consulting pattern for embedded product in MN+I implementation? 
+Eliminate all CAPs by the end of the year?
+
+Next, we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Invest in primitives that enable effective, efficient, and reliable acute care and care coordination
+Disproportionately invest in Care Team Lead Success
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Pay down care model debt, and invest in level-up Commons UX for efficiency and scale 
+Start every new market, partner and cohort on the right foot
+Consistent investment + improvement  in client reporting and compliance stance
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+TACTICS: 
+Deliver Panel Management
+Deliver Member Feed
+Deprecate Legacy Prioritization tools and data points that are wrong and no longer relevant
+Reconcile signals into a single member health summary
+Encounter Wizard + pre-visit planning tooling
+Member Opportunity Recommendation Engine
+Measure member trust and sat for long care team
+Measure user satisfaction for long care activities
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Invest in primitives that enable effective, efficient, and reliable acute care and care coordination
+Tactics – for collaboration with PMs + Designers
+Reduce dependence on tasks in workflows and improve workflow object 
+Smart workflows
+Improved automatic triggers for reactive work
+Member Summarization and “smart summarization” (i.e. since you last viewed) 
+Productized “handoffs” 
+Task Management and improvements to task completion
+Inbox usability
+
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Disproportionately invest in Care Team Lead Success
+For H1 this might not be digital, this could be ops design and analytics / user research / role solidification etc. 
+
+Focused user research sprint and persona creation for CTLs
+Single dashboard for CTLs? 
+Management Training + tighter partnership + train the trainer models
+Role definition + competencies
+Communities of practice
+People “owner” for the role, and management in the discipline of being a CTL 
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Pay down care model debt, and invest in level-up Commons UX for efficiency and scale 
+Profile Search 
+Offline Mode for field teams 
+Mobile responsiveness
+“Also-viewing”
+Contacts available in notes
+Outreach and timeline notes reconciliation 
+Acuity Deprecation 
+
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Start every new market, partner and cohort on the right foot (deliver on promises to partners?)
+Embed product in NM+I
+Build a product and program playbook for ensuring that new markets get the best and most up to date version of our offering. 
+Invest in Commons Configurator and alignment with growth on the most important areas for configurability. 
+Scale member importer and member enrollment form 
+Solutions Engineering // Client Facing Product // Professional Services team or role. 
+Clinical/ Ops Design supporting the “FOC” for new markets, based on latest goals and new approaches.
+
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+And we’ll need to focus our 2024 build investments on solving user problems, enabling new partners and cleaning up care model debt
+
+
+Consistent investment + improvement  in client reporting and compliance stance
+Tactics: 
+Fund a team or partial team explicitly to work from a single governed backlog. 
+Ensure that there is a clear way to get design feedback from compliance for other efforts. 
+Just Tech
+Just Process
+⭐️
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+We also need to focus, saying no to work that doesn’t drive these focus areas.
+BOI and quality
+Non Reactive Compliance builds outside of the central backlog
+
+
+We must measure our impact as we go with a focus on delivering member and care team value props
+
+
+CSAT with workflows
+CSAT from Acute teams 
+Growth in volume of triggers creating workflows
+% of workflows automatically closed
+Member Trust + Sat after Acute care event
+
+Improve Care Team Lead Role Satisfaction
+
+% Members hitting target care progress
+Time to Onboarding Complete with established care plan
+% Members enrolled in suggested pathway
+Improvement in care team response to “Its easy to prioritize my panel” 
+
+Improvement in Commons Satisfaction
+?
+?
+All draft, I know some of these don’t exist
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+These focus areas will create the environment for a 2025 layering of novel clinical programs and robust population health initiatives
+
+
+Consistent, trusted, repeatable Core Services and Acute Care @ Scale
+Targeted, novel, population + quality programs
+Massive Market Expansion
+2024
+2025
+2026
+Care Model + Technology Experimentation + Innovation 
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+A focus on Care Team Lead Success?
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+
+
+Roadmap
+Build features that drive member and care team satisfaction, scale, and efficiency
+
+Panel Management: Core Services
+Care Delivery
+TOC
+Member Profile
+CSAT Team
+Ops Design + Embedded
+Member Opportunity Engine
+Encounter Wizard
+Panel Management: Member Feed
+Workflow Object
+Smart Workflow Automation
+Member Summarization
+Workflow Trigger Growth (more reactive activities in workflows) 
+Ongoing Compliance Backlog Investment
+Member Health Summary
+Embedded with Growth &  NM+I for Implementations
+CTL Personal Development and Research
+Commons Configurator
+Member Management
+Design Core Elements of Configuration for Growth
+Reactive User Support
+Profile Search
+Offline Mode
+Example: Roadmaps needs closer co-design with scrum teams.
+Tactical New Partner Setup
+Drive On-time task completion
+
+What we need to succeed
+Today, we are lacking what’s needed to hit our goals from a product enablement and engineering perspective
+
+Ops Design
+Ops Design
+Ops Design
+Product Management Lead
+Ops Design Lead
+Engineering Lead
+Care Systems Group  | Proposed 2024 Team Structure (+8 engineers)
+Product Enablement Lead
+Analytics Embed
+Product Enablement
+Product Enablement
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Engineer
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Embedded
+TOC
+Care Delivery
+Designer
+Product Manager
+Engineer
+Engineer
+Member Profile
+Strategic Technology Partner
+Engineer
+Engineer
+CSAT
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+25
+Existing
+3
+Existing (to be hired)
+8
+Proposed
+
+Guarantee Care Systems Group 2024 Strategic Themes (+8 engineers)
+                    Current
+KTLO (+3 FTE)
+Success (+8 FTE)
+1. Ease, consistency, and impact of our proactive care, core services.
+(clear panel prioritization, member custom recommendations for focus areas, consistent care planning, case conference, care coordination and assessment)
+⚠️Care Delivery team will deliver many, but not all, improvements to our longitudinal care model.
+✅High level of confidence that Care Delivery team could deliver all planned improvements and support a successful Core Services rollout with an additional FTE engineer (1).
+✅No additional work slated beyond implementing Core Services.
+2. Speed, reliability, and impact of our acute care.
+(full alert coverage and easy member summarization, quick a reliable handoffs and communication between acute and longitudinal teams)
+⚠️TOC team will continue to advance our workflows, but anticipate being delayed by requirements for new implementations.
+✅High level of confidence in ability to execute on acute/ longitudinal care team handoffs, alert reliability, and additional workflow improvements with an additional FTE engineer (2).
+✅No additional work scheduled past the already defined speed, reliability, and impact improvements to acute care.
+3. Efficiency in our Commons tooling.
+(search, curation, summarization, automation, and awareness of what others are doing in the product)
+❌No teams able to dedicate meaningful time to improve Commons tooling.
+❌No teams able to dedicate meaningful time to improve Commons tooling.
+⚠️Two add’l engineers spread across teams will enable them to speed up roadmap and begin tackling efficiency opportunities in Commons (4, 5).
+4. Supporting growth by starting every market, partner, and cohort on the right foot.
+(a compelling new market playbook with the latest lessons from other markets)
+❌No teams able to dedicate meaningful time to improving our technological foundations for scaling growth.
+⚠️Each team dedicating some amount of time to supporting Cityblock’s growth goals, but no team fully focused on scaling new implementations.
+✅Three engineers would be dedicated to responding to compliance, allowing Member Profile team to restart work to support growth and partner success (6, 7, 8).
+5. Ensuring ongoing compliance with contractual and regulatory requirements.
+⚠️Member Profile working to ensure Cityblock meets contractual and regulatory compliance requirements.
+✅High confidence in Member Profile’s ability to ensure Cityblock meets compliance requirements with an additional FTE engineer (3).
+✅No additional work would be needed to ensure compliance needs met with strategic investment.
+
+Growth: Market, partner, and member growth imposes 3 categories of cost on Cityblock engineering teams.
+1️⃣ Application customization needed to support the configuration of each implementation. Currently, much of this customization lives in code, but once we complete the configuration layer we are building (Builder UI for content, and a similar configurator for broader feature sets) the amount of time engineering spends supporting this growth category will decrease dramatically. ⤵️
+2️⃣ New feature builds are likely to accompany new implementations for the near future as Cityblock engages with partners differently than it has in the past (slightly different product offerings, new programs, additional integrations). However, as we grow our capabilities, the need for new feature builds will decrease with each new implementation, as will the amount of time engineering spends supporting growth category. ↘️
+3️⃣ Operational support required to support a larger system with more data, more users, more features, and an ever increasing web of interactions between all those components. I expect engineering to scale proportionally with this growth category (albeit at a lower rate). ➡️
+
+Without baseline hires, Care Systems engineering will focus on operational support, resulting in new feature builds coming at the expense of previously prioritized work (TOC/MIC workflow enhancements, Core Services, multi-payer market support). 3️⃣
+With baseline hires, Care Systems will be able to prioritize both operational support and new feature builds while proceeding with previously prioritized work. 2️⃣& 3️⃣
+With baseline and strategic hires, Care Systems will be able to complete existing work, support incremental implementation asks, and enable future growth by building a foundation of application customization that requires less and less engineering support for each incremental future market/partner/population. 1️⃣& 2️⃣& 3️⃣
+Care Systems Group  | Risks
+
+Care Systems Group  | Opportunities
+Compliance: We will be able to complete engineering work to support regulatory and contractual compliance without compromising any existing roadmap items.
+
+Operational support: Engineers currently dedicate most of their “operational support” time to incident response (IR) and system maintenance (~2 Care Systems engineers on call each month, and more helping with IR). By spinning out a dedicated Compliance team, teams that would otherwise have had to focus on compliance can instead focus on operational support within their domains. That capacity can be spent providing a higher level of service to users of Commons, serving as somewhat of “solutions engineers”  to help with account management, support market configuration, and respond to user feedback on existing feature implementation. By providing an application that is highly reliable, and team that is responsive to their needs, we can turn care teams into net promoters of Commons.
+
+Delivery velocity: As the Care Systems group rolled off engineering contractors in Q3, the velocity of our teams fell disproportionately. When there are fewer than 4 engineers on a team they are no longer capable of working on multiple initiatives at once (as one or more engineer on each team is focused on operational support), have slack to support incident response, cannot dedicate time to future planning (resulting in a pattern of yo-yo-ing between planning and execution), and even more susceptible to dramatic slow downs as team members are out.
+
+Staff to match 2023 H1 delivery velocity and scope (+8 engineers)
+For the first half of 2023, Care Systems was delivering TOC process improvements, workflow enhancements, task management to-do lists, Care Plan features, goal activities, compliance requests, member signals, frequent visitor, business rules, partner transition support, calendar integration, Builder UI clinical content management, and more.
+We cut scope in June 2023, as four engineers left the group to help with scheduling, so that the group was no longer working on the care plan, goals, nor compliance.
+As contractors rolled off through the summer, we reduced the pace of delivery and shifted our focus to KTLO.
+Care Systems is anticipating an increased scope in 2024, supporting growth, implementing core services, and dedicating more time to KTLO to ensure Commons remains a reliable platform for care teams to manage work.
+Adding 8 engineers in the H1 2024 will enable Care Systems to take on this scope and return to H1 2023 pace of delivery and system reliability.
+
+What we need to succeed outside our group
+We control much of our own destiny, but we need full organizational alignment to be successful 
+
+
+
+Care Systems is a powerful group, but we cannot drive these outcomes alone
+The whole company must act as one team - focused on a clear set of shared member journey moments that matter, and metrics that tell us how we are doing. These should be top line for every market, and for our leaders. No MSPs that are different than central roadmaps that are different than clinical focus areas. Member Experience grounds everything. 
+
+Market KPI Scorecard should be thought of as a “product” and managed by a single or set of senior product management leader(s)
+
+We need differential re-investment in member onboarding as a discrete member journey life cycle component that builds trust, sets care teams up for success, and never misses a member who needs us.
+
+We need a new way of supporting our field teams through change management today - that means deeper investment in field team training and enablement, manager coaching, product marketing and instructional design. How much attention did you pay to your virtual video compliance training? Exactly. 
+
+We need to model a cultural shift away from traditional punitive measurement strategies, to one focused on celebrating wins, understanding what is constraining field teams, and lifting up the member moments that matter. Until we have removed the constraints on care teams to be successful, we shouldn't punish them for missing the mark. That’s on us. 
+
+Product must partner more closely with growth to ensure we are driving an efficient and clear sales process - so we can be an easy vendor for plans to work with, and sell a consistent product we feel confident we can deliver, and report on. 
+
+
+
+
+Appendix + Slide 🪦
+
+Care Systems Budget Discussion
+Oct 2023
+
+Current team size & structure with current EOY 2023 HC (i.e. including existing TBH for 2023) → these are detailed for you in the linked deck as “Current”. Feel free to include any other 2024 roadmap context, but fine to use the Figma roadmaps we reviewed last week if those are up to date and reflect your latest thinking.
+
+
+Ops Design
+Ops Design
+Ops Design
+Product Management Lead
+Ops Design Lead
+Engineering Lead
+Current team size & structure
+Product Enablement Lead
+Analytics Embed
+Product Enablement
+Product Enablement
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Engineer
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Embedded
+TOC
+Care Delivery
+Designer
+Product Manager
+Engineer
+Engineer
+Member Profile
+Strategic Technology Partner*
+User Support
+Engineer
+Engineer
+Engineer
+25
+Existing
+3
+Existing (to be hired)
+*note this is only ~ 50% of her time
+
+Top H1 tensions/tradeoffs | Major items deferred to H2+
+Workflow Automation
+Task Inbox improvements
+Member Summarization
+
+
+Why will these likely land in H2 or beyond? 
+
+This group is focusing on immediate ux improvements, and primitive transformation to prep for increased automation. 
+
+They will also need to manually build and support any new TOC workflows in growth contracts. 
+
+They are also taking on P32H Access work
+Member Opportunity Engine
+Encounter Wizard 
+Debt Deprecation
+Builder UI
+
+Why will these likely land in H2 or beyond? 
+
+We will likely limit scope to only panel management and managing care model debt – with some initial investments in re-energizing the pathway recommendations 
+
+
+Member Health Index / Summary
+Commons Configurator
+Enrollment Form + Member Importer
+
+Why will these likely land in H2 or beyond? 
+This team is likely to focus 100% on compliance and growth needs through the first half of the year, with tactical bodies of work to enable relevant signals 
+Anything other than reactive ticket management, and no field feature requests
+CSAT
+What are the top tensions / tradeoffs in H1? What are the major items below the line that are deferred to H2+?
+Embedded
+TOC
+Care Delivery
+Member Profile
+
+What are top priority budget investment needs in the product group, with a rough prioritization? Why? What happens if we don’t budget? What alternatives do we have to address? What is the business impact if we do / don’t fund?
+
+
+
+Investment approaches
+Current (12 FTE)
+KTLO (+3 FTE)
+Progress (+6 FTE)
+Success (+8 FTE)
+1. Panel and member focus
+(clear panel prioritization, custom recommendations for member focus areas, encounter wizard, enhanced case conferences to drive focus areas)
+
++1 engineer 🧑‍💻
+2. Reliable acute care coordination
+(member summaries, clear handoff process, automated triggers for reactive work, manageable workflows)
+
++1 engineer 🧑‍💻
+3. Care Team Lead success
+(pod-level home page for team-based goals, reporting for care team leads, roles, responsibilities, coaching for CTLs)
+
++1 engineer 🧑‍💻
+4. Maximize user efficiency in Commons
+(search, “since you last viewed”, automation, awareness of what others are doing in the product)
+
++1 engineer 🧑‍💻
+5. Excellent market / partner / cohort kickoffs
+(new market playbook with latest lessons from other markets)
+
++1 engineer 🧑‍💻
++1 engineer 🧑‍💻
+6. Compliance, reporting, and KTLO
+(dedicated capacity for continuous improvement)
+
++1 engineer 🧑‍💻
++1 engineer 🧑‍💻
+1. Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+   * Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+2. Invest in primitives that enable effective, efficient, and reliable acute care and care coordination.
+   * Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows. 
+
+3. Disproportionately invest in Care Team Lead Success
+   * Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+4. Pay down care model debt, and invest in level-up Commons UX for efficiency and scale.
+   * Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+5. Start every new market, partner and cohort on the right foot
+   * Think: a compelling new market playbook with the latest lessons from other markets
+
+6. Consistent investment + improvement in client reporting and compliance stance.
+   * Think: dedicated capacity for continuous improvement.
+
+Ops Design
+Ops Design
+Ops Design
+Product Management Lead
+Ops Design Lead
+Engineering Lead
+Proposed team size & structure (+8 engineers)
+Product Enablement Lead
+Analytics Embed
+Product Enablement
+Product Enablement
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Engineer
+Designer
+Product Manager
+Engineer
+Engineer
+Engineer
+Embedded
+TOC
+Care Delivery
+Designer
+Product Manager
+Engineer
+Engineer
+Member Profile
+Strategic Technology Partner
+Engineer
+Engineer
+User Support
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+Engineer
+25
+Existing
+3
+Existing (to be hired)
+8
+Proposed
+
+Budget impact
+$1 million in incremental asks for all 8 engineers
+Increasing engineers per team allows us to support more junior engineers than we have in the past
+Hiring across 1A/1B/2B levels with an average annual salary of $120k for each of the 8 engineers (faster time to hire as well)
+
+Striving for budget neutrality
+Funded by growth
+6 implementations for 1 Jan. Finance sheet lists ⅓ of $162k per implementation. If half of that total to Care Systems ($162k)
+Existing implementations where headcount was not released in the past?
+Moving headcount to support ongoing data-focused work from Data Platform? ($185k)
+2 staff engineers dedicated to DPAPI support for more than 6 months ($185k annual cost per eng)
+Several engineers in DP have worked within product previously, can we pull them back to product?
+We are taking ownership of Member Importer and Enrollment Form
+Spreading hiring across year (4 eng in H1, 4 eng in H2), effectively reducing request by 2 engineering-years ($240k)
+Pulling ahead unused budget for current open headcount
+From Aug-Oct 2023, open roles accounting for 6 engineering months of senior/staff salary (½ x $170k ⇒ $85k)
+Borrowing budget from partner orgs across CBH?
+Transitioning staff to other roles at the company?
+Need to find $330k to reach budget neutral.
+
+Are there areas where we may not have a budget issue, but where individuals aren't performing at the level we need them (leading to execution issues / tension)?
+Are we overstaffed anywhere? Where are we inefficient, if we were more efficient would we be overstaffed?
+
+Product Enablement skills + competencies. 
+Ex: implementation skills + “training”  vs. multi-modal driving to adoption, UX Feedback, and satisfaction.
+
+
+tl;dr
+By the end of 2024 - we must consistently deliver on our brand promises.  Every member should report high trust in their longitudinal care teams, receive consistent proactive support to manage and achieve their goals, and rapid reactive support when things go wrong. Care teams should report that their tools and systems help them, and that it’s easy and obvious to find what they need, know what to focus on to drive member outcomes, and do their work efficiently.
+
+In 2024, the Care Systems group strategy will focus on 6 areas: 
+
+Easily and consistently answer the following care team questions: “across my panel, who should I focus on?” and “ for this member, what should I focus on?” 
+Think: clear panel prioritization, member custom recommendations for focus areas, encounter wizard, enhanced case conferences to drive focus areas.
+
+Invest in primitives that enable effective, efficient, and reliable acute, reactive care. 
+Think: Easy member summaries, clear and obvious handoff process, automated triggers for reactive work, easy to manage workflows.
+
+Disproportionately invest in Care Team Lead Success
+Think: A Pod Level home page tracking to team based goals, trustworthy reporting for care team leads, clear roles and responsibilities and coaching for CTLs.
+
+Invest in level-up Commons UX Enhancements for efficiency and scale 
+Think: Search, “since you last viewed” and Automation. Awareness of what others are doing in the product. Deprecation of legacy element
+
+Start every new market, partner and cohort on the right foot
+Think: a compelling new market playbook with the latest lessons from other markets
+
+Consistent investment in client reporting and compliance requirements 
+Think: dedicated capacity for continuous improvement. 
+Our tenants for how we prioritize what we build
+
+Care Team  success + satisfaction above all else
+Operator owned configuration for everything 💯
+Reliable tools, platforms, and processes that scale
+Continuous program improvement - day by day
+
+The path to a model that scales has been a wild one! 
+
+First, we were small and proscriptive
+In NYC, and then in CT we were focused mostly on a single process, tight guardrails, and limited flexibility
+Then overly flexible and un-opinionated 
+And recently overly focused on corporate strategy + activities, and not on member journey  
+
+On the Block Oct, 2023
+Where we’ve been / Where we are
+A focus on Cityblock goals and value props
+Tactical, reactive builds to “hot” initiatives
+A divided Central and Market mental model
+A “stick,” control-based and punitive care team management style
+Informal, impromptu user support
+Reliance on engineering for customization
+A focus on Cityblock goals and value props
+A focus on Cityblock goals and value props
+A focus on Cityblock goals and value props
+A focus on Cityblock goals and value props
+A focus on Cityblock goals and value props
+A focus on Cityblock goals and value props
+
+Then we were flexible and opinionated! 
+
+By the end of next year….
+Cityblock care teams are connecting with members consistently enough to meet their needs, based on their segment, and never missing a best practice contact.
+Members are engaged in collaborative care planning encounters — where teams are able to find the most impactful focus areas and build trust with members
+Including talking about pathways, symptom action plans, and other primary focus areas. 
+Every year, we are delivering baseline, best in class, preventative care, and evaluating what might have changed through assessments.
+Managers and Eds feel confident that they can report on and celebrate their teams hitting contact, care planning, assessment, and other goals.
+Members report that their care teams are meeting their needs, and never drop the ball.
+
+Something about team based care / dyads / mutual support
+
+The path to a scaled care model
+
+Cityblock Care Model Core Services Activities
+
+Responsive
+Focused
+ Intensive
+Default Segmentation
+Low risk segmentation
+Rising risk segmentation
+High risk segmentation
+Intake
+OS schedules Core Assessment to take place within 2 weeks of contact.
+Clinical Intake 
+Empanelment
+Assign to CHP (Member Navigator)
+Assign to RN 
+Assess
+Core Assessment by CHP (Member Navigator) annually
+Core Assessment by MA/MIC; Reviewed by RN
+Clinical Intake by Provider
+Every 6 months
+→ Every 3 months 
+Care Review
+CHP/Member Navigator  and resource/hub RN, monthly
+Point Person brings to Case Conference to full care team based on criteria 
+Care Plan
+Generate within 2 weeks of completing core assessment. Care Plans must be updated after re-administration of the Core or any part of the “Essentials” assessments and must clearly indicate that it was reviewed and verified.
+Referral / Handoff
+Members who meet inclusion criteria for internal programs as defined should be referred to the appropriate programs/teams  (i.e. CoCM, Advanced BH, Pregnancy) [will be referred 100% of the time.]
+Minimum Contact Cadence
+Min.Quarterly encounters with 
+Member Navigator/CHP
+Min.Outreach by RN or CHP every other month. 
+(RN accountable, may delegate responsibility to CHP)
+Min.Outreach by RN or  CHP every month. 
+(RN accountable, may delegate responsibility to CHP)
+CBH / External PCP Visits
+Annually
+Twice a year
+Quarterly
+Grad/Transfer
+All goals related to pathway/program shall be closed at end of member participation and transfer documentation provided. 
+For more detail click here
+
+Trusted Market KPI Metrics
+By the end of next year, EDs in each market will own primary core services metrics - and trust the data they use to manage their teams to contact cadence, case conference, reassessment, and other core activities.
+Consistent Care Teams and Accountability 
+
+All members will have a care team, a point person, and be affirmatively managed by that person. 
+A useful, practical tool to prioritize what work to do across large panels 
+
+
+A useful, practical recommendation engine to ensure all touch points are the highest quality, impact and value to member possible
+Pathways, Assessment reminders, program referrals
+Practical tooling for care team leads to monitor core services adherence, spot problems before they arise, and celebrate their team hitting goals
+
+
+Configuration tools for markets to manage their outreach, in a structured, observable way 
+[Prior Art]
+
+
+A clear viewpoint of the member journey, shared by all field teams and why it drives our mission
+
+
+Easy, Obvious, and singular documentation for encounters
+
+
+Tie in what we’ve heard from the teams that they want
+Ex: clear ability to measure the work being done. 
+Framework that can be added to // scaffolding that supports everything else // foundation for layered programs ++ 
+How will this help me give better care? 
+How does this help me contribute to the MSP? / Scorecard?
+Pre-req for pop health. Infra that enables us to do things at scale. 
+Re-brand needs to account less for “change” and more for “improvements” 
+Recognition up front that these are tweaks, and not overhauls
+Need to tell the value prop, and not the feature solution. 
+Do we need a viewpoint of history
+What framing do we need for different audiences
+Business Outcomes Focused
+Member Outcomes Focused
+Care Team Member Outcomes Focused
+Simplicity 
+From here -> here. 
+“Dont have to guess, just know what to do” 
+
+Risks:
+How can we account for folks who feel like they already have what they need? 
+
+Philosophy: ideas are cheap execution is everything
+
+
+
+Care Systems Product Vision.. By 2025 
+
+Excellent at proactive care
+Panel Management
+Encounter Wizard
+Pathway Recommendations
+Annual Care Checklists
+Care Planning
+A Constant Presence in our members lives (marketing) 
+Excellent at reactive care
+Triggered Processes for TOC and Urgent Care
+Scale our efficiency Systems that helps teams do work, with context they trust, that they can easily find. 
+Summarization
+Search
+Curation
+Ease of documentation 
+Start new markets on the right foot 
+Excellence in onboarding new markets
+
+
+

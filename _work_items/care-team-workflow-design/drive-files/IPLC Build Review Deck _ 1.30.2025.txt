@@ -1,0 +1,387 @@
+Intelligent Prioritization & Loop Closure: Build Approval
+January 30, 2025
+
+Agenda
+Intro 
+S@S Stage
+Solution Goals 
+What we are not solving
+
+MVP Build Review (1 hr)
+Prioritized panel management
+Comprehensive member interactions
+Loop closure (and other IPLC enablers)
+
+Next Steps
+[Sam] Intro (5 mins)
+S@S Stage
+Solution Goals 
+What we are not solving
+Setting the stage for MVP (25 mins)
+[Fabiana] Guiding principles
+[Rachel, Irene] Workgroup decisions made
+[Fabiana] Patterns
+[Fabiana] User journey overview 
+MVP Requirements (1 hr)
+[Fabiana] Prioritized panel management
+[Fabiana] Comprehensive member interactions
+[Ryan] Loop closure 
+[Rosie] Operationalizing care team interactions
+
+
+Solving @ Scale: Where We Are Today
+We are in Step 3: Ideation & Concept Development
+Today, we will focus on requirements identified to address prioritized business problems; not the actual design of solution itself.
+In order to pilot an MVP in March, we are proposing that this group reviews a demo as part of Build Approval to allow work group more time to align on draft solutions.
+Approval Request: Are these the minimum set of requirements that must be met in order to successfully address business problems and launch in markets?
+Goal of Today’s Discussion: Align on requirements needed for MVP solution to be successfully launched in markets.
+S@S Overview Here
+
+Opportunities closed per interaction
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.
+Problems to Be Solved
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.
+% opportunities closed with top priority members
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Trust & Satisfaction Score
+Longitudinal engagement
+Our frontline staff, and their managers, do not have clear responsibilities and performance expectations. Productivity expectations for care teams are not integrated in panel management or cadenced proactive outreach expectations.
+N/A - Manager tools in place
+Comprehensive Member Interactions
+Prioritized Panel Management
+Loop Closure & Follow Through
+Operationalizing Care Team Expectations
+Component
+Business Goals
+Decrease cost per activated member
+Meet Quality & BOI targets
+Reduce TCOC
+Lagging Indicators*
+*Metric definitions still under discussion. Leading and mid-funnel metrics will also be monitored.
+Goals: What are we trying to achieve?
+
+Problems we are not solving
+Through stakeholder engagement, we have heard the following problems expressed. While these are important points of friction to address, we want to be explicit that we have not thought of them as in-scope for this work.
+Problem Statements Not Addressed
+1
+We do not have standardized roles defined for Sr. CHPs and Sr. RN CMs across markets, making it difficult to provide clear career paths for our frontline teams.
+2
+The quality of notes in the timeline varies, the timeline is difficult to scan, and updates can be difficult to find. This means that time spent sifting through the Timeline to prepare for a call can feel like time wasted if the member doesn’t answer.
+3
+Tasks completed do not map 1:1 with value delivered to members. It is challenging to measure and manage against value in day-to-day operations.
+4
+The current External referrals feature in our timeline notes does not provide an easy way to track multiple referrals to resolve a member need  from start to finish. 
+5
+External referrals managed through Findhelp are not integrated back into commons requiring users to double document into multiple timeline in Commons 
+6
+We have disparate systems for grouping action-items, some of which require linear formatting. (Workflows, Goals, Commons Companion Quality Widget, etc.)
+
+💡MVP Reminders
+
+An MVP is
+Simplified version that delivers value
+Validates assumptions
+De-risks complex engineering implementations
+Data driven approach to inform future iterations 
+An MVP is not
+Fully-featured solution
+One and done - evolution of the product happens through continuous feedback and iteration 
+
+Prioritized Panel Management | MVP Solution
+1b
+1a
+1c
+2
+4
+Approved MVP Requirements
+💻 1. The below prioritization signals must be surfaced to help users understand which members to focus on for the day
+Scheduled Visits Today -Available under the To-do section 
+Regular check-ins due 
+Tasks Due Today 
+Urgent tasks automatically prioritized (ex: TOC, MIC)
+Important tasks (ex: self-activation, inbound comms)
+Non-urgent tasks aligned to next regular check-in 
+
+💻 2. Prioritization signals must be surfaced in one tool : Inbox
+
+💻 3. Users continue to anchor on due dates for panel prioritization
+
+💻 4. Stop generating tasks for regular check-ins
+Separate section to display RCI due today
+
+💻 5. Market operators can request adjustments to regular check-in cadence corresponding to each track as needed, based on market capacity. Changes are reflected within 1 week
+MA P32 will leverage acuity for regular outreach cadence
+All other markets can request cadence updates 
+💻 6. Managers can see all regular check-in calls due across their team & easily reassign work if staff are out Solved with connected sheet during pilot. Future iteration to include surface within Commons
+
+🚑 7. Care team members have clear guidance for how to prioritize members across scheduled visits, tasks due, and members needing proactive outreach Guidance to be provided during training and associated SOPs 
+3
+  💻 Product Build           🚑Operations Solution
+
+Approved MVP Requirements
+💻 1. The below information must be surfaced on a single Commons surface
+Care plan goals and tasks (centrally & manually generated)
+Includes outreach campaigns [new]
+Program eligibility / enrollment (CoCM, Advanced BH, Pregnancy, Pharmacy)
+Care pathway eligibility / enrollment 
+Quality gaps (largely RN/CHP coordination & scheduling tasks)
+BOI gaps
+ 💻 2. All of the above signals are identifiable in our systems 
+
+💻 3. All of the above signals have clear action item(s), owners & due dates associated
+
+4.🚨The below contextual information must be surfaced on a single Commons surface to support effective prep - descoped due to dependency on Zus implementation
+
+🚑 5. Users have central prioritization guidance to help them determine what to focus on for the member first Guidance to be provided during training and associated SOPs 
+
+🚑 6. Users focus on work assigned to themselves & also complete other action items assigned teammates as much as possible, in order to make the most of the successful interaction. Guidance to be provided during training and associated SOPs 
+
+🚑 7. User is clear on what constitutes a meaningful interaction Guidance to be provided during training and associated SOPs 
+
+🚑 8. Users have clear outreach guidance for regular check-in Guidance to be provided during training and associated SOPs 
+
+💻 9. Members fall off the regular check in feed based on call attempts Analytics
+
+💻 10. We have a way to differentiate meaningful interactions that count in our system Analytics
+
+Comprehensive Member Interactions | MVP Solution
+
+
+1
+2, 3
+  💻 Product Build           🚑Operations Solution
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution RCI Outreach and Task Management 
+
+
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Recurring Task
+
+
+  💻 Product Build           🚑Operations Solution
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Archived Task
+
+
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Action link and Task Result (1 of 3)
+
+
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Action link and Task Result (2 of 3)
+
+
+1
+
+Approved MVP Requirements
+
+1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Action link and Task Result (3 of 3)
+
+
+
+Approved MVP Requirements
+
+ 1. If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in and 
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+
+💡Automating  task due date changes when possible will reduce erroneously overdue tasks, and in turn, reduce task/inbox overwhelm 
+
+*Prerequisite: Standard pattern for outreach attempt and due date change
+
+2. Create recurring “action-items” within a single “container of work”
+Example: HTN Care Pathway, recurring blood pressure measurement task
+
+3. Create a pattern to link a user from ”action-item” to the place in Commons where action can be taken, when possible.
+Example: Click link in task to open assessment 
+
+4. Reduce Care Team documentation burden and connect evidence of work completed
+Example solution: System-generated tasks are programmatically completed when evidence of work is present 
+
+5. Archive reasons can be applied to all Commons Tasks 
+Examples: member not interested, task is no longer relevant,
+
+
+Loop Closure  | MVP Solution Task Result (Manual)
+
+
+
+Loop Closure (and other IPLC enablers) | Problem Statements 
+What’s contributing to the above?
+1
+Outreach work  vs Care delivery: The current Tasking system fails to decouple “outreach” and “care” action-items, making it difficult to understand when lack of progress on task is due to unsuccessful outreach vs. incomplete “care”. This is critical for accurate reporting on care team member productivity and performance. 
+2
+Measuring Work Progress:  Signals for attempted but incomplete work are managed across task statuses and cancellation reasons. And, operational guidance for status and cancellation reason usage is not standardized.
+3
+Work Completion Evidence: User action/evidence of work are not linked to task objects
+4
+Tasking/Documentation Efficiency: Our users are overly burdened by Commons navigation and documentation activities. Manual work (double) documentation and task closure is required in current state because task<>evidence linkage is not available. 
+5
+Documentation Quality: Manual work double-documentation system is prone to error.
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Problems De-Scoped from MVP
+6
+Action-Item Grouping: We have disparate systems for grouping action-items, some of which require linear formatting. (Workflows, Goals, Commons Companion Quality Widget, etc.)
+
+Next Steps
+
+Next Steps [build approval of MVP]
+Build
+Now
+Scale
+May 2025
+Validate
+3/3-4/4
+Engineering  build
+User acceptance testing and bug bash 
+
+
+
+
+
+Implement in target beta markets
+MVP end to end user journey review
+Review leading indicators and synthesized user feedback
+
+
+
+
+Align on v1 must-have feature enhancements for scale 
+Scale v1 to additional markets
+Plan v2   

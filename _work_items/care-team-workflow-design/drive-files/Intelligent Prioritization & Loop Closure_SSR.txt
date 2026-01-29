@@ -1,0 +1,3335 @@
+Intelligent Prioritization
+& Loop Closure
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Strategic Solutions Review
+4/10/25
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Agenda
+3
+Proprietary & Confidential  
+Status Snapshot
+Demo*
+Pilot & Early Adoption Results*
+Preparation for National Scale*
+What’s Next
+*for focused discussion
+
+Status Snapshot
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (I/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Prioritized Panel Management
+Care team members know which member to focus on next
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+
+
+No risks at this time
+Comprehensive Member Interactions
+Address all member needs and opportunities in a single interaction
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+No risks at this time.
+Loop Closure & Follow Through (MVP)
+Connect identified member needs to action taken
+⬤ 
+3/3/2025 (mvp)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+No risks at this time.
+Loop Closure & Follow Through (National)
+Connect identified member needs to action taken
+N/A
+4/28/2025 (national)
+N/A
+
+We shifted focus to higher impact investments for  national scale in T1. We will recommend revisiting loop closure in T2.
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (II/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Operationalizing Care Team Expectations
+Provide frontline managers with visibility into care team activities for performance management
+⬤
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+All RNs and CHPs in early adopter markets have been trained.
+Planning for national scale.
+No risks at this time.
+
+Risk Stratified TOC Workflows
+Autotrigger high- vs. low-intensity workflows based on likelihood to readmit score
+⬤
+5/1/2025
+Current S@S Phase: Test and Learn
+
+Missed previous timeline for launch. Retraining model on Zus data.
+Decision made to build LTR model using Zus data rather than continuing to validate using old Redox source. Now that Zus cutover is complete, team will be retraining and validating model over next 3-4 weeks.
+Care Pathways
+Structured and standardized approach to chronic condition management 
+⬤ 
+complete
+complete
+complete
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Demo
+
+Pilot & Early Adoption Results
+
+Early adoption evaluation results show small gains, stability and a lot more opportunity on the table
+9
+Proprietary & Confidential  
+We did not see concerning downward trends attributable to the launch
+We made incremental gains, notably in MA
+Bundling guidance on its own not sufficient to move the needle on tasks & opportunities addressed per connection
+Role-specific guidance on actions to close quality opportunities in the works 
+MA baseline (Feb 3-28)
+MA follow-up (Mar 3-Apr 4)
+IN baseline (Feb 3-28)
+IN follow-up (Mar 3-Apr 4)
+Outreaches per Member
+0.42
+0.41
+0.19
+0.22
+Total Tasks and Opportunities Addressed per Connection
+2.25
+2.31
+1.78
+1.41
+Actioned on Quality Gap per Successful Connection
+0.018
+0.024
+0.022
+0.017
+Urgent Tasks Completed per Member
+1.79
+1.76
+1.44
+1.43
+% Tasks Closed by Due Date
+92.0%
+93.2%
+74.65%
+79.9%
+
+Preparation for National Scale
+
+Based on Early Adoption Feedback, We Made the Following Enhancements
+11
+Proprietary & Confidential  
+
+Added “primary contact filter” to RCI inbox to allow teams to filter to each others’ inboxes, enabling out-of-office coverage and manager visibility
+Introduced capability for teams to delay RCI by 1 week if member asks for a callback after due date, as well as skip RCI for 1 cycle if member is known to be unavailable (e.g., out of country, incarcerated)
+Added week-over-week view to RCI performance metrics, in addition to panel view
+[coming soon] Introduced workflow to remove disengaged members from LCT panels and conduct prioritized re-engagement efforts
+
+Set default page to Inbox
+Added RCI icon to due date in inbox
+Made it easier to set task priority level
+Removed task widget from 360
+Added ability to assign tasks to primary in bulk uploader
+Filter “on hold” RCIs out of inbox
+Added back entire Care Team to 360 Teams widget
+
+Expanded templates that “count” for RCI to include MA ICT meetings
+Introduced “on hold” status for RCIs with due dates during TOC readmission mitigation and when members are pending disenrollment
+Updated logic to allow users to document interactions until 11:30pm the following day
+Updated P32 acuity cadence
+Require task due dates
+🚀 Introduced New Features
+⭐️ Streamlined UX
+💻 Deconflicted Features
+
+Teams are Rapidly Getting Ready for Trainings Across All Markets
+12
+Proprietary & Confidential  
+Quick Look: Training Plan
+Longitudinal care teams (CTMs, RN Managers, CTLs, RN Leads, RNs, CHPs, MCNs):
+In person, full day training including overview of new content, practice activities, and demoing new tools in Commons Staging
+CTMs, RN Managers, CTLs, RN Leads
+Additional 1hr virtual session to cover specific processes, tooling, and responsibilities for managers
+All frontline team members outside of LCT
+Two asynchronous CBU courses (10 min each) to cover subset of relevant changes
+Launches are planned 1-3 days after training
+Comprehensive overview, including market-specific progress, is available here.
+APRIL
+Mon
+Tues
+Wed
+Thur
+Fri
+14
+
+🧹 Task clean up 
+15
+
+🧹 Task clean up 
+📆On the Block
+(WoW Announcement) 
+16
+
+🧹 Task clean up 
+
+
+17
+
+🧹 Task clean up 
+18
+
+🧹 Task clean up 
+🎥 CBU ‘Lite’ Training Released
+21
+
+🔒📚 Assign async training for Zing
+22
+
+
+23
+
+🔒📚 OH Training: Cleveland
+24
+
+🔒📚OH Training: Dayton
+25
+
+🔒📚 Zing completes async training
+28
+
+🚀 🔒OH Launch
+🚀 🔒 IN Zing Launch
+🔒📚 NY/FL Training
+29
+
+
+
+30
+
+
+1
+🚀 NY/FL Launch 
+2
+
+MAY
+5
+
+💻  Async training videos assigned to non-LCT teams
+6
+
+🔒📚 NC Training 1
+
+7
+
+🔒📚 NC Training 2
+8
+
+🚀 NC Launch
+9
+
+💻 Async training videos completed by non-LCT teams
+🚀 Features launch for all Commons users 
+
+Product Newsletter
+Comprehensive Comms Cascade
+Care Team Talking Points
+Leadership Roundup Newsletter
+Nursing Newsletter
+On the Block Meeting
+News on the Block
+1
+Comms Copy Repository
+2
+A Large Change Management Effort is Being Led for WoW
+
+What’s Next
+
+What’s Next: Leveraging the Prioritization Chassis
+15
+Proprietary & Confidential  
+Today, the Regular Check-in Inbox drives cadenced proactive outreach to members based on assigned track. However, this is configurable to accommodate changes to any underlying variables, including:
+Prioritization signal (e.g., P32 acuity, impactable opportunities)
+Outreach cadence (e.g., 14 days for most high-need members; annual outreach for low risk gap closure)
+Reason for outreach (e.g., re-engagement of highest impactable disengaged members, gap closure in low-risk program)
+
+Teams are managed against (1) attempted outreach on time and (2) success rates, regardless of how prioritization is set on the back end.
+Snippet from Care Team Ways of Working training
+In T1, we pulled scattered signals into a single screen on the 360 page to highlight open quality gaps and program eligibility alongside member tasks. 
+
+In T2, we will build on this foundation to (1) recommend the most important opportunities for each member and (2) suggest the right action on each opportunity, specific to the care team member’s role and licensure.
+Refreshed Commons 360 page
+
+Strategic Solutions Review
+3/14/25
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Agenda
+17
+Proprietary & Confidential  
+Status Snapshot
+Early Lessons from Early Adoption
+Appendix
+Program Updates
+*for focused discussion
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (I/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Prioritized Panel Management
+Care team members know which member to focus on next
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+
+
+Risk: Low-tech empanelment solution has proven challenging in GTM setting.
+
+Mitigation: Re-prioritizing planned enhancements to address most important areas to solve.
+Comprehensive Member Interactions
+Address all member needs and opportunities in a single interaction
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+Risks: Lack of standardization across markets on approach to task management.
+
+Mitigation: Working on a cross-market task cleanup in preparation for launch.
+Loop Closure & Follow Through (MVP)
+Connect identified member needs to action taken
+⬤ 
+3/3/2025 (mvp)
+Current S@S Phase: GTM Scale Validation
+
+Monitoring pilot
+Planning for national scale
+Since 3/3 the COS/PM team have been working on RCI and Recurring task fast follow development .
+Loop Closure & Follow Through (National)
+Connect identified member needs to action taken
+                 ⬤
+4/28/2025 (national)
+Current S@S Phase: Build 
+
+Development start 3/3/2025 after MVP development.
+Deployment Approval 
+
+The IPLC workgroup has prioritized new feature requests. We recommend delaying the evidence linking work until a later phase. We believe focusing on a subset of  higher-value IPLC items,  in the Phase 2 Planning tab, for national rollout will have a greater immediate impact. Prioritizing earlier loop closure process improvements with higher impact and lower development efforts . 
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (II/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Operationalizing Care Team Expectations
+Provide frontline managers with visibility into care team activities for performance management
+⬤
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: GTM Scale Validation
+
+Train individual RNs and CHPs in early adopter markets by end of March
+Risks: Not all data tiles scoped for dashboard MVP have been finished, limiting adoption. Continuing to QA and find inconsistencies between Commons and Looker.
+
+Mitigation: R&A continuing to prioritize support.
+
+Risk Stratified TOC Workflows
+Autotrigger high- vs. low-intensity workflows based on likelihood to readmit score
+⬤
+3/17/2025
+Current S@S Phase: Test and Learn
+
+Wrapping model retraining, should be available for workflow triggering this sprint 
+Market Specific Risks: N/A 
+
+Other: N/A
+Care Pathways
+Structured and standardized approach to chronic condition management 
+⬤ 
+complete
+complete
+complete
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Early Lessons from 
+Early Adoption
+
+Care Team Ways of Working Launched 3/3 🎉
+21
+Proprietary & Confidential  
+Care Team Ways of Working launched in our “early adopter” markets (IN MDwise, MA P32, and MA SWH) on Monday, March 3.
+Successes to celebrate:
+We made decisions and stuck to them🔒
+The workgroup moved quickly and decisively. We locked decisions through SBARs and COAs, including:
+Bundle work into comprehensive interactions (recap)
+Use tasking to surface work to care teams and invest in tasking (recap)
+Define “difficult to reach” (COA)
+Shift calendar due dates to business days (SBAR)
+IOS and operational implementation (COA, SBAR)
+Accountability for disengaged member re-engagement (COA)
+We were focused, which allowed us to be fast 👟
+We kicked off this work on December 9, completed problem elaboration and locked requirements on January 15, and started building on January 30. In order to pull this off, we had fully dedicated:
+2 Product Managers
+7 Engineers
+2 Product Designers
+3.5 ODD Team Members (2 fully dedicated, 3 partly dedicated)
+
+In addition to the above, our workgroup included significant effort from: BCD, R&A, ICD, Quality, Nursing & Social Care, MX, and market stakeholders.
+Training and launch support was well-received 🪲
+Care team feedback has been very positive overall. Highlights include:
+Successful 2-day in-person training in IN. Most people prefer in-person (64%) and trainers were better able to identify knowledge gaps.
+Stellar engagement from IN and MA in support channel and office hours.
+Product and engineering resolved all bugs in 48h or less and have been highly responsive to user feedback.
+
+Training survey results here.
+“This is one of the smoothest launches i have experienced at Cityblock” - CHP
+“I feel so much more organized” -CHP
+“This is great! Finally I don't need to swim through tasks to figure out my day. Love it.” - RNCM
+“I loved that the team was able to be personable and connect with one another while learning something new and a safe space to react in real time was essential” -anonymous survey response
+
+“Care Team Ways of Working” Encompassed IPLC Strategic Solutions
+22
+Proprietary & Confidential  
+Care Team Ways of Working trainings covered: (1) foundational basics about best practices in supporting members for RNs and CHPs, (2) operational and product enhancements, and (3) quality tips for care team members.
+Screenshots from Training Materials (full deck here)
+Trained on product enhancements and operational expectations
+Linked workflows to specific performance metrics
+
+Mapping MVP Launch to Initial IPLC Problem Statements
+23
+Proprietary & Confidential  
+Redesigned 360
+Comprehensive Member Interactions
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.
+Business Problem
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.
+Prioritized Panel Management
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Loop Closure & Follow Through
+Our frontline staff, and their managers, do not have clear responsibilities and performance expectations. Productivity expectations for care teams are not integrated in panel management or cadenced proactive outreach expectations.
+Operationalizing Care Team Expectations
+Focus Area
+Launched Solutions
+Bundling Guidance
+Frontline Performance Dashboard 
+Manager’s Guide to Performance Management
+Standard Team & Individual Scorecards
+Standard Task Guidelines
+Archive Task Functionality
+Pin Tasks to Regular Check-In
+Redesigned Inbox
+Redesigned Regular Check-In Feed & Outreach Guidance
+Revised Check-In Template
+
+A pilot allows us to test our hypotheses, build confidence for scale and change course when necessary
+Why run a pilot? To ensure the changes we’re making have the intended positive effects. A pilot lets us check those effects in an evidence based way
+
+What data will we collect? For each new feature or solution, we’ll gather quantitative data to test hypotheses about whether those solutions make users’ jobs easier, more efficient and effective
+
+We’ll supplement quantitative data with qualitative overlay (from user feedback, surveys) to deepen our impact and operational learnings
+
+How will we use the data? Where quantitative data and user feedback show positive effects associated with new features and solutions, we will make any final adjustments and proceed with implementation
+
+Where the data show no change or even unintended adverse consequences, we’ll pause, diagnose, and redesign
+
+Where and when will we pilot?
+Test market
+Comparison market
+Baseline time period
+Follow up time period
+Indiana
+Ohio; Indiana (pre/post)
+4 wk average pre pilot
+4 wk average post launch
+Massachusetts
+Massachusetts (pre/post)
+4 wk average pre pilot
+4 wk average post launch
+
+Significant initial discovery and research paved the way for our launch and evaluation 
+Count
+Markets represented
+User interviews to identify pain points. Focused on Inbox & Tasking, Care Plan, Open Opportunities, and Regular Check-ins
+179 CHP, 6 RNCM, 2 TOC RN
+
+IN, IL, FL, MA, NY, OH
+Call shadowing to observe gaps and inefficiencies. Focused on Inbox & Tasking, Care Plan, Open Opportunities, and Regular Check-ins
+8
+
+IN, IL, MA, OH
+Concept testing interviews presented initial solution concepts based on discovery insights. Gathered feedback through user testing and iterated on designs.
+4
+2 CHP, 1 CTL, 1 RNCM
+
+OH, NY, MA
+Pilot launch (Inbox) enabled Inbox-specific changes for 23 advanced pilot users. Collected feedback via Slack, identifying and fixing 3 bugs
+23
+6 RNCM, 10 CHP, 7 other
+
+MA, NY, FL, IN, OH
+
+Hypotheses and metrics: Comprehensive Member Interactions
+Problem Statement
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Kalpana Lebo
+Feature
+Hypothesis
+Metric Definition
+Surface opportunities and tasks on member 360
+Care team will be able to bundle non-task actions (opportunities) more easily during any outreach
+
+Care teams make fewer outreaches per member per interval (e.g. month) because they are actioning on more opportunities per interaction
+Total completed tasks + Pathway or Program enrollments / Total Successful Connections 
+
+All connection attempts per member / X business days
+Quality gaps surfaced as opportunities in UI and training teams with clear outreach guidance   
+
+Non-provider roles (RNs, CHPs, member navigators) will action on more quality gaps 
+
+Non-provider roles (RNs, CHPs, member navigators) will action on more than one quality gap per interaction
+#of non- provider roles that action on quality gaps
+
+Total action on quality / total successful connections
+360 UI updates
+Users will spend less time looking for contextual information to prep for calls 
+
+Users will spend less time creating their own ‘to do’ lists
+Average time spent on 360
+
+Actions taken on 360 page 
+Care pathway eligibility as an opportunity
+Users will easily identify pathway eligibility and structure calls to include enrollment discussion
+# enrollments (MSP target)
+Launch QA program in all markets (CTLs pull charts for review)
+Setting expectations that leaders will be auditing charts will increase quality of interactions and documentation
+Activated member with care plan / Total activated
+Utilizing Commons ecosystem/tasking for LCT campaign outreach
+Baking campaign LCT actions into tasking will increase care team adherence in conducting outreach (task is surfaced in central location, task completion is incentivized in overall performance mgmt)
+# campaign outreach tasks completed 
+
+Hypotheses and metrics: Prioritized Panel Management
+
+Problem Statement
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach, market chase lists, signal-based proactive outreach, and follow-through on member commitments; however, these can conflict with each other and have not been integrated into unified expectations.
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Libby Graves
+Feature
+Hypothesis
+Metric Definition
+New Inbox UI: RCI and due today subinbox
+One surface that shows all prioritization signals will make it easier for a user to identify which member to engage with next
+Clicks to homepage (if zero then we assume users use the inbox)
+% RCI attempted on time 
+
+% Tasks closed by due date
+
+% Panel with successful RCI
+Non-urgent  priority tasks are bundled with RCI calls and can be shifted to next RCI 
+Improve meaningful interaction without disrupting care team efficiency 
+
+Fewer outreaches per member across care team over interval 
+# non-urgent tasks completed during RCI
+
+All connection attempts per member / X business days
+
+Hypotheses and metrics: Loop Closure & Follow Through
+Problem Statement
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Business Owners
+Maggie Yuen
+Charisse Hunter
+Market Sponsor
+Libby Graves
+Feature
+Hypothesis
+Metric Definition
+Archive task status
+Better focus member panels & inboxes, improving panel prioritization 
+
+Create foundational observability into what work was closed because users were unable to complete it (archive) vs. successfully completed it (complete)
+Baseline # archived tasks by archive reason
+RCI associated tasks can be set as recurring
+Recurring tasks are easy to identify and understand and aid care team members in completing tasks that need to repeat
+User concept test with 5 care team members
+
+Hypotheses and metrics: Operationalizing Care Team Expectations
+Problem Statement
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+Business Owners
+Maggie Yuen
+Market Sponsor
+Dodie Robinson
+Feature
+Hypothesis
+Metric Definition
+Frontline Manager Visibility Dashboard
+A consolidated, cross-market performance management dashboard will give teams and managers the insights they need to drive performance
+Care team leads and managers are equipped with frontline visibility tools that drive scorecard performance and business outcomes (Y/N)
+Performance Management Templates & Guides
+Managers will be able to performance manage better with a standard set of guidelines and tools
+
+We are in the process of collecting user feedback to complement quantitative data 
+Count
+Early consolidated feedback
+User interviews to gather deeper feedback on features and solutions, and where they make users’ jobs easier or harder
+13
+RNCMs, CHPs, CTLs 
+The Due Today folder is very useful and eliminates the need to set up users’ days
+Opinions are divided on separating RCIs from Tasks
+RCI folder showing rolling 7 days feels overwhelming; preference for workweek 
+The Tasks 360 widget is not helpful without goal context
+RCIs should not persist after 2 unsuccessful attempts prior to due date
+Opportunities without more details (action-items/instruction/etc.) aren’t as helpful as they could be
+Survey to assess satisfaction with features and solutions and source ongoing pain points and requests
+Launching today
+
+N/A
+
+Enhancements for National Scale and Beyond
+31
+Proprietary & Confidential  
+ODD, Product, and BCD are reviewing feedback to categorize and prioritize enhancements for national scale. Below is a preview of early thinking; however, no prioritization decisions have been finalized at this time.
+Regretless “Quick Wins” to 
+Ease User Experience
+High Impact, High Priority Enhancements
+More Data or Problem Elaboration Needed
+Incorporate “not right now” functionality to delay a RCI when member is known to be unavailable
+Update logic to “count” an RCI if user retrospectively edits note template used for documenting interaction
+[in progress] Provide manager visibility into RCI feed in Commons and enable teams to cover for each other when OOO
+Surface date and time of last unsuccessful outreach in RCI folder
+Require task due date in Commons
+Allow task priority level to be edited without opening the task
+Add (1) welcome activities, (2) assessments and screeners, and (3) social care needs to the 360, with tasking support
+Implement standard Chart Review as part of CTL quality assurance
+Embed automated empanelment tooling in Commons
+Build additional workflow flexibility to allow for “checklist” approach and non-linear branching
+Build pendo guides and standard videos for 360 and inbox
+Add other contextual information to 360
+Indicate “top reason” we’re prioritizing a member for outreach
+Continue refining 360 view to ensure every widget is useful
+Explore priming members prior to RCI due date
+Leverage AI summarization for pre-call planning
+Integrate IOS into track and cadence recommendations
+Automatically generate tasks based on open BOI or Quality gaps
+
+Planning for National Scale
+32
+Proprietary & Confidential  
+Our most frequent piece of constructive criticism on Early Adopter launch was that stakeholders felt crunched for time. In response, we are:
+Kicking off market-specific launch discussions this week and next week
+Incorporating demos of new tooling in staging prior to training and launch
+Pulling Quality Foundations training into its own session, prior to Ways of Working
+Identifying market champions earlier to understand new tooling and meet with early adopter markets
+
+Tentative Launch Plan (to be confirmed with markets)
+Ohio: Training Apr 23-25; Launch Apr 28
+New York & Florida: Training Apr 28; Launch May 1
+North Carolina: Training May 6-7; Launch May 8
+
+Appendix
+
+Program Updates
+
+Comprehensive Member Interactions: Overview
+Problem Statement
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+Definition of Success
+Outreach within and across care teams is efficient and coordinated. Each successful connection resolves multiple member needs in a single interaction, driving value for member and advancing progress on open opportunities while more efficiently utilizing care team and member time.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP in staging and associated workflows
+Conduct pilot in IN/IL, harvest learnings, prepare for scale
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Kalpana Lebo
+KPI
+Baseline
+Tasks completed per connection (last 30 days)
+0.90
+Actioned on Gaps per Connection (last 30 days)
+0.003
+Urgent Tasks Closed per Member (last 30 days)
+2.00
+Members with Urgent Tasks Closed in Last 30 Days
+8,949
+Tasks Completed per Regular Check-In (last 30 days)
+3.79
+
+Prioritized Panel Management: Overview
+Problem Statement
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach, market chase lists, signal-based proactive outreach, and follow-through on member commitments; however, these can conflict with each other and have not been integrated into unified expectations.
+Definition of Success
+Care teams maximize their effectiveness each day by focusing engagement efforts on the right member based on the appropriate cadence, impactability, and need.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for panel view and operations service design
+Demo MVP
+Demo of panel view MVP in staging and associated workflows
+Conduct pilot in MA, harvest learnings, prepare for scale
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Libby Graves
+KPI
+Baseline
+Tasks completed per connection (last 30 days)
+0.90
+Actioned on Gaps per Connection (last 30 days)
+0.003
+Urgent Tasks Closed per Member (last 30 days)
+2.00
+Members with Urgent Tasks Closed in Last 30 Days
+8,949
+Tasks Closed per Regular Check-In
+3.79
+
+Risk-Stratified TOC Workflows: Overview
+Problem Statement
+We currently trigger high- vs. low-intensity workflows based on segmentation. However, the likelihood to readmit (LTR) score is a better predictor of readmission and is more applicable to the members who have HIE events.
+Definition of Success
+All markets are auto-triggering workflow intensity based on LTR, with fewer than 20% of workflows getting canceled and changed due to inappropriate intensity
+T1 sprints
+2/17-2/28
+3/3-3/14
+3/17-3/28
+3/31-4/11
+4/14-4/25
+4/28-5/9
+Status: ⬤ On Track
+Build
+Go to Market: Scale Validation
+Scale Nationally
+Optimize
+Milestones
+Deployment Approval
+Scale Approval
+Detail
+MA team reviews LTR results and approves trigger thresholds
+Conduct pilot in MA, harvest learnings
+KPIs: 
+Program completion count
+#(%) workflows cancelled with cancellation reason "Canceled due to inappropriate workflow intensity"
+Business Owners
+Charisse Hunter
+Market Sponsor
+Dhruva Kothari
+Now on track for 3/17/25 delivery Low and high intensity MA workflows now live. Will update existing MA workflows to use LTR score after retraining of model is complete
+
+Loop Closure & Follow Through: Overview
+Problem Statement
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Definition of Success
+Cityblock can measurably show loop closure and manage teams against follow-through on member needs.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ At Risk
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Detail
+Engage frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Business Owners
+Maggie Yuen
+Charisse Hunter
+Market Sponsor
+Libby Graves
+KPI
+Baseline
+# of Workflows Using Loop Closure Enhancement
+0
+% frontline who said it was easy/somewhat easy to close the loop on a member’s clinical need with the Cityblock care team? (i.e. know when an item is outstanding, track it, and close it out) (VOTU)
+46% 
+% frontline who said it was easy/somewhat easy to close the loop on a member’s social care need with the Cityblock care team? (i.e. know when an item is outstanding, track it, and close it out) (VOTU)
+57%
+% members who say their care team always does what they say they will do (Trust Index)
+74%
+
+Operationalizing Care Team Expectations: Overview
+Problem Statement
+
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+Definition of Success
+
+Develop and roll out standardized roles, responsibilities, and productivity expectations for CHPs and RNCMs. Productivity expectations are aligned with panel management and proactive outreach workflows.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ Delayed
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+Review program compatibility and manager visibility requirements
+Engage frontline teams to identify gaps and opportunities
+Review frontline manager visibility requirements and cross-program operational expectation calculations
+KPIs:
+Care team leads and managers are equipped with frontline visibility tools that drive scorecard performance and business outcomes (Y/N)
+Business Owners
+Maggie Yuen
+Market Sponsor
+Dodie Robinson
+
+Strategic Solutions Review
+2/12/25
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Agenda
+41
+Proprietary & Confidential  
+Status Snapshot
+Program Updates
+Appendix
+Product Updates
+*for focused discussion
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (I/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Prioritized Panel Management
+Care team members know which member to focus on next
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: Build
+
+Deployment approval 
+Finalizing pilot plan
+
+
+Market Specific Risks: Lack of standardization across markets on approach to Regular Check-Ins, panel management
+
+Mitigation: Working on a cross-market standardization of relevant processes prior to launch 
+Comprehensive Member Interactions
+Address all member needs and opportunities in a single interaction
+⬤ 
+3/3/2025
+Current S@S Phase: Build
+
+Deployment approval
+Finalizing pilot plan
+Market Specific Risks: Lack of standardization across markets on approach to task management.
+
+Other: Working on a cross-market standardization of relevant processes prior to launch in collaboration with Libby Graves. 
+Loop Closure & Follow Through (MVP)
+Connect identified member needs to action taken
+⬤ 
+3/3/2025 (MVP)
+Current S@S Phase: Build 
+
+Target Dev Complete 2/21/25 
+Market Specific Risks: N/A
+Next Regular Check-in  ⬤ : COS/PM teams timelines are tight and the project will at risk until go live the teams are pushing hard to 
+Archive Task ⬤  : Member Surface now working on this project due COS/PM constraints
+Loop Closure & Follow Through (National)
+Connect identified member needs to action taken
+                 ⬤
+4/28/2025 
+Current S@S Phase: Build 
+
+Development start 3/3/2025 after MVP development.
+Deployment Approval 
+
+Market Specific Risks: N/A
+Other: The PM team (1 TL 2 eng) will require another est eng by mid-march to bring this work back on track. Resourcing trade off discussion to happen later this month. 
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Status Snapshot | Intelligent Prioritization, Handoffs, & Loop Closure (II/II) 
+Program
+Value Proposition
+Status
+Est Launch 
+Upcoming Milestones (next 45 days)
+Risks & Additional Comments
+Operationalizing Care Team Expectations
+Provide frontline managers with visibility into care team activities for performance management
+⬤ 
+3/3/2025 (mvp)
+4/28/2025 (national)
+Current S@S Phase: Dev & Learn
+
+Facilitate build approval by 2/14
+Have only received partial approval on Design
+
+Other: Variation between existing market calculations and R&A standards with limited window for acceptance testing
+
+Risk Stratified TOC Workflows
+Autotrigger high- vs. low-intensity workflows based on likelihood to readmit score
+⬤
+3/17/2025
+Current S@S Phase: Test and Learn
+
+Reached alignment on IP definition for grouping issue
+Market Specific Risks: N/A 
+
+Other: Outstanding question from program leaders  re: adding admit workflow score. Discussion scheduled 2/12
+Care Pathways
+Structured and standardized approach to chronic condition management 
+⬤ 
+DM & HTN:1/13/2025
+Additional conditions: 2/7/2025
+Current S@S Phase: National Scale
+
+Launched additional care pathways 2/7: Pregnancy, CHF, COPD, Asthma, CKD 
+Market Specific Risks: N/A
+
+Other: Process adherence will improve with other IPLC rollouts
+Status Key:
+⬤ On track with high confidence in meeting launch date
+⬤ Identified risks with known mitigation, no identified impact to launch date
+⬤ Off track for launch date with escalation needed
+What we are solving for in T1 : Identify, surface, and prioritize members and opportunities so that care team members know which member to reach out to next and what to discuss with them to meet all needs and opportunities in a single interaction. Ensure appropriate tasking, communication, and handoffs across Care Teams to reduce voluntary turnover and continually build trust with our members
+
+Program Updates
+
+Comprehensive Member Interactions: Overview
+Problem Statement
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+Definition of Success
+Outreach within and across care teams is efficient and coordinated. Each successful connection resolves multiple member needs in a single interaction, driving value for member and advancing progress on open opportunities while more efficiently utilizing care team and member time.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP in staging and associated workflows
+Conduct pilot in IN/IL, harvest learnings, prepare for scale
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Kalpana Lebo
+KPI
+Baseline
+Tasks completed per connection (last 30 days)
+0.90
+Actioned on Gaps per Connection (last 30 days)
+0.003
+Urgent Tasks Closed per Member (last 30 days)
+2.00
+Members with Urgent Tasks Closed in Last 30 Days
+8,949
+Tasks Completed per Regular Check-In (last 30 days)
+3.79
+
+Comprehensive Member Interactions: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Key Progress on Regular Check-In (RCI) Standards and Governance
+👉 Next Milestone: Deployment approval on 2/28 for pilot launches in MA and IN on 3/3
+⭐ Mock-Up of Revised 360
+All RCIs require use of specific Commons template
+Teams will be managed against (1) attempts on time and (2) successful RCI rate
+RCIs will remain visible in Commons until either (1) successful template documented or (2) 2+ unsuccessful attempts are documented and the due date is passed
+
+Care Pathways: Overview
+Problem Statement
+Cityblock does not have a structured approach to deliver high-value care to manage members’ conditions, associated with impactable member health and condition-specific spend. 
+Definition of Success
+Care teams can navigate through condition specific Care Pathways for members, coordinating across roles within a shared structure to deliver consistent evidence-based care expected to improve health outcomes, reduce avoidable ED/IP visits, and close associated quality gaps.
+KPIs: 
+# enrollments in care pathways (per MSP)
+% enrolled members with medication reconciliation within 30 days
+% enrolled members with SAP within 30 days
+Business Owners
+Mike Tang
+Market Sponsor
+Sophia Hammonds
+Program Is Scaled Nationally
+Early Results
+Source (data pulled 2/11/2025)
+💡Market champions believe team members are doing Med Recs and SAPs, but not documenting properly. Several markets are repeating review of these workflows. 
+Month
+January
+February
+Enrollments
+142 
+[target 238]
+138 
+[target 238]
+Week
+1/6
+1/13
+1/20
+1/27
+2/3
+Enrollments
+12
+25
+22
+75
+104
+💡While enrollments had a slow start, they are steadily increasing
+
+Prioritized Panel Management: Overview
+Problem Statement
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach, market chase lists, signal-based proactive outreach, and follow-through on member commitments; however, these can conflict with each other and have not been integrated into unified expectations.
+Definition of Success
+Care teams maximize their effectiveness each day by focusing engagement efforts on the right member based on the appropriate cadence, impactability, and need.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for panel view and operations service design
+Demo MVP
+Demo of panel view MVP in staging and associated workflows
+Conduct pilot in MA, harvest learnings, prepare for scale
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Libby Graves
+KPI
+Baseline
+Tasks completed per connection (last 30 days)
+0.90
+Actioned on Gaps per Connection (last 30 days)
+0.003
+Urgent Tasks Closed per Member (last 30 days)
+2.00
+Members with Urgent Tasks Closed in Last 30 Days
+8,949
+Tasks Closed per Regular Check-In
+3.79
+
+Prioritized Panel Management: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Mock-Up of Regular Check-In Feed
+👉 Next Milestone: Deployment approval on 2/28 for pilot launches in MA and IN on 3/3
+⭐ Tasking Guidelines, Cleanup, and Cutover Plan
+Cleanup & Cutover Plan
+Tasking clean up will be for all Commons users, championed by CTMs
+Phase 1: Pilot markets (mid feb)
+Phase 2: All other markets (mid march) 
+Goal: 0 overdue tasks, tasks without assignee & tasks without due dates. Tasking dashboard developed by ODD to monitor clean up
+3/3 Cutover plan (excludes MA): programmatically shift all normal priority tasks assigned to LCT to next RCI. Normal priority tasks will be reviewed as part of clean up in preparation for cutover plan 
+
+Risk-Stratified TOC Workflows: Overview
+Problem Statement
+We currently trigger high- vs. low-intensity workflows based on segmentation. However, the likelihood to readmit (LTR) score is a better predictor of readmission and is more applicable to the members who have HIE events.
+Definition of Success
+All markets are auto-triggering workflow intensity based on LTR, with fewer than 20% of workflows getting canceled and changed due to inappropriate intensity
+T1 sprints
+2/17-2/28
+3/3-3/14
+3/17-3/28
+3/31-4/11
+4/14-4/25
+4/28-5/9
+Status: ⬤ On Track
+Build
+Go to Market: Scale Validation
+Scale Nationally
+Optimize
+Milestones
+Deployment Approval
+Scale Approval
+Detail
+MA team reviews LTR results and approves trigger thresholds
+Conduct pilot in MA, harvest learnings
+KPIs: 
+Program completion count
+#(%) workflows cancelled with cancellation reason "Canceled due to inappropriate workflow intensity"
+Business Owners
+Charisse Hunter
+Market Sponsor
+Dhruva Kothari
+Now on track for 3/17/25 delivery Low and high intensity MA workflows now live. Will update existing MA workflows to use LTR score after retraining of model is complete
+
+Loop Closure & Follow Through: Overview
+Problem Statement
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Definition of Success
+Cityblock can measurably show loop closure and manage teams against follow-through on member needs.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ At Risk
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Detail
+Engage frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Business Owners
+Maggie Yuen
+Charisse Hunter
+Market Sponsor
+Libby Graves
+KPI
+Baseline
+# of Workflows Using Loop Closure Enhancement
+0
+% frontline who said it was easy/somewhat easy to close the loop on a member’s clinical need with the Cityblock care team? (i.e. know when an item is outstanding, track it, and close it out) (VOTU)
+46% 
+% frontline who said it was easy/somewhat easy to close the loop on a member’s social care need with the Cityblock care team? (i.e. know when an item is outstanding, track it, and close it out) (VOTU)
+57%
+% members who say their care team always does what they say they will do (Trust Index)
+74%
+
+Loop Closure & Follow Through: Progress Spotlight
+⭐ Resourcing Trade Off Decisions Made
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+Our teams have identified multiple opportunities for improving Loop Closure work in Commons . We have prioritized those that are critical for our MVP(Pilot) on 3/3 and we are working with multiple scrum teams to delivery these ontime. We are in-progress with working through resourcing for the remaining features targeted for our National go live in May.
+MVP Go Live (3/3)
+Regular Check-in & Task Pinning (R) -  The Care Optimization & Scale (COS) and Practice Management(PM) teams are working as a single team to deliver this work. Given the tight timelines and small margin for error, we will remain in a yellow, at-risk status until delivery.
+Archive Tasks (V) - The Member Surface team for the MVP is taking on the work for Archived Tasks for MVP Go live due to capacity constraints of the PM and COS team
+National Go Live (4/28)
+Task Evidence Linking (T), Automated Tasks Closure (U) and Recurring tasks (S)  are the additional features we would like to make available for our go live in May. 
+The PM team needs 1 established CBH eng be added to the PM team by early March in order to deliver these features for May. 
+
+Operationalizing Care Team Expectations: Overview
+Problem Statement
+
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+Definition of Success
+
+Develop and roll out standardized roles, responsibilities, and productivity expectations for CHPs and RNCMs. Productivity expectations are aligned with panel management and proactive outreach workflows.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ Delayed
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+Review program compatibility and manager visibility requirements
+Engage frontline teams to identify gaps and opportunities
+Review frontline manager visibility requirements and cross-program operational expectation calculations
+KPIs:
+Care team leads and managers are equipped with frontline visibility tools that drive scorecard performance and business outcomes (Y/N)
+Business Owners
+Maggie Yuen
+Market Sponsor
+Dodie Robinson
+
+Operationalizing Care Team Expectations: Progress Spotlight
+S@S Phase
+Operationalizing Care Team Expectations: Progress Spotlight
+⭐ In collaboration with the CHP & CTL QA/Effectiveness Project, we completed interviews of 17 CHPs, 10 CTLs, and 8 CTMs across markets to better understand their daily operations and pressure test metrics
+👉 Next Milestone: Build approval for Frontline Manager Dashboard by 2/14
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+Care Team Insights
+Care teams are lacking insight into their productivity and performance metrics 
+7 out of 17 CHPs interviewed are not clear on which metrics they are held accountable for
+Care teams are lacking a central source of metrics to track
+10 out of 10 CTLs mentioned they are using multiple sources to track productivity and performance, including playbooks, spreadsheets, and dashboards in Looker 
+Care teams are a lacking central guidance on how to prioritize their day
+CHPs and CTLs provided varied responses for how they day starts - with the majority of respondents sifting through queues, inbox tasks to provide daily structure 
+"I am fuzzy on metrics… [our care team] talks more about quality of care" - CHP
+“[Our pod] receives workflows that are marked urgent when we don’t have resourcing to provide it… we have a mismanaged inbox” - CHP
+“I am held accountable to anything my team is held accountable to… now with more visibility into dashboards, I am able to address [these metrics more easily]” - CTL
+
+Appendix
+
+Product Updates
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+2024 Cutover
+Operationalize Likelihood to Readmit
+Eric
+⬤ ↑ 
+Aligned on IP admission groupings
+Ongoing discussion re: addition of admission logic to model
+Adopt adjusted IP logic
+Retrain and validate model 
+Comprehensive Member Interactions: Member Needs
+Epic 10: Refresh Commons UI
+Epic 13: Defragmented member view
+Epic 14: Post-activated outreach - IOS
+Epic 16: Contextual information in UI
+Irene
+⬤ ↔
+Member signals refactor completed
+Additional Care Pathways launched nationally on  2/7
+Pilot test plan to be shared at Deployment review
+UAT post build and pre-deployment 
+Loop Closure & Follow Through
+Epic 22: Close loop for member needs
+Joe
+ ⬤ ↔
+Build approval  complete for 1/31
+Development started for Regular Check in PM and COS combined teams
+MVP regular check in work is on track but at risk due to type timeliness
+PM team cannot deliver remaining loop closure features with existing capacity (1 TL , 2 eng)
+
+2/21 dev completed 
+Epic 9: Reporting on member needs
+Epic 11: Frontline manager visibility
+Sameer
+⬤ ↔
+Aligned on initial set of metric requirements for Frontline Mgr. Visibility Reporting
+Build started this week (week of 2/10)
+
+Variance in market-specific metric calculations
+First iteration check-in w/stakeholders on 2/13
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+Prioritized Panel Management
+Epic 9: Impactable Opportunity Score 
+Epic 10: Refresh Commons UI
+
+Irene
+⬤ ↔
+Inbox development work completed ahead of schedule!
+Pilot test plan to be shared at Deployment review
+UAT post build and pre-deployment
+KTLO
+Unplanned work to support business needs
+Irene
+⬤ ↔
+Update MA discharge workflows 
+UHC TOC workflow updates and backfill
+Bug: Fix task template timeframe to account for time zone
+Add core assessments for UHC
+Compliance: Add member spend timeline notes
+Turn off RCI for OH market
+Deprecate pathway suggestions 
+Update MDWise business rules for new visit type
+Scheduling maintenance / business support
+Joe
+⬤ ↔
+Zing implementation support
+New market setups for MI and OH
+New territory activations
+New Nurse appointment types
+Disenrollment bulk tools
+Update to credentialing services to consider nurses + config changes
+Member safety 
+Joe
+⬤ ↔
+
+Continued support and de-bugging of Q4/Jan Commons member safety work
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Strategic Solutions Review
+1/16/25
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Agenda
+60
+Proprietary & Confidential  
+General Updates
+Overall Status
+Requirements Review
+Operationalizing IOS
+Mapping interconnected work
+Program Updates
+Product Updates
+
+General Updates
+
+Celebration: Care Pathways Launch 🎉
+62
+Proprietary & Confidential  
+Care pathways for diabetes and hypertension launched in all markets on 1/13. Five additional conditions will be rolling out to markets the first week of February.
+
+Major shoutout to
+Integrated Care: Laura Santoso, Gabi Williams, Sam Singer, Danielle Joset, Pooja Mehta
+Product: Irene Duett, Dan Hopkins, Jesse Trippe, Safia Hirsi, Tyler Smiley, Mikhail Qader 
+Analytics: Mark O’Brien, Asher Lipsitz
+L&G: Chelsy Zurich, Amy Barbour, Rachel Perez, Sandra Stocks
+Nursing: Amy Salgado, Ali Hollman
+ODD: Sam Ferguson
+
+Intelligent Prioritization & Loop Closure: T1 Programs
+Program
+Description
+S@S Phase
+Status
+Prioritized Panel Management
+Help care team members decide which member on their panel to focus on next (the ‘Who’)
+Ideation & Concept Development
+🟢
+Comprehensive Member Interactions
+Help care team members conduct interactions that address all member needs and opportunities in a single comprehensive interaction, advancing progress and delivering more coordinated, longitudinal care  (the ‘What’)
+Ideation & Concept Development
+🟢
+Loop Closure & Follow Through
+Connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data
+Ideation & Concept Development
+🟢
+Operationalizing Care Team Expectations
+Provide frontline managers with visibility – via a comprehensive analytics dashboard – into care team activities, track performance, and utilize data-driven insights to optimize team operations and align efforts with organizational priorities
+Insights
+🟢
+Care Pathways
+Roll out Care Pathways, Cityblock’s structured condition management offering, to all markets
+National Scale
+🟢
+Risk-Stratified TOC Workflows
+Automatically trigger high- vs. low-intensity workflows based on likelihood to readmit (LTR) score
+Test & Learn
+🔴
+🟢🟡🔴
+
+Yesterday, held a requirement review meeting with Market Sponsors, Business Owners, and SMEs
+64
+Proprietary & Confidential  
+Deck available here
+Approval step associated with Step 3: Ideation & Concept Development
+Focused on requirements identified to address prioritized business problems; not the actual design of solution itself.
+In order to pilot an MVP in March, we are proposing that this group reviews a demo as part of Build Approval to allow work group more time to align on draft solutions.
+Approval Request: Are these the minimum set of requirements that must be met in order to successfully address business problems and launch in markets?
+Outcome: No red flags were identified. Discussion revealed good alignment between requirements proposed and stakeholder needs.
+What’s Next: Assuming we get approvals by Friday, product team to demo an MVP solution. Anticipating resourcing and trade off conversations to come.
+
+Operationalizing the Impactable Opportunity Score (IOS)
+65
+Proprietary & Confidential  
+What is the IOS?
+
+The IOS is a score that integrates 5 opportunity types into a single weighted value (listed below).
+Every member is assigned an IOS, which updates daily.
+Member lists can be ranked by the aggregate IOS, as well as by individual opportunity types within the IOS.
+
+IOS = Adjunct Revenue + TCOC Reduction Potential
+
+MVP Included Opportunity Types
+
+Adjunct Revenue
+Quality
+BOI gaps
+TCOC Reduction Potential
+Care pathways and clinical programs
+TOC readmission reduction (LTR score)
+MIC ED/IP diversions
+The IOS does not incorporate operational variables, such as:
+Member status (e.g., activated, pre-activated)
+Member engagement data (e.g., quality of contact data, last attempted interaction date, last successful interaction date, hard-to-reach status)
+Tasks due (e.g., MIC handoff tasks, care plan progress, inbound comms loop closure)
+IOS overview deck available here
+Potential Paths for Operationalizing the IOS
+Sorting and Filtering on Member Table
+In Scope: T1
+The new “panel view” will display members ordered by next proactive outreach date. Users will have the ability to re-sort this list by IOS score, as well as filter on individual opportunity types (e.g., open quality gaps).
+Prioritize Activated Members for Proactive Outreach
+In Scope: T2
+Today, proactive outreach is prioritized for members with (1) an urgent MIC or TOC need and (2) for members due for Regular Check-In.
+
+See COA slide (next) for options on how to operationalize.
+IOS for Pre-Activated Outreach
+In Scope: T2
+[Omnichannel Engagement]
+Incorporate IOS into pre-activated outreach (vs. current OPL logic)
+1
+2
+3
+Future Use Cases
+Provider scheduling
+Campaign recipient list
+4
+
+IOS Course of Action: Prioritization of Activated Members for Proactive Outreach
+66
+Proprietary & Confidential  
+Benefits:
+Dynamically updates with new data daily
+Ensure outreach is pointed at highest impactable members only
+Easier to “put finger on scale” and increase outreach to sub-population
+Risks:
+Highest score members will always be at the top of list
+Removes cadenced outreach, undermining predictability of Cityblock engagement
+Removes ability to bundle tasks with next Regular Check-In date
+Benefits:
+Lowest change management burden on markets
+Maintains cadenced outreach model, which has been validated in Trust Index work
+Allows bundling of tasks with Regular Check-in date
+Increases configurability of Regular Check-in to include (1) thresholds associated with each track and (2) cadence associated with each track
+Risks: 
+Delays time from data signal to track change
+Use IOS to Assign Initial Tracks for Regular Check-in 
+(Replacing Segmentation)
+Deprecate Regular Check-Ins and Migrate to IOS-Driven Outreach Only
+Benefits:
+Maintains cadenced outreach model, which has been validated in Trust Index work
+Surfaces members with highest impactability score on panel view
+Low change management burden on markets
+Risks:
+Will only see benefit of IOS if we are surfacing an unmanageable number of regular check-ins each day
+Lower configurability for Regular Check-in thresholds
+Maintain Segmentation for Regular Check-Ins; Introduce IOS to Prioritize Members Within Tracks
+Assessment: Explore in the future; we are not organizationally aligned on this use of IOS. Requires more insights and testing.
+Assessment: Option eliminated. We are operationally not at a place where we would deprecate regular check-in.
+Assessment: Preferred option; easier on-ramp to introduce IOS and continue refining operational approach.
+Ratified with Mike, Charisse, Libby, Ruchi
+
+Mapping a user journey through Intelligent Prioritization & Loop Closure scope
+67
+Proprietary & Confidential  
+The Day Begins: Who to Engage?
+RN CMs and CHPs open Commons to their panel view, where they see lists of members who need action today.
+Product Build: Panel View
+The “panel view” surfaces the below prioritization signals to help RN CMs and CHPs to decide who to engage next:
+
+Members with appointment scheduled today
+Members with task due (urgent tasks at the top)
+Members due for proactive outreach 
+Connecting with a Member: What to Discuss?
+RN CMs and CHPs comprehensively address all aspects of a member’s care appropriate to their scope of practice.
+Product Build: Defragmented View
+The “defragmented view” surfaces all relevant information (action items & contextual information) needed to effectively prepare for & conduct a comprehensive member interaction
+
+Care pathway eligibility
+Program eligibility
+Care plan goals and tasks
+BOI and Quality gaps
+Documentation and System Loop Closure
+Following a member interaction, RN CMs and CHPs document their care progress, which automatically updates members queued in the panel view for engagement
+Product Build: Loop Closure
+Loop closure is how Cityblock monitors that actions surfaced for care teams are completed. This includes both documentation support for care teams to record progress on identified member needs, as well as automatic system identification of completed work.
+
+Loop closure ties together the panel view and the defragmented view. Work identified and completed during a comprehensive interaction impacts when a member will next be queued for engagement.
+Performance Management
+Frontline managers can zoom into daily, weekly, and monthly RN CM and CHP performance
+Analytics  Build: Frontline Manager Visibility
+The Frontline Manager Visibility dashboard gives care team managers a comprehensive view into how care teams are performing, and will link out to CHP Productivity View and RN Scorecard (existing dashboards), and CHP Scorecard (to be completed in T1). 
+Before we dive into specific requirements, this is an overview of how these pieces all fit together
+Loop closure - ties together the work surfaced and the work completed, which then impacts when the member will be prioritized for engagement next (informs panel management)
+Performance management - building frontline manager visibility dashboard for view into team performance 
+
+Planned work is highly interconnected across the organization
+68
+Proprietary & Confidential  
+Operational Prerequisites
+Prioritized Panel Management
+Prioritization Inputs
+Comprehensive Member Interactions
+Select Member to Call Next
+Outreach Member
+Address Action Items
+Loop Closure
+Document Progress
+Link Evidence
+Operation “All for One”
+Lead: Maryann, Libby
+Operationalize IOS
+Lead: Eric, Irene
+Define “Meaningful Interaction”
+Lead: Laura, Rachel
+Tasking Enhancements
+Lead: Fabiana, Jesse
+Scoped Work on Which We’re Dependent
+Campaign Tracking
+Lead: Hilary, Matt
+Pre-Visit Planning
+Lead: Laura, Pooja
+Work Not Scoped but Enabled by These Deliverables
+Foundations of Care Mgmt Training
+Lead: Ali, Maryann
+Campaign Effectiveness Analytics
+Lead: Asher
+The deliverables initially scoped within Intelligent Prioritization & Loop Closure have several dependencies, all of which must come together in concert to meet planned timelines.											
+Quality Data Submission
+Lead: Pooja, Sophia
+
+Program Updates
+
+Comprehensive Member Interactions: Overview
+Problem Statement
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+Definition of Success
+Outreach within and across care teams is efficient and coordinated. Each successful connection resolves multiple member needs in a single interaction, driving value for member and advancing progress on open opportunities while more efficiently utilizing care team and member time.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Conduct pilot in IN/IL, harvest learnings, prepare for scale
+Preliminary KPIs: Metrics will be formalized as part of design approval
+Leading Indicators:
+Unique Clicks into Opportunities / Care Team Member
+Mid-Funnel Indicators:
+Tasks Closed / Interaction / Care Team Member
+Actioned on Gap Closures / Interaction / Care Team Member
+Lagging Indicators:
+Opportunities Closed / Interaction / Care Team Member
+Topline Business KPIs
+CPAM
+Longitudinal Engagement Rate
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Kalpana Lebo
+
+Comprehensive Member Interactions: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Tasking Enhancements Underpinning Success
+👉 Next Milestone: Product team to facilitate Build Approval by 1/31
+Want to go deeper on tasking decisions made? See here.
+Tasking Enhancements Scoped
+⭐️When possible, reporting will be based in evidence of work, not task completion
+⭐️ When evidence is present, tasks are programmatically closed
+Every task is limited to a single discrete action item which is either “open” or “complete”
+⭐️ Outreach attempts are measured separately from task statuses
+⭐️ Tasks include a task category, which can eventually be used for system prioritization
+⭐️ Non-urgent task due dates are aligned to next regular check in
+⭐️Clear standards defined for urgent, important and regular priority tasks
+We can trigger a set of related, non-linear tasks, allowing tasks to reflect more discrete action items and unlocking observability. Decreases complexity and mental burden for care team members
+⭐️ Inbox enhancements focus users on tasks due today, instead of on the entire universe of tasks assigned. Tasks can be easily bundled by member and due dates are more organized around regular check-ins
+What We’ve Heard
+
+Tasks may be marked “complete” for a variety of reasons (e.g., member declined service, service no longer relevant). Therefore, it is difficult to understand what work was accomplished from tasks.
+
+Marking a task complete is often an additional documentation step beyond the documentation of the work completed (e.g., a med rec in athena).
+
+Multiple actions are nested within single tasks, making it difficult to measure progress.
+
+Task categorization is immature and therefore we are not able to support system prioritization.
+
+Non-urgent task due dates prompt unnecessary outreaches that could have been more efficiently aligned to next regular check in.
+
+Users are overwhelmed by tasks in their inbox.
+⭐️  Included in MVP requirements
+
+
+Care Pathways: Overview
+Problem Statement
+Cityblock does not have a structured approach to deliver high-value care to manage members’ conditions, associated with impactable member health and condition-specific spend. 
+Definition of Success
+Care teams can navigate through condition specific Care Pathways for members, coordinating across roles within a shared structure to deliver consistent evidence-based care expected to improve health outcomes, reduce avoidable ED/IP visits, and close associated quality gaps.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Design/Build vScale Enhancements
+Training & Launch!
+Launch 1 Support
+Build 2
+Launch 2 + Support
+Milestones
+Scale 1 Approval
+Build 2
+Scale 2
+n/a
+Detail
+Care Pathways Clinical/Ops, Product, and Analytics build of enhancements for scale
+1/13/2025: DM/HTN Care Pathways live in all markets 
+2/2025: Pregnancy, CHF, COPD, Asthma, CKD + Enhancements live in all markets
+KPIs: 
+# enrollments in care pathways (per MSP)
+% enrolled members with medication reconciliation within 30 days
+% enrolled members with SAP within 30 days
+Business Owners
+Mike Tang
+Market Sponsor
+Sophia Hammonds
+Note: Deviations from standard S@S framework are due to advanced stage of project at time of adopting framework.
+
+Care Pathways: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Diabetes and Hypertension Care Pathways are Nationwide with Training and Launch Support
+👉 Next Milestone: Expanded Conditions launch February
+⭐ V1 Care Pathways Executive Dashboard is Up (actively working on improvements)
+⭐ Expanded Conditions on Track
+Interventions for Pregnancy, CHF, COPD, Asthma, CKD approved by Clinical Standards Committee 1/09/2025
+Pre/post assessments, Commons and Athena templates, intervention guidance, education resources on track
+Product and analytics expansion to include new conditions and support performance management on track
+CBU Videos
+Slack Support
+Live Trainings NC, MA, FL
+Market Champions
+Office Hours
+Roles receiving training: RNs (longitudinal and TOC), CHPs, providers (pod and MIC), pharmacists
+
+Prioritized Panel Management: Overview
+Problem Statement
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach, market chase lists, signal-based proactive outreach, and follow-through on member commitments; however, these can conflict with each other and have not been integrated into unified expectations.
+Definition of Success
+Care teams maximize their effectiveness each day by focusing engagement efforts on the right member based on the appropriate cadence, impactability, and need.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for panel view and operations service design
+Demo MVP
+Demo of panel view MVP and associated workflows
+Conduct pilot in MA, harvest learnings, prepare for scale
+Preliminary KPIs: Metrics will be formalized as part of design approval
+Leading Indicators:
+# Clicks into Regular Check-In Members / Care Team Member / Day
+Mid-Funnel Indicators:
+# of Members with “Urgent” Tasks Completed
+# of “Urgent” Task Completions per Member
+Lagging Indicators:
+# Tasks Closed / Regular Check-In Interaction / Month
+Topline Business KPIs:
+CPAM
+Longitudinal Engagement Rate
+Satisfaction Rate
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Libby Graves
+
+Prioritized Panel Management: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Integration with “Operation All for One”
+The operations foundations required for panel management will be partially addressed by work led by Maryann Sonoiki and Libby Graves. This work will allow all markets to use the same systems for Regular Check-Ins, panel management, and task management.
+👉 Next Milestone: Product team to facilitate Build Approval by 1/31
+Deck developed by Ali Hollman and Maryann Sonoiki, available here
+Foundations of Care Management Refresher Training
+Proposed Components of “All for One”
+Stop pre-empanelment. Empanel LCT at time of activation.
+Remove disengaged members from panels.
+Clean up old tasks.
+Ensure all activated members have a care plan.
+Ensure regular check-in cadences and track assignments are feasible.
+Require template for regular check-in to drive meaningful interactions.
+Reset primary and dyad expectations.
+Roll out control reporting to all markets.
+Align roles with Workforce Management efforts.
+
+Risk-Stratified TOC Workflows: Overview
+Problem Statement
+We currently trigger high- vs. low-intensity workflows based on segmentation. However, the likelihood to readmit (LTR) score is a better predictor of readmission and is more applicable to the members who have HIE events.
+Definition of Success
+All markets are auto-triggering workflow intensity based on LTR, with fewer than 20% of workflows getting canceled and changed due to inappropriate intensity
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ Blocked
+Build
+Go to Market: Scale Validation
+Scale Nationally
+Optimize
+Milestones
+Deployment Approval
+Scale Approval
+Detail
+MA team reviews LTR results and approves trigger thresholds
+Conduct pilot in MA, harvest learnings
+KPIs: 
+Program completion count
+#(%) workflows cancelled with cancellation reason "Canceled due to inappropriate workflow intensity"
+Business Owners
+Charisse Hunter
+Market Sponsor
+Dhruva Kothari
+🚨This work is currently blocked. Resolution timeline unknown. To discuss: consider interim solution to build low and high intensity MA workflow by track. Currently no available engineering resources, consider resourcing with alternative scrum team vs trade off of current roadmapped items
+
+Loop Closure & Follow Through: Overview
+Problem Statement
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Definition of Success
+Cityblock can measurably show loop closure and manage teams against follow-through on member needs.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Detail
+Engage frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Preliminary KPIs: Metrics will be formalized as part of design approval
+Lagging Indicators:
+[X] # of Workflows Utilizing Standardized Loop Closure Enhancement
+Topline Business KPIs:
+Trust & Satisfaction Index score
+Business Owners
+Maggie Yuen
+Charisse Hunter
+Market Sponsor
+Libby Graves
+
+Loop Closure & Follow Through: Progress Spotlight
+⭐ Resourcing Trade Off Conversations Anticipated in Upcoming Weeks
+👉 Next Milestone: Product team to facilitate Build Approval by 2/14
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+Original Requirement
+Additional Requirements Identified During Concept Development
+Reduce Care Team documentation burden and connect evidence of work completed
+If a user attempts to call a member for a regular check-in and is unsuccessful, the system:  
+(A) counts the attempt for the regular check-in, and
+(B) shifts all action-items  due at “next regular check-in” (based on priority level) to the next queued regular check in due date 
+Create recurring “action-items” within a single “container of work”
+Incomplete/cancellation reasons can be applied to all Commons Tasks
+
+Operationalizing Care Team Expectations: Overview
+Problem Statement
+
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+Definition of Success
+
+Develop and roll out standardized roles, responsibilities, and productivity expectations for CHPs and RNCMs. Productivity expectations are aligned with panel management and proactive outreach workflows.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+Review program compatibility and manager visibility requirements
+Engage frontline teams to identify gaps and opportunities
+Review frontline manager visibility requirements and cross-program operational expectation calculations
+KPIs:
+Care team leads and managers are equipped with frontline visibility tools that drive scorecard performance and business outcomes (Y/N)
+Business Owners
+Maggie Yuen
+Market Sponsor
+Dodie Robinson
+
+Operationalizing Care Team Expectations: Progress Spotlight
+S@S Phase
+Operationalizing Care Team Expectations: Progress Spotlight
+⭐ Problem Statement Approval: Obtained approval from all key stakeholders 
+👉 Next Milestone: Complete perf mgmt  inventory, engage frontline teams to identify opportunities, and obtain design approval by 1/31
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Insights Gathering: fact-finding in progress to determine cross-market sources of truth for performance management
+Performance Management Analytics 
+Current State
+
+Markets do not have a one-stop-shop for performance management data
+Markets rely on a combination of various central Looker dashboards, as well as market-specific dashboards and ad-hoc spreadsheets
+It is unclear if all Looker dashboards, both market and central reports, are being utilized 
+Dashboards and spreadsheets may surface the same information in different places, which can confuse frontline managers  
+Performance Management Analytics
+ Future Vision
+
+The Frontline Manager Visibility: A comprehensive dashboard for frontline managers across markets to access the key information and metrics to get immediate insight into care team and individual performance
+Ladders 1:1 to the 2025 KPI Scorecard
+Tied to the Nursing and CHP Scorecards in development by Workforce Management
+
+Product Updates
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+2024 Cutover
+Operationalize Likelihood to Readmit
+Eric
+⬤ ↔
+Better understanding of the way claims related to IP are grouped
+Milliman grouper fails to create facility_case_id for large percentage of IP visits
+Unable to evaluate model until this is resolved
+Eric H to take lead in resolution, bringing in SMEs from MedEcon; markets, data platform
+QA model output with pilot market to set appropriate threshold for low/high intensity TOC workflow triggering
+Comprehensive Member Interactions: Member Needs
+Epic 10: Refresh Commons UI
+Epic 11: Frontline manager visibility
+Epic 13: Defragmented member view
+Epic 14: Post-activated outreach - IOS
+Epic 16: Contextual information in UI
+Irene
+⬤ ↔
+DM and HTN Care Pathways scaled nationally! 
+Concept testing complete, validated UX design 
+Pilot test plan to be finalized
+Feasibility review with engineering, trade off discussions to follow as needed  
+Loop Closure & Follow Through
+Epic 22: Close loop for member needs
+Joe
+ ⬤ ↔
+Alignment on MVP requirements with ODD and product teams. 
+New requirements/scope added to loop closure and loop closure adjacent MVP requirements that require solutioning and estimating
+
+Solutioning and rough estimates for new requirements to determine the feasibility of the current plan for MVP .  
+Epic 9: Reporting on member needs
+Sameer
+⬤ ↔
+Aligned on success metrics for each workstream
+
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+Prioritized Panel Management
+Epic 9: Impactable Opportunity Score 
+Epic 10: Refresh Commons UI
+
+Irene
+⬤ ↔
+Aligned on approach for operationalizing 
+Analysis of IOS output to be shared
+Roadmap future iterations with plan to operationalize 
+KTLO
+Unplanned work to support business needs
+Irene
+⬤ ↔
+Update Zing business rules to support new contracting 
+Bug fix: inbox sorting, assignment, and labels
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Strategic Solutions Review
+12/17/24
+Prioritized Panel Management, Comprehensive Member Interactions, 
+Loop Closure & Follow Through, & Operationalizing Care Team Expectations
+
+Kickoff Agenda
+85
+Proprietary & Confidential  
+SSG Governance Structure
+Problem Statements & Scope
+Solving @ Scale Framework
+Timelines
+Discussion & Next Steps 
+
+Governance: Introducing Strategic Solutions Review
+
+Overseen by the ELT and OC, in 2025, we will organize to maintain strong management oversight over two distinct, yet highly interrelated, areas:														
+Monitoring business performance and making adjustments as needed as it relates to week-by-week execution, towards specific business outcomes 
+(e.g., BOI, Quality, Engagement, etc.)
+
+Current state aligned to Q/MBR, MMU
+1. Execution Excellence Governance
+Managing the products and programs we are working on to launch large scale innovation and new capabilities, in support of our business execution
+(e.g., Intelligent Prioritization, Data Effectiveness)
+
+Current state aligned to Business Priority SteerCo’s, PAB
+2. Strategic Solutions Governance
+While these models are distinct in focus, there will be notable overlap in participants and intentional, iterative solutioning across governance forums as adjustments to our plan are needed.
+Distinct, Two-Pronged Approach to Governance
+Ruchi
+
+Double Click: Strategic Solutions
+Strategic Solutions represent common enabler domains identified in our Critical Enablers exercise that drive toward multiple priority business outcomes 
+Goal
+Ensure successful development and installation of the programs on the central roadmap aligned to each of the domains on the right. We will use the Solving @ Scale (S@S) framework to manage program progression and validate they are landing in-market with the intended effect. 
+Evolution from Current State
+Dedicated space for discussion of program development and deployment in a central forum
+Deprecation of individual governance forums (i.e., Business Priority SteerCo’s) in favor a singular model with consistent management and oversight
+Full separation of execution from innovation to ensure working teams are solely focused on executing against prioritized work on the roadmap
+Use of a consistent framework (S@S) to manage performance across programs
+Principles & Ways of Working
+Below the central, integrated governing body, each strategic solution will have focused management in place to: (a) ensure solutions materialize into market impact (b) track progress toward optimal impact as the solutions are built and implemented, including when/how they hit markets
+Zoe Behr (ODD) and Ruchi Medhekar (Product Management) will have dyadic responsibility across the full roadmap; within a domain, an ODD / PM dyad will have execution responsibility
+Given that these domains drive multiple business outcomes, each domain will include senior business leaders as key stakeholders who validate requirements and impact in their respective verticals, and will have accountability for program installation within their vertical; these business leaders are Execution Excellence vertical owners, and serve as the primary customer of their respective SS domain
+We will measure defined success criteria and milestones across all initiatives with a Red / Yellow / Green tracking approach (R: 50% chance of landing as define on timeline, Y: 50-80%, G: >80%)
+Scope: Strategic Solutions
+Data & Insights, incl Data Augmentation, BOI & Quality
+Key Stakeholders: Rafi, Mike T.
+Intelligent Prioritization
+Key Stakeholders: Charisse, Mike T., Adam A.
+Omnichannel Engagement
+Key Stakeholders: Josh
+Handoffs & Loop Closure
+Key Stakeholders: Josh, Charisse
+Workforce Management / AI
+Key Stakeholders: Maggie, Charisse
+Growth Solutions, e.g., LTSS, CMD, FFS
+Key Stakeholders: Libby, Charisse, Akhil
+Zoe
+
+KTLO Management: Introducing the new Central Prioritization Process1
+Product/ODD will intake and prioritize work not currently roadmapped via a new Central Prioritization Process. This will provide a comprehensive view of all requested work and allow us to focus on the most impactful work towards achieving our 2025 goals
+89
+Proprietary & Confidential  
+#
+Step Description
+Forum / Owner(s)
+1
+High priority requests from stakeholders that are not included in 2025 roadmap enter via Fresh Service or the Strategic Solutions intake form
+All items are added to the Central Strategic Solutions Backlog by Product Manager
+Ad Hoc
+Requesters: Any CB stakeholder
+
+2
+Product/ODD (Ruchi/Zoe) review high priority backlog items and assign to domain area
+KTLO / Backlog Review (bi-weekly)
+Attendees: Zoe, Ruchi, Megan
+3
+Dyads+2 share current prioritizations, trade offs, and provide go/no go decision
+Requests directly related to the roadmap are maintained and adjudicated directly by Dyads+business owner
+Workgroup meetings
+Owners: SS dyad, business owner
+4
+Requests are roadmapped or remain in the backlog
+Markets provide a list of high priority backlog items to work off continuously as part of Quick Hits. We will be allocating two weeks to Quick Hits in H1 2025
+Ad Hoc
+Owners: SS dyad, business owner
+1 This process should be used for any initiatives that require cross-functional resourcing that arise between planning cycles. Note: Emergent exceptions (e.g. high priority outages, etc) don't fall into this workflow
+2 Dyad+ refers to the Product Manager and their operational counterpart (ODD or other ops)
+
+Talk track:
+We know there is important work not on the roadmap that may come up between planning cycles, so we’re introducing a new Central Prioritization Process in order to ensure we’re taking on the most impactful work towards our 2025 goals. This will give us a comprehensive view of all requested work and will allow us to prioritize these requests against the roadmap and against other requests.
+The process:
+Requests are submitted through Fresh Service or through the new Strategic Solutions intake form which is linked on the slide. These requests will flow into a central Strategic Solutions backlog.
+Requests are reviewed by Ruchi/Zoe on a bi-weekly basis and assigned to a SS domain area for review
+SS Dyads review assigned requests, look at current priorities and tradeoffs, and provide a go/no go decision on each request
+Any requests that are directly related to the roadmap are maintained and adjudicated directly by the dyads+business owner rather than being adjudicated by Ruchi/Zoe
+Requests are either added to the roadmap or remain in the backlog
+There will be a continuous process with Markets to pull off high priority items from the backlog to work on as part of Quick Hits
+Important note: This process does not apply to emergency exceptions which should follow the existing process for reporting and triage (ex. High priority outages)
+
+Central Prioritization Process Visual
+Product / ODD
+(Ruchi / Zoe)
+Data & Insights / BOI & Quality
+Intelligent Prio / Handoffs & Loop Closure
+Workforce Mgmt & AI
+Omnichannel Engagement
+2025 Roadmap
+Backlog
+OR
+Deliver!
+(via Solving at Scale)
+Growth
+Added to central backlog
+Requests outside of 2025 roadmap (incl. member safety & compliance)
+3. Dyads+ prioritize against existing 2025 roadmap
+Product/ODD delegate to a domain area
+Low priority requests
+Requests related to 2025 roadmap
+1. Requests are received via Fresh Service or intake form
+Quick Hits
+2. Requests are delegated to domain areas
+4. Requests are roadmapped or remain in the backlog
+Talk track:
+Here is a visual representation of the new Centra Prioritization Process
+Requests are received via Fresh Service / Strategic Solutions intake form, requests are delegated to the relevant domain area, domain area dyads prioritize requests against the existing roadmap, and requests are either roadmapped or remain in the backlog
+Backlogged requests follow the process for additional prioritization via Quick Hits
+
+Intelligent Prioritization & 
+Loop Closure
+
+Intelligent Prioritization & Loop Closure: T1 Scope
+Defragmented Member View
+Comprehensive Member Interactions
+(Substream: Care Pathways)
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.
+Business Problem
+Product Build
+Operations Release
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.
+Panel View
+Prioritized Panel Management
+(Substream: Risk Stratified TOC)
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Loop Closure
+Loop Closure & Follow Through
+Our frontline staff, and their managers, do not have clear responsibilities and performance expectations. Productivity expectations for care teams are not integrated in panel management or cadenced proactive outreach expectations.
+Frontline Manager Visibility
+Operationalizing Care Team Expectations
+
+Comprehensive Member Interactions: Overview
+Problem Statement
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.  This results in increased cost to the organization and inefficient use of our members’ time.
+Definition of Success
+Outreach within and across care teams is efficient and coordinated. Each successful connection resolves multiple member needs in a single interaction, driving value for member and advancing progress on open opportunities while more efficiently utilizing care team and member time.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Conduct pilot in IN/IL, harvest learnings, prepare for scale
+Preliminary KPIs: Metrics will be formalized as part of design approval
+CPAM
+Longitudinal engagement rate
+# members enrolled in care pathways
+# engagement events per member, stratified by track
+% members longitudinally engaged with open BOI/Quality gap
+Action on gap / care team member
+Action on gap to closure / care team member
+Repeat PHQ9
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Kalpana Lebo
+
+Comprehensive Member Interactions: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Iterative Approach to Product Build for Defragmented View
+MVP (March ‘25)
+Opportunities surfaced
+Care plan goals and tasks
+Program eligibility / enrollment
+Care pathway eligibility / enrollment
+Quality gaps
+BOI gaps
+Contextual Information
+Problem/diagnosis list
+Last hospital discharge
+Documentation
+User closes opportunity via attestation (similar to task current state)
+V1 (June ‘25)
+MVP plus
+Opportunities surfaced
+Assessments due (e.g., PHQ-9)
+Social care needs
+Contextual Information
+Last PCP visit
+Medication list
+Health Gorilla outpatient records
+Member preferences
+Documentation
+BOI/Quality only: User documents structured follow-up statuses to report progress on closing opportunities
+V2 (H2 ‘25)
+V1 plus
+Opportunities prioritized based on IOS input
+Expanded use cases: User documents structured follow-up statuses to report progress on closing opportunities
+👉 Next Milestone: Design review meeting scheduled for 1/15 with business owners and market sponsor.
+⭐ Tasking Insights Applicable to Comprehensive Member Interactions and Unified View
+
+We must design with these existing pain points in mind as we introduce new concepts and ways of surfacing work, as to not exacerbate the issues:
+Desensitized Urgency
+Tasks with due dates should be used for time sensitive things that need to appear in the inbox, otherwise we overload the inbox & desensitize urgency
+Clutter / Overwhelm
+Tasks not due for a while create a lot of noise and “clog” up the inbox. Users mainly want to see the tasks due this / next week, which they need to focus on
+Performance Expectations
+Tasks are also member interventions. Care team members will always have a ton of tasks, some of which don’t go away because we are checking in on these things each time we meet with the member. There is no world in which a CHP is able to have an empty inbox, as this would mean they are doing something wrong
+Attempted vs. Overdue
+Given the dependency on member engagement to complete many member tasks, users need a way to indicate work was attempted but unable to complete if a member wasn’t reached. We lack standard guidance on this & don’t have a way to indicate attempted work in Commons. Varied approaches muddy our task data
+
+Care Pathways: Overview
+Problem Statement
+Cityblock does not have a structured approach to deliver high-value care to manage members’ conditions, associated with impactable member health and condition-specific spend. 
+Definition of Success
+Care teams can navigate through condition specific Care Pathways for members, coordinating across roles within a shared structure to deliver consistent evidence-based care expected to improve health outcomes, reduce avoidable ED/IP visits, and close associated quality gaps.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Design/Build vScale Enhancements
+Training & Launch!
+Launch 1 Support
+Build 2
+Launch 2 + Support
+Milestones
+Scale 1 Approval
+Build 2 Approval
+Scale 2 Approval
+n/a
+Detail
+Care Pathways Clinical/Ops, Product, and Analytics build of enhancements for scale
+1/13/2025: DM/HTN Care Pathways live in all markets 
+2/3/2025: Pregnancy, CHF, COPD, Asthma, CKD + Enhancements live in all markets
+Preliminary KPIs: Metrics will be formalized as part of design approval
+# enrollments in care pathways (per MSP)
+% enrolled members with medication reconciliation within 30 days
+% enrolled members with SAP within 30 days
+Business Owners
+Mike Tang
+Market Sponsor
+Sophia Hammonds
+Note: Deviations from standard S@S framework are due to advanced stage of project at time of adopting framework.
+
+Care Pathways: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Design Requirements for 1/13 Launch locked, Build in progress with most to be complete by 12/20
+👉 Next Milestone: National launch planned for 1/13
+⭐ IN/NY Handoff Completed 12/15/2024
+⭐ National Scale Training/Implementation Plan developed and underway
+Care Pathways 2025
+Market Champion kickoff 12/19/2025
+Care Pathways 2025 Training and Implementation Strategy
+
+Prioritized Panel Management: Overview
+Problem Statement
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.  Current push factors include cadenced outreach, market chase lists, signal-based proactive outreach, and follow-through on member commitments; however, these can conflict with each other and have not been integrated into unified expectations.
+Definition of Success
+Care teams maximize their effectiveness each day by focusing engagement efforts on the right member based on the appropriate cadence, impactability, and need.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Go to Market: Scale Validation
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Scale Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for panel view and operations service design
+Demo MVP
+Demo of panel view MVP and associated workflows
+Conduct pilot in MA, harvest learnings, prepare for scale
+Preliminary KPIs: Metrics will be formalized as part of design approval
+CPAM
+Longitudinal engagement rate
+# members enrolled in care pathways 
+# engagement events per member, stratified by track
+% members with lapsed engagement
+Business Owners
+Maggie Yuen
+Mike Tang
+Market Sponsor
+Libby Graves
+
+Prioritized Panel Management: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Regular Check-In Enhancements Released 12/6
+The following enhancements were identified by cross-functional and market stakeholders as (1) solving high-priority pain points with current functionality and (2) feasible for short-term improvement prior to releasing full panel management MVP.
+👉 Next Milestone: Problem statement approval by end of week (maybe end of today! 😉)
+⭐ Inputs for Prioritized Panel Management
+During initial stakeholder conversations, we have identified the following as key inputs into prioritized panel management.
+Workflows will be triggered 7 days before the check-in due date
+Tasks canceled with the reason “unable to reach” will re-trigger after a successful member interaction
+After a TOC handoff, regular check-in workflow will be re-triggered 7 days after TOC completion
+Inbound Comms
+
+Members calling into Cityblock should jump to the top of the panel list for action
+Tasks Due
+
+Members with a task due today should be actioned on today
+Appointments
+
+Care teams should keep the appointments scheduled
+Regular Check-In
+
+We should proactively check in with members at an operational cadence based on members’ need (e.g., IOS)
+Campaigns
+
+Markets and MX may have short-term sprints (e.g., flu shot campaign) that drive outreach priorities
+
+Risk-Stratified TOC Workflows: Overview
+Problem Statement
+We currently trigger high- vs. low-intensity workflows based on segmentation. However, the likelihood to readmit (LTR) score is a better predictor of readmission and is more applicable to the members who have HIE events.
+Definition of Success
+All markets are auto-triggering workflow intensity based on LTR, with fewer than 20% of workflows getting canceled and changed due to inappropriate intensity
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ Identified Risks
+Build
+Go to Market: Scale Validation
+Scale Nationally
+Optimize
+Milestones
+Deployment Approval
+Scale Approval
+Detail
+MA team reviews LTR results and approves trigger thresholds
+Conduct pilot in MA, harvest learnings
+KPIs: 
+Program completion count
+#(%) workflows cancelled with cancellation reason "Canceled due to inappropriate workflow intensity"
+Business Owners
+Charisse Hunter
+Market Sponsor
+Dhruva Kothari
+
+Loop Closure & Follow Through: Overview
+Problem Statement
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Definition of Success
+Cityblock can measurably show loop closure and manage teams against follow-through on member needs.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Build
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Deployment Approval
+Detail
+BCD engages frontline teams to identify gaps and opportunities
+Review product requirements for defragmented view and operations service design
+Demo MVP
+Demo of defragmented view MVP and associated workflows
+Preliminary KPIs: Metrics will be formalized as part of design approval
+Trust & Satisfaction score
+Loop closure [definition to be developed as part of this work]
+Quality gap closed within 30 day of consent?
+Quality opportunity actioned to closure
+Business Owners
+Maggie Yuen
+Charisse Hunter
+Market Sponsor
+Libby Graves
+
+Loop Closure & Follow Through: Progress Spotlight
+Strategy Setting
+Insights
+Ideation & Concept Development
+Develop & Learn
+Build
+Go to Market: 
+Scale Validation
+Scale Nationally
+Optimize
+S@S Phase
+⭐ Loop Closure: Expanding Established Patterns to New Applications
+👉 Next Milestone: Problem statement approval by end of week (maybe end of today! 😉)
+Established Patterns
+New Applications
+Self-Activation V2 (Scaling 1/20/25)
+
+Transportation coordination
+Appointment scheduling
+Rx requests
+Mental health resources
+Food insecurity
+Housing benefits applications
+Clothing
+DM/HTN
+Substance use programs
+Health plan benefits
+General interest
+Inbound Comms (Scaling 2/1/25)
+
+All Self-Activation V2 needs
+Appointment rescheduling
+Discharge planning
+DME assistance
+Member refusal
+Imaging result follow up
+Eligibility inquiry
+Defragmented View (Illustrative)
+
+Behavioral Health Referrals 
+Pharmacy Referrals
+Pregnancy Program Referral 
+Primary Care Provider Visit
+BOI Gap
+Social care need
+HEDIS Gap
+Dental Care 
+Tufts LTSC Referrals
+Payment/collection
+Care Coordination & Service Delivery
+
+Loop Closure Lvl. 1
+
+Loop Closure Lvl. 2
+
+Standard Work Completion Documentation & Reporting
+Receipt and Evidence of Completion
+
+Operationalizing Care Team Expectations: Overview
+Problem Statement
+(Draft)
+Across markets, our frontline staff and their managers do not have standard responsibilities and performance expectations. These inconsistencies lead to misaligned performance expectations and hinders the integration of productivity goals within panel management and proactive outreach workflows.
+Definition of Success
+(Draft)
+Develop and roll out standardized roles, responsibilities, and productivity expectations for CHPs and RNCMs. Productivity expectations are aligned with panel management and proactive outreach workflows.
+T1 sprints
+Beyond
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Status: ⬤ On Track
+Strategy Setting
+Insights
+Ideation & 
+Concept Dev
+Dev & Learn
+Milestones
+Problem Statement Approval
+Design Approval
+Build Approval
+Detail
+Review program compatibility and manager visibility requirements
+Engage frontline teams to identify gaps and opportunities
+Review frontline manager visibility requirements and cross-program operational expectation calculations
+Demo MVP
+Preliminary KPIs: Metrics will be formalized as part of design approval
+CPAM
+Longitudinal engagement rate
+More to be identified as part of strategy setting
+Business Owners
+Maggie Yuen
+Market Sponsor
+Dodie Robinson
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+2024 Cutover
+Operationalize Likelihood to Readmit
+Eric
+⬤ ↔
+Better understanding of the way claims related to IP are grouped
+Milliman grouper fails to create facility_case_id for large percentage of IP visits
+Unable to evaluate model until this is resolved
+Eric H to take lead in resolution, bringing in SMEs from MedEcon; markets, data platform
+QA model output with pilot market to set appropriate threshold for low/high intensity TOC workflow triggering
+Comprehensive Member Interactions: Member Needs
+Epic 10: Refresh Commons UI
+Epic 11: Frontline manager visibility
+Epic 13: Defragmented member view
+Epic 14: Post-activated outreach - IOS
+Epic 16: Contextual information in UI
+Irene
+⬤ ↔
+Discovery sprint complete
+Wireframe reviewed with scrum team
+Member signals refactor EDD approved
+Care pathways enhancements complete for January scale 
+Design approval to align on MVP scope (opportunities/actions to include)  
+Loop Closure & Follow Through
+Epic 22: Close loop for member needs
+Joe
+⬤ ↔
+Discovery sessions with  Practice Management and  Care Optimization & Scale teams working toward defining MVP  deliverables
+Align on MVP solution 
+Epic 9: Reporting on member needs
+Sameer
+⬤ ↔
+Review final service design and align on success metrics
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Monthly Development Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+Prioritized Panel Management
+Epic 9: Impactable Opportunity Score 
+Epic 10: Refresh Commons UI
+
+Irene
+⬤ ↔
+Inbox and tasking quick wins completed, pending release   
+Initial IOS model requirements defined
+Design approval  
+Design approval for v1 IOS model requirements
+KTLO
+Unplanned work to support business needs
+Irene
+⬤ ↔
+Update Zing partner name to support actuarial reporting
+Update to TOC workflow content
+Create new OS supported TOC  workflows
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Appendix
+
+Context: Strategic Solutions T1 2025 Scope
+Critical Enabler
+Product Build
+Operations Release
+S@S Phase
+Omnichannel Engagement
+Inbound Comms Observability
+Regular Inbound Comms Reporting
+Platform Vendor Evaluation
+N/A
+Scaled Campaigns: Outreach Tracking
+Campaign Playbook, Resourcing, Reporting
+Scaled Campaigns: Outreach Configurator
+Campaign Playbook
+Talkdesk Outreach List Stability & Priming
+N/A
+Intelligent Prioritization & 
+Loop Closure
+Defragmented Member View
+Comprehensive Member Interactions
+Panel View
+Prioritized Panel Management
+Loop Closure
+Loop Closure & Follow Through
+Frontline Manager Visibility
+Operationalizing Care Team Expectations
+Workforce Management & AI
+N/A (Frontline Manager Visibility above)
+Staffing Calculator Programming
+N/A (Frontline Manager Visibility above)
+Operational Visibility & Management Capabilities
+N/A (Frontline Manager Visibility above)
+Operationalizing Care Team Expectations
+Case Conference, AI, Commons Co-Pilot, Goal Suggestions
+Operationalizing AI Work Summarization
+Growth Solutions
+LTSS Flag
+LTSS (non-delegated) Solutions
+LTSS Rules Engine & Commons Enhancements
+LTSS Delegated Programming
+N/A
+FFS Billing Programming
+
+Kickoff
+12/9/24
+
+Kickoff Agenda
+108
+Proprietary & Confidential  
+Problem Statements & Scope
+Solving @ Scale Framework
+RACI
+Timeline
+Governance & Next Steps
+
+Intelligent Prioritization & Loop Closure: T1 Scope
+Defragmented Member View
+Comprehensive Member Interactions
+(Substream: Care Pathways)
+Care teams are engaging members through multiple, disconnected outreach efforts that are (1) inefficient at advancing progress on open opportunities (e.g., quality gaps) and (2) less effective at addressing members’ needs.
+Business Problem
+Product Build
+Operations Release
+Care teams do not have unified guidance or prompts on which member should be engaged next in their day-to-day operations.
+Panel View
+Prioritized Panel Management
+(Substream: Risk Stratified TOC)
+We do not currently have a way to connect identified member needs to action taken to address that need and/or loop closure of that need in our documentation or data.
+Loop Closure
+Loop Closure & Follow Through
+Our frontline staff, and their managers, do not have clear responsibilities and performance expectations. Productivity expectations for care teams are not integrated in panel management or cadenced proactive outreach expectations.
+Frontline Manager Visibility
+Operationalizing Care Team Expectations
+
+110
+Proprietary & Confidential  
+Test & Build
+Develop the product, operational, and other capabilities to successfully deliver experiences that can scale
+Scale
+Increase confidence in go to market plans and scale experiences
+as confidence builds
+Optimize
+Maximize the impact and cost effectiveness of each delivery channel
+Strategy & Design
+Design the strategy and supporting concepts to achieve Cityblock’s business, health and 
+workforce goals in line with our theory of change
+1
+Strategy Setting
+What are the outcomes, metrics and member/user experiences we are trying to drive and what specific problem will we focus on to achieve them
+2
+Insights
+
+Deeper problem elaboration to understand why that outcome, experience and metrics aren’t being met today -- what’s promoting it and inhibiting it? What workarounds do users have? This can include operational insights, member insights, analytics, etc.
+3
+Ideation & Concept Development
+
+What are the range of solutions for this problem, what is our level of confidence in them? What will drive member and user experience?operational insights, member insights, analytics, etc.
+4
+Develop & Learn
+
+Assess with high fidelity whether solutions will have the intended business and experience impact. May include lightweight product builds or be manually piloted.
+5
+Build
+
+Use lessons learned to build any other necessary product enablements, workforce labor allocations, change management/implementation plans, etc.
+6
+Go to market –scale validation
+
+Tests with progressively larger sets of users to ensure the built solutions can succeed at scale.
+7
+Scale nationally
+
+Experience scaled to all markets, includes a “warranty period” where business owner closely monitors performance at scale.
+8
+Optimize
+
+Business, program and channel owners optimize experience with oversight of evaluation, when broader support is needed owners can re-initiate process from strategy step.
+Solving at Scale: Collaborating to set cross-functional strategy, build together and scale experiences at Cityblock
+PHASE
+Solving at Scale helps cross functional teams solve problems together with a focus on progressively building confidence in solutions. Solving at Scale:
+is first and foremost based on Cityblock’s First Principles
+embraces all functions. It’s not meant for a specific function; it’s a way to work across functions and disciplines
+intends to give teams an outline of the most important steps and questions to consider without prescribing an exact formula
+assumes cycles between the steps and iteration. Not every solution will make it through every step.
+flexes based on the problem at hand. A team could cycle through these steps in days or weeks depending on the complexity of the problem and solution spaces.
+HOW WE WORK TOGETHER
+FALL 2024
+Feedback loop
+Safety in Design
+Trust Checklist
+Accessibility
+Solving @ Scale Framework
+We are here!
+
+111
+Proprietary & Confidential  
+RACI - S@S Approval Points UPDATED
+Key Approval
+Business Owner
+Market Sponsor
+Product Manager
+Ops Dev & Deploy
+Program SME
+BCD
+Engineering
+Problem Approval
+Strategy Setting → Insights
+A
+R
+R
+R
+R
+C
+C
+Design Approval
+Ideation → Test & Learn
+A
+R
+R
+R
+R
+C
+C
+Build Approval
+Test & Learn → Build
+R
+C
+A
+C
+C
+C
+R
+Deployment Approval
+Build → Go-To-Market
+R
+A
+R
+R
+R
+C
+C
+Scale Approval
+Go-To-Market → Scale Nationally
+A
+R
+R
+R
+R
+C
+C
+Approvals are summarized in a Solution Outline, and we have developed templates to help facilitate approvals
+Consulted
+Accountable
+Responsible
+R
+A
+C
+I
+Informed
+
+112
+Proprietary & Confidential  
+In the Solving@Scale Framework, the following individuals are named owners, sponsors, and approvers of the work
+Consulted
+Accountable
+Responsible
+R
+A
+C
+I
+Informed
+Role / Program
+Comprehensive Member Interactions
+↳Substream: 
+Care Pathways
+Prioritized Panel Management
+↳Substream: 
+Risk Stratified TOC Workflows
+Loop Closure & Follow Through
+Operationalizing Care Team Expectations
+Business Owner
+Maggie Yuen / Mike Tang
+Charisse Hunter
+Maggie Yuen / Mike Tang
+Charisse Hunter
+Maggie Yuen / 
+Charisse Hunter
+Maggie Yuen
+Market Sponsor
+Kalpana Lebo
+Sophia Hammonds
+Libby Graves
+Dhruva Kothari
+Libby Graves
+Dodie Robinson
+Product Manager
+Irene Duett
+Irene Duett
+Irene Duett
+Irene Duett
+Joe Gorup
+Irene Duett / 
+Dom Fichera
+Ops Development & Deployment
+Fabiana Simone
+Sam Singer
+Fabiana Simone 
+Sam Ferguson
+Ryan Senning
+Rosie Ebadat
+Program SME
+Laura Santoso
+Laura Santoso
+Laura Santoso
+Amy Salgado
+Laura Santoso
+Kyle Michel
+BCD
+Rachel Banay
+Rachel Banay
+Rachel Banay
+Jesse Trippe
+Rachel Banay
+Neves Rodrigues
+Engineering
+Matt Franz
+Matt Franz
+Matt Franz
+Dan Hopkins (he, him)
+Matt Franz
+Matt Franz
+
+Updated 12/4
+T1 sprints
+Beyond
+Initiative
+S@S Phase & Status
+12/2-12/6
+12/9-12/20
+12/23-1/3
+1/6-1/17
+1/20-1/31
+2/3-2/14
+2/17-2/28
+3/3-onward
+Comprehensive Member Interactions
+Strategy & Design: Ideation & Concept Development
+
+⬤ On Track
+Loop Closure & Follow Through
+Strategy & Design: Strategy Setting
+
+⬤ On Track
+Prioritized Panel Management
+Strategy & Design: Ideation & Concept Development
+
+⬤ On Track
+Operationalizing Care Team Expectations: Role Clarity & Standardization
+Strategy & Design: Strategy Setting
+
+⬤ On Track
+Strategy & Design
+Test & Build
+Optimize
+Scale
+T1: Care Team Operations Roadmap (Pt. 1)
+Progress based on SoT SaS Initiative Pipeline
+Solving at Scale phase
+Approval complete
+Upcoming approval point
+Approval points correspond to approval points in the Solving at Scale framework
+
+Intelligent Prioritization & Loop Closure Dev Update
+Care Optimization and Scale Scrum ClickUp Board
+
+
+Tactics / Initiatives
+Product Owner
+Status
+Recent Accomplishments
+Risks/Blockers
+Key Next Steps
+2024 Cutover
+Likelihood to Readmit
+Eric
+l⬤ ↔
+Better understanding of the way claims related to IP are grouped
+Milliman grouper fails to create facility_case_id for large percentage of IP visits
+Unable to evaluate model until this is resolved
+Eric H to take lead in resolution, bringing in SMEs from MedEcon; markets, data platform
+Comprehensive Member Interactions: Member Needs
+Epic 10: Refresh Commons UI
+Epic 11: Frontline manager visibility
+Epic 13: Defragmented member view
+Epic 14: Post-activated outreach - IOS
+Epic 16: Contextual information in UI
+Irene
+⬤ ↔
+Discovery sprint complete
+Wireframe reviewed with scrum team
+Member signals refactor EDD approved
+Care pathways enhancements complete for January scale 
+Design approval to align on MVP scope (opportunities/actions to include)  
+Loop Closure & Follow Through
+Epic 22: Close loop for member needs
+Joe
+⬤ ↔
+Discovery sessions  with PM and 
+Epic 9: Reporting on member needs
+Sameer
+⬤ ↔
+Review final service design and align on success metrics
+Prioritized Panel Management
+Epic 9: Impactable Opportunity Score 
+Epic 10: Refresh Commons UI
+
+Irene
+⬤ ↔
+Inbox and tasking quick wins completed, pending release   
+Initial IOS model requirements defined
+Design approval  
+Design approval for v1 IOS model requirements
+KTLO
+Unplanned work to support business needs
+Irene
+⬤ ↔
+Update Zing partner name to support actuarial reporting
+Update to TOC workflow content
+Create new OS supported TOC  workflows
+Status Key
+⬤ High confidence in meeting target ⬤ Identified risks for SteerCo resolution 
+⬤ Identified risks/blockers needing escalation  ⬤ Target achieved ⬤ Not started 
+↔ Stayed the same ↓ Increased risk ↑ Decreased risk since last update
+
+Monthly Development Update: Scrum Team XXX
+ClickUp Board
+Complete
+(summary of key work completed)
+In Progress
+(major work currently in progress)
+Up Next
+(Work not yet started but planned to start in the next month
+Epic 1: XXX
+Epic 2: XXX
+KTLO / Quick Hit
+Key Insights and Research
+This section should be used to highlight any data driven insights related to the projects in flight, as well as summarizing any research done by scrum team members
+Can link to external documents; helpful to have mockups / screenshots / operations flow links or attached to deck
+Deprecated - added content to slide 21
+
+Strategic Solutions Meeting Forums & Cadence
+
+
+
+SSMR Meeting participants represent key business owners who can choose to invite other relevant decision-makers from their teams
+Live discussion time will prioritize working through risk / blocker mitigation. General status updates are expected to be completed and reviewed ahead of each SSDG Meeting
+SSMR Meetings are not intended to be the only opportunity for approval; Approvals can be obtained async for key S@S approval points
+Governing Body/Forum
+Cadence
+Focus / Agenda
+Participants
+Strategic Solutions Governance (replacing PAB)
+Monthly, 2h
+Review interim milestones and R/Y/G tracking related to Solving @ Scale across program areas
+Manage cross-cutting enablers / priorities 
+Manage risks and escalations, incl. those that require ELT input, major new requests 
+Adam W, Mitch, Andrea, Mike R, Kam, Execution Customers, Market Representative
+Strategic Solutions Monthly Review (per Domain, replace SteerCo’s)
+Data & Insights, BOI, Quality
+Omnichannel Engagement
+Intelligent Prioritization, Handoffs & Loop Closure
+Workforce Mgmt, AI
+Growth
+Monthly 3, 60m
+Review interim milestones and R/Y/G tracking related to Solving @ Scale; identify opportunities to move to G 2
+Align on risk mitigation and escalations
+Surface broad cross-cutting questions impacting multiple initiatives
+Zoe, Ruchi, Execution Customer, Business Owners 1, Execution Teams
+Solving at Scale Approvals
+Per initiative
+Ad hoc or async
+Approval to move from one S@S phase to another
+Zoe, Ruchi, Execution Customer, Business Owners 1, Execution Teams
+Dyad+
+Temporary for ~3 mo to facilitate transition to new operating cadence
+Bi-weekly, 45m
+Product and ODD to ensure alignment on problem space, and adherence to new governance structure and S@S process
+Risk mitigation, decision-making
+Align on escalations as needed
+Zoe, Ruchi, Product & ODD dyads + Eng, BCD
+MVP / VP MMP
+Biweekly, 45m
+Key touchpoint to maintain alignment with MVPs and VP MMP
+MVPs bi-weekly and every other VP MMP
+Checking in on where we need market sponsor, market nuance, what we need to align
+Zoe, Ruchi, MVP, VP MMP
+
+Appendix
+
+Mapping a user journey through Intelligent Prioritization & Loop Closure scope
+118
+Proprietary & Confidential  
+The Day Begins: Who to Engage?
+RN CMs and CHPs open Commons to their homepage, where they see lists of members who need action today.
+Product Build: Panel View
+The “panel view” is a revamped version of the current homepage that provides 3 widgets for RN CMs and CHPs to decide who to engage next:
+
+Members with appointment scheduled today
+Members with task due (urgent tasks at the top)
+Members due for proactive outreach 
+Connecting with a Member: What to Discuss?
+RN CMs and CHPs comprehensively address all aspects of a member’s care appropriate to their scope of practice.
+Product Build: Defragmented View
+The “defragmented view” is a revamped version of the current Member 360 that surfaces all relevant information that may be discussed during a member interaction.
+
+Care pathway eligibility
+Program eligibility
+Care plan goals and tasks
+BOI and Quality gaps
+Documentation and System Loop Closure
+Following a member interaction, RN CMs and CHPs document their care progress, which automatically updates members queued in the panel view for engagement
+Product Build: Loop Closure
+Loop closure is how Cityblock monitors that actions surfaced for care teams are completed. This includes both documentation support for care teams to record progress on identified member needs, as well as automatic system identification of completed work.
+
+Loop closure ties together the panel view and the defragmented view. Work identified and completed during a comprehensive interaction impacts when a member will next be queued for engagement.

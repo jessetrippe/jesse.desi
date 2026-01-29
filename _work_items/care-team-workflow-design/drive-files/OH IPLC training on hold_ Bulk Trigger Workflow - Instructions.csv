@@ -1,0 +1,11 @@
+,,,
+Purpose,This is the template for creating batches of tasks (initiatives) in Commons,,
+,,,
+Usage,"1. Make a copy of the ""Template"" sheet",,
+,"2. Populate the ""patientId"" column with the Cityblock patientID for the members that we want to trigger this workflow for",,
+,3. Go to File -> Download -> Comma Separated Values (CSV),,
+,"4. When you're ready, upload the CSV file into the ""Bulk Trigger Workflow"" feature in Commons. NOTE: This takes effect immediately in Commons - measure twice, cut once :) ",,
+,,,
+Template Description,FieldName,Description,Source
+,patientId,The member's Commons patient ID (uuidv4 format),Looker
+,workflowTemplateSlug,The template slug is the specific workflow you want to kick off for the patient.,
