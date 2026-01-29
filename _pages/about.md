@@ -25,7 +25,7 @@ theme_classes: "bg-stone-100 text-cyan-700 dark:text-pink-200 dark:bg-slate-800"
 </div>
 
 <div class="my-32">
-  <h1 class="max-w-5xl font-roboto-slab leading-tight md:leading-tight text-3xl md:text-5xl lg:text-6xl lg:leading-tight">How I Work</h1>
+  <h1 class="max-w-5xl mb-8 lg:mb-12 font-roboto-slab leading-tight md:leading-tight text-3xl md:text-5xl lg:text-6xl lg:leading-tight">How I Work</h1>
   <div class="grid sm:grid-cols-2 gap-10 jt-prose">
     <div>
       <h2>Test cheap, learn fast</h2>
