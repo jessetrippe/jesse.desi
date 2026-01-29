@@ -20,7 +20,7 @@ theme_classes: "bg-stone-100 text-sky-800 dark:bg-stone-800 dark:text-sky-100"
       {% include vectors/ux.svg class="h-48 w-40 fill-current" %}
     </div>
     <h2 class="font-bold mb-6 text-xl lg:text-2xl uppercase tracking-wider">Enterprise UX</h2>
-    <p class="lg:text-xl">I specialize in enterprise software where users have complicated jobs. I make those jobs easier.</p>
+    <p class="lg:text-xl">I specialize in enterprise software where users have complicated jobs and I make those jobs easier.</p>
   </div>
   <div>
     <div class="mb-6">
