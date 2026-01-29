@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Shuffl Marketing Site"
-description: "Website and branding for a small Slack app aimed to keep remote teams connected by pairing random employees up for lunch."
+description: "Refreshing the marketing site for a Slack app that pairs coworkers for lunch to promote inter-office connection."
 order: 10
 featured: shuffl_1.png
 meta: [Shuffl, Design, Development, February 2019]
 ---
 
-A friend built a small Slack app that paired employees together and set up a day and time to get lunch as a way to promote inter-office communication. As the product grew in usage and time passed, the tool's marketing website began to collect dust informationally and visually. I gave the website a refresh of both the content and the design. This improved the visitor to install ratio drastically and made the owner much more proud of their app.
+A friend built a Slack app that randomly pairs employees and schedules lunch dates to promote inter-office communication. As the product grew, the marketing website fell behind. The content was outdated and the design looked stale.
+
+I refreshed both the content and the design. The update improved the visitor-to-install ratio and gave the owner a site they were proud to share.
 
 ![Shuffl Screen Shot 1](/images/projects/shuffl_1.png){: class="border border-gray-200" loading="lazy"}
 ![Shuffl Screen Shot 2](/images/projects/shuffl_2.png){: class="border border-gray-200" loading="lazy"}
