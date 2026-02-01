@@ -24,32 +24,30 @@ theme_classes: "bg-stone-100 text-cyan-700 dark:text-pink-200 dark:bg-slate-800"
   <hr>
 </div>
 
-<div class="my-32">
-  <h1 class="max-w-5xl mb-8 lg:mb-12 font-roboto-slab leading-tight md:leading-tight text-3xl md:text-5xl lg:text-6xl lg:leading-tight">How I Work</h1>
-  <div class="grid sm:grid-cols-2 gap-10 jt-prose">
-    <div>
+<div class="my-32 grid sm:grid-cols-3 md:grid-cols-2 gap-10 jt-prose">
+    <h1 class="col-span-2 sm:col-start-2 md:col-start-1 mb-8 lg:mb-12 font-roboto-slab leading-tight md:leading-tight text-3xl md:text-6xl lg:text-7xl lg:leading-tight">How I Work</h1>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Test cheap, learn fast</h2>
       <p>I'd rather spend a week on a scrappy pilot than a month on a polished feature nobody wants. I test hypotheses with real users early, kill what doesn't work, and carry the insights forward.</p>
     </div>
-    <div>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Remove before adding</h2>
       <p>Most products have too many features, not too few. I look at usage data and cut what isn't working. Reducing surface area often does more for users than adding new functionality.</p>
     </div>
-    <div>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Alignment is design work</h2>
       <p>A good design that nobody adopts is a failed design. I spend real time on stakeholder alignment, cross-team buy-in, and making sure the people affected by a decision have a voice in it.</p>
     </div>
-    <div>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Design for trust, not just function</h2>
       <p>If the system behaves unexpectedly once, users stop believing in it. I think about edge cases, error states, and the moments where trust gets built or broken.</p>
     </div>
-    <div>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Stay close to the code</h2>
       <p>I prototype in code when it's faster than mockups. I can speak to engineers about constraints and trade-offs. This keeps my designs grounded in what's actually buildable.</p>
     </div>
-    <div>
+    <div class="col-span-2 sm:col-start-2 md:col-span-1 md:col-start-auto">
       <h2>Advocate, then commit</h2>
       <p>I'll push hard for what I believe is right. But once a decision is made, I commit fully. Disagreeing and committing is part of working on a team.</p>
     </div>
-  </div>
 </div>
