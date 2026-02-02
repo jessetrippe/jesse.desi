@@ -101,7 +101,7 @@ layout: default
 title: "Project Title"
 description: "Project description"
 order: 1
-featured: image-filename.png
+featured: image-filename.webp
 meta: [Company, Role, Year]
 ---
 ```

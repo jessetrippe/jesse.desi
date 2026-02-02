@@ -3,7 +3,7 @@ layout: default
 title: "Amazon Work Scheduling"
 description: "Replacing brittle spreadsheets with a scheduling tool for Amazon's network of 3rd-party delivery companies."
 order: 5
-featured: amazon-scheduling-final-01.png
+featured: amazon-scheduling-final-01.webp
 meta: [Amazon Logistics, Design, 2018]
 ---
 
@@ -25,18 +25,18 @@ The findings confirmed what we suspected: spreadsheets were the norm because the
 
 Users also found the process of submitting driver rosters to Amazon repetitive and low-value. They were entering the same information in multiple places.
 
-![Amazon Scheduling Field Research 1](/images/projects/amazon-scheduling-fr-01.jpg){: height="1125" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 2](/images/projects/amazon-scheduling-fr-02.jpg){: height="1273" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 3](/images/projects/amazon-scheduling-fr-03.jpg){: height="768" width="965" loading="lazy"}
-![Amazon Scheduling Field Research 4](/images/projects/amazon-scheduling-fr-04.jpg){: height="1125" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 5](/images/projects/amazon-scheduling-fr-05.jpg){: height="1125" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 6](/images/projects/amazon-scheduling-fr-06.jpg){: height="1125" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 7](/images/projects/amazon-scheduling-fr-07.jpg){: height="992" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 8](/images/projects/amazon-scheduling-fr-08.jpg){: height="1539" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 9](/images/projects/amazon-scheduling-fr-09.jpg){: height="1782" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 10](/images/projects/amazon-scheduling-fr-10.jpg){: height="1125" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 11](/images/projects/amazon-scheduling-fr-13.jpg){: height="1247" width="1500" loading="lazy"}
-![Amazon Scheduling Field Research 12](/images/projects/amazon-scheduling-fr-14.jpg){: height="1228" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 1](/images/projects/amazon-scheduling-fr-01.webp){: height="1125" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 2](/images/projects/amazon-scheduling-fr-02.webp){: height="1273" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 3](/images/projects/amazon-scheduling-fr-03.webp){: height="768" width="965" loading="lazy"}
+![Amazon Scheduling Field Research 4](/images/projects/amazon-scheduling-fr-04.webp){: height="1125" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 5](/images/projects/amazon-scheduling-fr-05.webp){: height="1125" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 6](/images/projects/amazon-scheduling-fr-06.webp){: height="1125" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 7](/images/projects/amazon-scheduling-fr-07.webp){: height="992" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 8](/images/projects/amazon-scheduling-fr-08.webp){: height="1539" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 9](/images/projects/amazon-scheduling-fr-09.webp){: height="1782" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 10](/images/projects/amazon-scheduling-fr-10.webp){: height="1125" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 11](/images/projects/amazon-scheduling-fr-13.webp){: height="1247" width="1500" loading="lazy"}
+![Amazon Scheduling Field Research 12](/images/projects/amazon-scheduling-fr-14.webp){: height="1228" width="1500" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -45,12 +45,12 @@ Users also found the process of submitting driver rosters to Amazon repetitive a
 
 We ran a design sprint to define the long-term vision. Using research findings, the team brainstormed using "how might we" statements, grouped them into themes, and prioritized features. I then conducted competitive research to see how existing scheduling tools solved similar problems.
 
-![Amazon Scheduling Brainstorm 1](/images/projects/amazon-scheduling-brainstorming-01.jpg){: height="865" width="1500" loading="lazy"}
-![Amazon Scheduling Brainstorm 2](/images/projects/amazon-scheduling-brainstorming-02.jpg){: height="1335" width="1500" loading="lazy"}
-![Amazon Scheduling Brainstorm 3](/images/projects/amazon-scheduling-brainstorming-03.jpg){: height="1075" width="1740" loading="lazy"}
-![Amazon Scheduling Brainstorm 4](/images/projects/amazon-scheduling-brainstorming-04.jpg){: height="1075" width="1645" loading="lazy"}
-![Amazon Scheduling Brainstorm 5](/images/projects/amazon-scheduling-brainstorming-05.jpg){: height="875" width="1500" loading="lazy"}
-![Amazon Scheduling Brainstorm 6](/images/projects/amazon-scheduling-brainstorming-06.jpg){: height="1910" width="1883" loading="lazy"}
+![Amazon Scheduling Brainstorm 1](/images/projects/amazon-scheduling-brainstorming-01.webp){: height="865" width="1500" loading="lazy"}
+![Amazon Scheduling Brainstorm 2](/images/projects/amazon-scheduling-brainstorming-02.webp){: height="1335" width="1500" loading="lazy"}
+![Amazon Scheduling Brainstorm 3](/images/projects/amazon-scheduling-brainstorming-03.webp){: height="1075" width="1740" loading="lazy"}
+![Amazon Scheduling Brainstorm 4](/images/projects/amazon-scheduling-brainstorming-04.webp){: height="1075" width="1645" loading="lazy"}
+![Amazon Scheduling Brainstorm 5](/images/projects/amazon-scheduling-brainstorming-05.webp){: height="875" width="1500" loading="lazy"}
+![Amazon Scheduling Brainstorm 6](/images/projects/amazon-scheduling-brainstorming-06.webp){: height="1910" width="1883" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -59,19 +59,19 @@ We ran a design sprint to define the long-term vision. Using research findings, 
 
 I interviewed teams across Amazon who had built scheduling tools and researched third-party solutions. The conclusion: we needed to build a purpose-built tool that served both the delivery companies and Amazon's operational needs.
 
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-01.jpg){: height="525" width="893" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-04.jpg){: height="518" width="522" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-07.png){: height="529" width="937" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-10.png){: height="946" width="1640" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-13.png){: height="840" width="1400" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-02.jpg){: height="520" width="854" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-05.jpg){: height="517" width="520" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-08.png){: height="668" width="904" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-11.png){: height="1096" width="1707" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-03.jpg){: height="527" width="525" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-06.png){: height="2688" width="2484" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-09.png){: height="1214" width="1500" loading="lazy"}
-![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-12.png){: height="967" width="1500" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-01.webp){: height="525" width="893" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-04.webp){: height="518" width="522" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-07.webp){: height="529" width="937" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-10.webp){: height="946" width="1640" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-13.webp){: height="840" width="1400" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-02.webp){: height="520" width="854" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-05.webp){: height="517" width="520" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-08.webp){: height="668" width="904" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-11.webp){: height="1096" width="1707" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-03.webp){: height="527" width="525" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-06.webp){: height="2688" width="2484" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-09.webp){: height="1214" width="1500" loading="lazy"}
+![Amazon Scheduling Competitive Research](/images/projects/amazon-scheduling-cr-12.webp){: height="967" width="1500" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -80,24 +80,24 @@ I interviewed teams across Amazon who had built scheduling tools and researched 
 
 We sketched solutions for both desktop (schedulers) and mobile (drivers). After a full day of iteration, I selected a direction and built storyboards and wireframes to present to leadership.
 
-![Amazon Scheduling Wireframe 1](/images/projects/amazon-scheduling-wf-01.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 2](/images/projects/amazon-scheduling-wf-02.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 3](/images/projects/amazon-scheduling-wf-03.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 4](/images/projects/amazon-scheduling-wf-04.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 5](/images/projects/amazon-scheduling-wf-05.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 6](/images/projects/amazon-scheduling-wf-07.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 7](/images/projects/amazon-scheduling-wf-11.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 8](/images/projects/amazon-scheduling-wf-13.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 9](/images/projects/amazon-scheduling-wf-14.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 10](/images/projects/amazon-scheduling-wf-17.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 11](/images/projects/amazon-scheduling-wf-18.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 12](/images/projects/amazon-scheduling-wf-19.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 13](/images/projects/amazon-scheduling-wf-23.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 14](/images/projects/amazon-scheduling-wf-28.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 15](/images/projects/amazon-scheduling-wf-29.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 16](/images/projects/amazon-scheduling-wf-30.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 17](/images/projects/amazon-scheduling-wf-31.png){: height="967" width="1280" loading="lazy"}
-![Amazon Scheduling Wireframe 18](/images/projects/amazon-scheduling-wf-37.png){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 1](/images/projects/amazon-scheduling-wf-01.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 2](/images/projects/amazon-scheduling-wf-02.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 3](/images/projects/amazon-scheduling-wf-03.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 4](/images/projects/amazon-scheduling-wf-04.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 5](/images/projects/amazon-scheduling-wf-05.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 6](/images/projects/amazon-scheduling-wf-07.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 7](/images/projects/amazon-scheduling-wf-11.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 8](/images/projects/amazon-scheduling-wf-13.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 9](/images/projects/amazon-scheduling-wf-14.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 10](/images/projects/amazon-scheduling-wf-17.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 11](/images/projects/amazon-scheduling-wf-18.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 12](/images/projects/amazon-scheduling-wf-19.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 13](/images/projects/amazon-scheduling-wf-23.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 14](/images/projects/amazon-scheduling-wf-28.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 15](/images/projects/amazon-scheduling-wf-29.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 16](/images/projects/amazon-scheduling-wf-30.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 17](/images/projects/amazon-scheduling-wf-31.webp){: height="967" width="1280" loading="lazy"}
+![Amazon Scheduling Wireframe 18](/images/projects/amazon-scheduling-wf-37.webp){: height="967" width="1280" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -112,14 +112,14 @@ The calendar was taking up too much space, so I tried using just an input field.
 
 During testing, I found users couldn't quickly identify outstanding work on the page. I iterated on the visual hierarchy and added tooltips to clarify actions. We also added hours and locations to the driver table based on user feedback and iterated on how to show overtime hours. I built a working prototype in CodePen and worked closely with engineering during implementation.
 
-![Amazon Scheduling Component 1](/images/projects/amazon-scheduling-calendar-picker.png){: height="970" width="841" loading="lazy"}
-![Amazon Scheduling Component 2](/images/projects/amazon-scheduling-calendar-in-context.png){: height="800" width="1306" loading="lazy"}
-![Amazon Scheduling Component 3](/images/projects/amazon-scheduling-calendar-no-week.png){: height="560" width="651" loading="lazy"}
-![Amazon Scheduling Component 4](/images/projects/amazon-scheduling-calendar-on-off.png){: height="560" width="798" loading="lazy"}
-![Amazon Scheduling Component 5](/images/projects/amazon-scheduling-calendar-color-block.png){: height="1202" width="794" loading="lazy"}
-![Amazon Scheduling Component 6](/images/projects/amazon-scheduling-calendar-final.png){: height="950" width="870" loading="lazy"}
-![Amazon Scheduling Component 7](/images/projects/amazon-scheduling-calendar-no-date-picker.png){: height="2276" width="2265" loading="lazy"}
-![Amazon Scheduling Component 8](/images/projects/amazon-scheduling-outstanding-iteration.png){: class="col-span-2" height="373" width="1167" loading="lazy"}
+![Amazon Scheduling Component 1](/images/projects/amazon-scheduling-calendar-picker.webp){: height="970" width="841" loading="lazy"}
+![Amazon Scheduling Component 2](/images/projects/amazon-scheduling-calendar-in-context.webp){: height="800" width="1306" loading="lazy"}
+![Amazon Scheduling Component 3](/images/projects/amazon-scheduling-calendar-no-week.webp){: height="560" width="651" loading="lazy"}
+![Amazon Scheduling Component 4](/images/projects/amazon-scheduling-calendar-on-off.webp){: height="560" width="798" loading="lazy"}
+![Amazon Scheduling Component 5](/images/projects/amazon-scheduling-calendar-color-block.webp){: height="1202" width="794" loading="lazy"}
+![Amazon Scheduling Component 6](/images/projects/amazon-scheduling-calendar-final.webp){: height="950" width="870" loading="lazy"}
+![Amazon Scheduling Component 7](/images/projects/amazon-scheduling-calendar-no-date-picker.webp){: height="2276" width="2265" loading="lazy"}
+![Amazon Scheduling Component 8](/images/projects/amazon-scheduling-outstanding-iteration.webp){: class="col-span-2" height="373" width="1167" loading="lazy"}
 {: class="gallery grid-cols-2"}
 
 ---
@@ -132,9 +132,9 @@ We developed a launch plan that released core features first, with additional sc
 
 The desktop scheduling tool launched in Fall 2018 with weekly templates, daily and weekly views, time-off scheduling, and filtering. It replaced the spreadsheet workflows for hundreds of delivery companies across North America. The team then focused on a driver-facing mobile experience to receive and make changes to schedules, planned for mid-2019.
 
-![Amazon Scheduling Final 1](/images/projects/amazon-scheduling-final-01.png){: height="1928" width="2560" loading="lazy"}
-![Amazon Scheduling Final 2](/images/projects/amazon-scheduling-final-02.png){: height="1928" width="2560" loading="lazy"}
-![Amazon Scheduling Final 3](/images/projects/amazon-scheduling-final-03.png){: height="1928" width="2560" loading="lazy"}
-![Amazon Scheduling Final 4](/images/projects/amazon-scheduling-final-04.png){: height="1928" width="2560" loading="lazy"}
-![Amazon Scheduling Final 5](/images/projects/amazon-scheduling-final-05.png){: height="2048" width="2880" loading="lazy"}
+![Amazon Scheduling Final 1](/images/projects/amazon-scheduling-final-01.webp){: height="1928" width="2560" loading="lazy"}
+![Amazon Scheduling Final 2](/images/projects/amazon-scheduling-final-02.webp){: height="1928" width="2560" loading="lazy"}
+![Amazon Scheduling Final 3](/images/projects/amazon-scheduling-final-03.webp){: height="1928" width="2560" loading="lazy"}
+![Amazon Scheduling Final 4](/images/projects/amazon-scheduling-final-04.webp){: height="1928" width="2560" loading="lazy"}
+![Amazon Scheduling Final 5](/images/projects/amazon-scheduling-final-05.webp){: height="2048" width="2880" loading="lazy"}
 {: class="gallery"}

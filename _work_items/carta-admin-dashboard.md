@@ -3,7 +3,7 @@ layout: default
 title: "Carta Public Admin Dashboard"
 description: "A two-week sprint to replace an unhelpful landing page with a dashboard that actually helped administrators get work done."
 order: 2
-featured: carta-admin-summary-mvp.png
+featured: carta-admin-summary-mvp.webp
 meta: [Carta, Design, 2022]
 ---
 
@@ -17,7 +17,7 @@ The answers shaped the dashboard: surface pending tasks, show key metrics at a g
 
 We shipped the MVP within the two-week window. The dashboard reduced time-to-task for common actions and gave administrators a reason to start their session on the landing page instead of navigating past it.
 
-![Carta Public Admin Dashboard Screen Shot 1](/images/projects/carta-admin-summary-structure.png){: class="border border-gray-200" loading="lazy"}
-![Carta Public Admin Dashboard Screen Shot 2](/images/projects/carta-admin-summary-long-term.png){: class="border border-gray-200" loading="lazy"}
-![Carta Public Admin Dashboard Screen Shot 3](/images/projects/carta-admin-summary-mvp.png){: class="border border-gray-200 col-span-2" loading="lazy"}
+![Carta Public Admin Dashboard Screen Shot 1](/images/projects/carta-admin-summary-structure.webp){: class="border border-gray-200" loading="lazy"}
+![Carta Public Admin Dashboard Screen Shot 2](/images/projects/carta-admin-summary-long-term.webp){: class="border border-gray-200" loading="lazy"}
+![Carta Public Admin Dashboard Screen Shot 3](/images/projects/carta-admin-summary-mvp.webp){: class="border border-gray-200 col-span-2" loading="lazy"}
 {: class="gallery grid-cols-2"}

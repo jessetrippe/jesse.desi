@@ -3,7 +3,7 @@ layout: default
 title: "Amazon Explore"
 description: "Designing a browser-based streaming interface for virtual tours and a mobile app for guides delivering live experiences worldwide."
 order: 3
-featured: amazon-explore-customer-in-session-shoppping.png
+featured: amazon-explore-customer-in-session-shoppping.webp
 meta: [Amazon Explore, Design, 2020–2021]
 ---
 
@@ -17,25 +17,25 @@ For the guide app, I designed scheduling, hardware checks, playing in-session me
 
 The product launched in 2020 with a 4.8/5 customer satisfaction score.
 
-![Amazon Explore Design 1](/images/projects/amazon-explore-customer-in-session.png){: class="col-span-2" height="2050" width="2880" loading="lazy"}
-![Amazon Explore Design 5](/images/projects/amazon-explore-customer-in-session-shoppping.png){: height="" width="" loading="lazy"}
-![Amazon Explore Design 4](/images/projects/amazon-explore-customer-in-session-shopping-responsive.png){: height="" width="" loading="lazy"}
+![Amazon Explore Design 1](/images/projects/amazon-explore-customer-in-session.webp){: class="col-span-2" height="2050" width="2880" loading="lazy"}
+![Amazon Explore Design 5](/images/projects/amazon-explore-customer-in-session-shoppping.webp){: height="" width="" loading="lazy"}
+![Amazon Explore Design 4](/images/projects/amazon-explore-customer-in-session-shopping-responsive.webp){: height="" width="" loading="lazy"}
 {: class="gallery grid-cols-2"}
 
 <video autoplay loop muted playsinline class="my-10 w-full h-auto" loading="lazy">
 	<source src="/images/projects/amazon-explore-shopping-responsive.mp4" type="video/mp4">
 </video>
 
-![Amazon Explore Design 7](/images/projects/amazon-explore-external-speaker.png){: height="" width="" loading="lazy"}
-![Amazon Explore Design 8](/images/projects/amazon-explore-photo-tooltip.png){: height="" width="" loading="lazy"}
+![Amazon Explore Design 7](/images/projects/amazon-explore-external-speaker.webp){: height="" width="" loading="lazy"}
+![Amazon Explore Design 8](/images/projects/amazon-explore-photo-tooltip.webp){: height="" width="" loading="lazy"}
 {: class="gallery grid-cols-2"}
 
 <video autoplay loop muted playsinline class="my-10 w-full h-auto" loading="lazy">
 	<source src="/images/projects/amazon-explore-take-photo.mp4" type="video/mp4">
 </video>
 
-![Amazon Explore Design 6](/images/projects/amazon-explore-toast.png){: height="" width="" loading="lazy"}
-![Amazon Explore Design 10](/images/projects/amazon-explore-host-out.png){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
-![Amazon Explore Design 10](/images/projects/amazon-explore-host-out-2.png){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
-![Amazon Explore Design 9](/images/projects/amazon-explore-host-in-session.png){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
+![Amazon Explore Design 6](/images/projects/amazon-explore-toast.webp){: height="" width="" loading="lazy"}
+![Amazon Explore Design 10](/images/projects/amazon-explore-host-out.webp){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
+![Amazon Explore Design 10](/images/projects/amazon-explore-host-out-2.webp){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
+![Amazon Explore Design 9](/images/projects/amazon-explore-host-in-session.webp){: class="col-span-2 border border-gray-200" height="" width="" loading="lazy"}
 {: class="gallery grid-cols-2"}

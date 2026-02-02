@@ -3,7 +3,7 @@ layout: default
 title: "Coyote Howl Customer App"
 description: "A mobile app giving shippers visibility into their freight network, built in 3 months and used as a sales demo tool."
 order: 8
-featured: howl-3.png
+featured: howl-3.webp
 meta: [Coyote Logistics, Design, Development, 2014–2015]
 ---
 
@@ -21,10 +21,10 @@ For the demo requirement, we initially focused on a new type of navigation that 
 
 Instead, we built a new tab called Visibility to show larger trends of a customer's freight network. The charts and map made for a great demo.
 
-![Howl Sketch 1](/images/projects/howl-sketch-1.jpg){: height="2000" width="1328" loading="lazy"}
-![Howl Sketch 2](/images/projects/howl-sketch-3.jpg){: height="2000" width="1316" loading="lazy"}
-![Howl Sketch 3](/images/projects/howl-sketch-2.jpg){: height="2000" width="1270" loading="lazy"}
-![Howl Sketch 4](/images/projects/howl-sketch-4.jpg){: height="2000" width="1181" loading="lazy"}
+![Howl Sketch 1](/images/projects/howl-sketch-1.webp){: height="2000" width="1328" loading="lazy"}
+![Howl Sketch 2](/images/projects/howl-sketch-3.webp){: height="2000" width="1316" loading="lazy"}
+![Howl Sketch 3](/images/projects/howl-sketch-2.webp){: height="2000" width="1270" loading="lazy"}
+![Howl Sketch 4](/images/projects/howl-sketch-4.webp){: height="2000" width="1181" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -37,10 +37,10 @@ While the development team built backend services and the framework in Ionic and
 
 During testing, I discovered our menus were too deep for external customers. Vital load information was too many taps away to be useful. I modified the prototype and final design to feature contact information and primary load information directly on the load details screen.
 
-![Howl Wireframe 1](/images/projects/howl-wf-1.png){: height="504" width="318" loading="lazy"}
-![Howl Wireframe 2](/images/projects/howl-wf-3.png){: height="504" width="318" loading="lazy"}
-![Howl Wireframe 3](/images/projects/howl-wf-2.png){: height="504" width="318" loading="lazy"}
-![Howl Wireframe 4](/images/projects/howl-wf-4.png){: height="504" width="318" loading="lazy"}
+![Howl Wireframe 1](/images/projects/howl-wf-1.webp){: height="504" width="318" loading="lazy"}
+![Howl Wireframe 2](/images/projects/howl-wf-3.webp){: height="504" width="318" loading="lazy"}
+![Howl Wireframe 3](/images/projects/howl-wf-2.webp){: height="504" width="318" loading="lazy"}
+![Howl Wireframe 4](/images/projects/howl-wf-4.webp){: height="504" width="318" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -49,8 +49,8 @@ During testing, I discovered our menus were too deep for external customers. Vit
 
 The final app features Coyote's signature green along with bright charts, graphs, and maps. It has a familiar, easily discoverable menu, and each section has been simplified to eliminate unnecessary navigation depth.
 
-![Coyote Howl Final 1](/images/projects/howl-1.png){: height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 2](/images/projects/howl-2.png){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 3](/images/projects/howl-3.png){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 4](/images/projects/howl-4.png){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
+![Coyote Howl Final 1](/images/projects/howl-1.webp){: height="1334" width="750" loading="lazy"}
+![Coyote Howl Final 2](/images/projects/howl-2.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
+![Coyote Howl Final 3](/images/projects/howl-3.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
+![Coyote Howl Final 4](/images/projects/howl-4.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
 {: class="gallery grid-cols-2"}

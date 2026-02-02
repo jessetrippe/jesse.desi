@@ -3,7 +3,7 @@ layout: default
 title: "Tech for Campaigns"
 description: "Increasing volunteer sign-ups from 8% to 33% by redesigning a daunting form into a multi-step wizard."
 order: 13
-featured: tfc-two-01.png
+featured: tfc-two-01.webp
 meta: [Tech for Campaigns, Design, Development, Summer 2018]
 ---
 
@@ -25,11 +25,11 @@ We also added an email-only sign-up for non-tech visitors. This created a databa
 
 I wireframed the changes, got approval from the founders, then moved into Photoshop/Sketch and began making changes to the production site.
 
-![Tech For Campaigns Wireframes Phase One 1](/images/projects/tfc-wf-01.png){: height="1051" width="1299" loading="lazy"}
-![Tech For Campaigns Wireframes Phase One 2](/images/projects/tfc-wf-03.png){: height="1050" width="1299" loading="lazy"}
-![Tech For Campaigns Wireframes Phase One 3](/images/projects/tfc-wf-04.png){: height="1460" width="1299" loading="lazy"}
-![Tech For Campaigns Wireframes Phase One 4](/images/projects/tfc-wf-03.png){: height="1050" width="1299" loading="lazy"}
-![Tech For Campaigns Wireframes Phase One 5](/images/projects/tfc-wf-02.png){: height="1052" width="1299" loading="lazy"}
+![Tech For Campaigns Wireframes Phase One 1](/images/projects/tfc-wf-01.webp){: height="1051" width="1299" loading="lazy"}
+![Tech For Campaigns Wireframes Phase One 2](/images/projects/tfc-wf-03.webp){: height="1050" width="1299" loading="lazy"}
+![Tech For Campaigns Wireframes Phase One 3](/images/projects/tfc-wf-04.webp){: height="1460" width="1299" loading="lazy"}
+![Tech For Campaigns Wireframes Phase One 4](/images/projects/tfc-wf-03.webp){: height="1050" width="1299" loading="lazy"}
+![Tech For Campaigns Wireframes Phase One 5](/images/projects/tfc-wf-02.webp){: height="1052" width="1299" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -40,9 +40,9 @@ After getting approval on wireframes and design direction, I explored further in
 
 Results: 13% increase in volunteer form submissions. We also added a significant number of email-only users who could convert to volunteers later.
 
-![Final Design Phase One 1](/images/projects/tfc-01.png){: height="2561" width="1280" loading="lazy"}
-![Final Design Phase One 2](/images/projects/tfc-02.png){: height="1998" width="1280" loading="lazy"}
-![Final Design Phase One 3](/images/projects/tfc-03.png){: height="2061" width="1280" loading="lazy"}
+![Final Design Phase One 1](/images/projects/tfc-01.webp){: height="2561" width="1280" loading="lazy"}
+![Final Design Phase One 2](/images/projects/tfc-02.webp){: height="1998" width="1280" loading="lazy"}
+![Final Design Phase One 3](/images/projects/tfc-03.webp){: height="2061" width="1280" loading="lazy"}
 {: class="gallery"}
 
 ---
@@ -53,10 +53,10 @@ Phase two transformed the one-page form into a multi-step wizard. Our assumption
 
 I split the form into four steps, designed a progress bar, and added placeholders for intro text and icons. After feedback from the team, I got approval from the founders and moved into final design.
 
-![](/images/projects/tfc-two-wf-01.png){: height="846" width="1386" loading="lazy"}
-![](/images/projects/tfc-two-wf-02.png){: height="846" width="1386" loading="lazy"}
-![](/images/projects/tfc-two-wf-03.png){: height="846" width="1386" loading="lazy"}
-![](/images/projects/tfc-two-wf-04.png){: height="846" width="1386" loading="lazy"}
+![](/images/projects/tfc-two-wf-01.webp){: height="846" width="1386" loading="lazy"}
+![](/images/projects/tfc-two-wf-02.webp){: height="846" width="1386" loading="lazy"}
+![](/images/projects/tfc-two-wf-03.webp){: height="846" width="1386" loading="lazy"}
+![](/images/projects/tfc-two-wf-04.webp){: height="846" width="1386" loading="lazy"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -69,9 +69,9 @@ While I completed the design work, the developer built the step-based form in Dr
 
 Results: volunteer sign-ups over unique homepage visitors increased from 8% to 33%.
 
-![Tech for Campaigns Phase Two 1](/images/projects/tfc-two-01.png){: height="2048" width="2048" loading="lazy"}
-![Tech for Campaigns Phase Two 2](/images/projects/tfc-two-02.png){: height="2048" width="2048" loading="lazy"}
-![Tech for Campaigns Phase Two 3](/images/projects/tfc-two-03.png){: height="2048" width="2048" loading="lazy"}
-![Tech for Campaigns Phase Two 4](/images/projects/tfc-two-04.png){: height="2048" width="2048" loading="lazy"}
-![Tech for Campaigns Phase Two 5](/images/projects/tfc-two-05.png){: height="2048" width="2048" loading="lazy"}
+![Tech for Campaigns Phase Two 1](/images/projects/tfc-two-01.webp){: height="2048" width="2048" loading="lazy"}
+![Tech for Campaigns Phase Two 2](/images/projects/tfc-two-02.webp){: height="2048" width="2048" loading="lazy"}
+![Tech for Campaigns Phase Two 3](/images/projects/tfc-two-03.webp){: height="2048" width="2048" loading="lazy"}
+![Tech for Campaigns Phase Two 4](/images/projects/tfc-two-04.webp){: height="2048" width="2048" loading="lazy"}
+![Tech for Campaigns Phase Two 5](/images/projects/tfc-two-05.webp){: height="2048" width="2048" loading="lazy"}
 {: class="gallery"}
