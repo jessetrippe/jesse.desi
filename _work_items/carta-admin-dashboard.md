@@ -17,7 +17,7 @@ The answers shaped the dashboard: surface pending tasks, show key metrics at a g
 
 We shipped the MVP within the two-week window. The dashboard reduced time-to-task for common actions and gave administrators a reason to start their session on the landing page instead of navigating past it.
 
-![Carta Public Admin Dashboard Screen Shot 1](/images/projects/carta-admin-summary-structure.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/carta-admin-summary-structure-640.webp 640w, /images/projects/carta-admin-summary-structure-1280.webp 1280w"}
-![Carta Public Admin Dashboard Screen Shot 2](/images/projects/carta-admin-summary-long-term.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/carta-admin-summary-long-term-640.webp 640w, /images/projects/carta-admin-summary-long-term-1280.webp 1280w"}
-![Carta Public Admin Dashboard Screen Shot 3](/images/projects/carta-admin-summary-mvp.webp){: class="border border-gray-200 col-span-2" loading="lazy" srcset="/images/projects/carta-admin-summary-mvp-640.webp 640w, /images/projects/carta-admin-summary-mvp-1280.webp 1280w"}
+![Carta Public Admin Dashboard Screen Shot 1](/images/projects/carta-admin-summary-structure.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/carta-admin-summary-structure-640.webp 640w, /images/projects/carta-admin-summary-structure-1280.webp 1280w" width="2880" height="4653"}
+![Carta Public Admin Dashboard Screen Shot 2](/images/projects/carta-admin-summary-long-term.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/carta-admin-summary-long-term-640.webp 640w, /images/projects/carta-admin-summary-long-term-1280.webp 1280w" width="2880" height="4971"}
+![Carta Public Admin Dashboard Screen Shot 3](/images/projects/carta-admin-summary-mvp.webp){: class="border border-gray-200 col-span-2" loading="lazy" srcset="/images/projects/carta-admin-summary-mvp-640.webp 640w, /images/projects/carta-admin-summary-mvp-1280.webp 1280w" width="2880" height="2905"}
 {: class="gallery grid-cols-2"}
