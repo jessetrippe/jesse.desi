@@ -23,9 +23,9 @@ The key question was whether to optimize for bulk selection (using Carta's relat
 
 I explored several approaches using Carta's pattern library and presented options to the product manager and team.
 
-![Carta Communications Market Research 1](/images/projects/carta-communications-market-1.webp){: loading="lazy"}
-![Carta Communications Market Research 2](/images/projects/carta-communications-market-2.webp){: loading="lazy"}
-![Carta Communications Market Research 3](/images/projects/carta-communications-market-3.webp){: loading="lazy"}
+![Carta Communications Market Research 1](/images/projects/carta-communications-market-1.webp){: loading="lazy" srcset="/images/projects/carta-communications-market-1-640.webp 640w, /images/projects/carta-communications-market-1-1280.webp 1280w"}
+![Carta Communications Market Research 2](/images/projects/carta-communications-market-2.webp){: loading="lazy" srcset="/images/projects/carta-communications-market-2-640.webp 640w, /images/projects/carta-communications-market-2-1280.webp 1280w"}
+![Carta Communications Market Research 3](/images/projects/carta-communications-market-3.webp){: loading="lazy" srcset="/images/projects/carta-communications-market-3-640.webp 640w"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -34,14 +34,14 @@ I explored several approaches using Carta's pattern library and presented option
 
 I presented multiple filtering approaches to the team along with my recommendation. The challenge was balancing power (complex filters for edge cases) with simplicity (most sends are straightforward).
 
-![Carta Communications Filter Exploration 1](/images/projects/carta-communication-filter-1.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 2](/images/projects/carta-communication-filter-2.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 3](/images/projects/carta-communication-filter-3.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 4](/images/projects/carta-communication-filter-4.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 5](/images/projects/carta-communication-filter-5.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 6](/images/projects/carta-communication-filter-6.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 7](/images/projects/carta-communication-filter-7.webp){: loading="lazy"}
-![Carta Communications Filter Exploration 8](/images/projects/carta-communication-filter-8.webp){: loading="lazy"}
+![Carta Communications Filter Exploration 1](/images/projects/carta-communication-filter-1.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-1-640.webp 640w, /images/projects/carta-communication-filter-1-1280.webp 1280w"}
+![Carta Communications Filter Exploration 2](/images/projects/carta-communication-filter-2.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-2-640.webp 640w, /images/projects/carta-communication-filter-2-1280.webp 1280w"}
+![Carta Communications Filter Exploration 3](/images/projects/carta-communication-filter-3.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-3-640.webp 640w, /images/projects/carta-communication-filter-3-1280.webp 1280w"}
+![Carta Communications Filter Exploration 4](/images/projects/carta-communication-filter-4.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-4-640.webp 640w, /images/projects/carta-communication-filter-4-1280.webp 1280w"}
+![Carta Communications Filter Exploration 5](/images/projects/carta-communication-filter-5.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-5-640.webp 640w, /images/projects/carta-communication-filter-5-1280.webp 1280w"}
+![Carta Communications Filter Exploration 6](/images/projects/carta-communication-filter-6.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-6-640.webp 640w, /images/projects/carta-communication-filter-6-1280.webp 1280w"}
+![Carta Communications Filter Exploration 7](/images/projects/carta-communication-filter-7.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-7-640.webp 640w, /images/projects/carta-communication-filter-7-1280.webp 1280w"}
+![Carta Communications Filter Exploration 8](/images/projects/carta-communication-filter-8.webp){: loading="lazy" srcset="/images/projects/carta-communication-filter-8-640.webp 640w, /images/projects/carta-communication-filter-8-1280.webp 1280w"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -50,17 +50,17 @@ I presented multiple filtering approaches to the team along with my recommendati
 
 We split the project into three phases to ship quickly and gather feedback. The MVP focused on the core workflow: select recipients, compose message, send. I designed with future features in mind (advanced filtering, resend, remove recipients, unsend) so the architecture wouldn't need to change later.
 
-![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-1.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-2.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-3.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 4](/images/projects/carta-communication-mvp-4.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 5](/images/projects/carta-communication-mvp-5.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 6](/images/projects/carta-communication-mvp-6.webp){: class="col-span-2" loading="lazy"}
-![Carta Communications MVP Solution 7](/images/projects/carta-communication-mvp-7.webp){: loading="lazy"}
-![Carta Communications MVP Solution 8](/images/projects/carta-communication-mvp-8.webp){: loading="lazy"}
-![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-stakeholder-1.webp){: loading="lazy"}
-![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-stakeholder-2.webp){: loading="lazy"}
-![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-stakeholder-3.webp){: loading="lazy"}
+![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-1.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-1-640.webp 640w, /images/projects/carta-communication-mvp-1-1280.webp 1280w"}
+![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-2.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-2-640.webp 640w, /images/projects/carta-communication-mvp-2-1280.webp 1280w"}
+![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-3.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-3-640.webp 640w, /images/projects/carta-communication-mvp-3-1280.webp 1280w"}
+![Carta Communications MVP Solution 4](/images/projects/carta-communication-mvp-4.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-4-640.webp 640w, /images/projects/carta-communication-mvp-4-1280.webp 1280w"}
+![Carta Communications MVP Solution 5](/images/projects/carta-communication-mvp-5.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-5-640.webp 640w, /images/projects/carta-communication-mvp-5-1280.webp 1280w"}
+![Carta Communications MVP Solution 6](/images/projects/carta-communication-mvp-6.webp){: class="col-span-2" loading="lazy" srcset="/images/projects/carta-communication-mvp-6-640.webp 640w, /images/projects/carta-communication-mvp-6-1280.webp 1280w"}
+![Carta Communications MVP Solution 7](/images/projects/carta-communication-mvp-7.webp){: loading="lazy" srcset="/images/projects/carta-communication-mvp-7-640.webp 640w, /images/projects/carta-communication-mvp-7-1280.webp 1280w"}
+![Carta Communications MVP Solution 8](/images/projects/carta-communication-mvp-8.webp){: loading="lazy" srcset="/images/projects/carta-communication-mvp-8-640.webp 640w, /images/projects/carta-communication-mvp-8-1280.webp 1280w"}
+![Carta Communications MVP Solution 1](/images/projects/carta-communication-mvp-stakeholder-1.webp){: loading="lazy" srcset="/images/projects/carta-communication-mvp-stakeholder-1-640.webp 640w, /images/projects/carta-communication-mvp-stakeholder-1-1280.webp 1280w"}
+![Carta Communications MVP Solution 2](/images/projects/carta-communication-mvp-stakeholder-2.webp){: loading="lazy" srcset="/images/projects/carta-communication-mvp-stakeholder-2-640.webp 640w, /images/projects/carta-communication-mvp-stakeholder-2-1280.webp 1280w"}
+![Carta Communications MVP Solution 3](/images/projects/carta-communication-mvp-stakeholder-3.webp){: loading="lazy" srcset="/images/projects/carta-communication-mvp-stakeholder-3-640.webp 640w, /images/projects/carta-communication-mvp-stakeholder-3-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
 ---
@@ -83,30 +83,30 @@ Phase Two added collaboration features: multiple editors on a single communicati
 
 ## Multi-Editor Support
 
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-multi-1.webp){: loading="lazy"}
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-multi-2.webp){: loading="lazy"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-multi-1.webp){: loading="lazy" srcset="/images/projects/communications-phase2-multi-1-640.webp 640w, /images/projects/communications-phase2-multi-1-1280.webp 1280w"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-multi-2.webp){: loading="lazy" srcset="/images/projects/communications-phase2-multi-2-640.webp 640w, /images/projects/communications-phase2-multi-2-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
 ## Viewer Role
 
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-viewer.webp){: loading="lazy"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-viewer.webp){: loading="lazy" srcset="/images/projects/communications-phase2-viewer-640.webp 640w, /images/projects/communications-phase2-viewer-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
 ## Carta Administrator Role
 
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-admin-1.webp){: loading="lazy"}
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-admin-2.webp){: loading="lazy"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-admin-1.webp){: loading="lazy" srcset="/images/projects/communications-phase2-admin-1-640.webp 640w, /images/projects/communications-phase2-admin-1-1280.webp 1280w"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-admin-2.webp){: loading="lazy" srcset="/images/projects/communications-phase2-admin-2-640.webp 640w, /images/projects/communications-phase2-admin-2-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
 ## Remove Recipients
 
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-1.webp){: loading="lazy"}
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-2.webp){: loading="lazy"}
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-3.webp){: loading="lazy"}
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-4.webp){: loading="lazy"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-1.webp){: loading="lazy" srcset="/images/projects/communications-phase2-remove-1-640.webp 640w, /images/projects/communications-phase2-remove-1-1280.webp 1280w"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-2.webp){: loading="lazy" srcset="/images/projects/communications-phase2-remove-2-640.webp 640w, /images/projects/communications-phase2-remove-2-1280.webp 1280w"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-3.webp){: loading="lazy" srcset="/images/projects/communications-phase2-remove-3-640.webp 640w, /images/projects/communications-phase2-remove-3-1280.webp 1280w"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-remove-4.webp){: loading="lazy" srcset="/images/projects/communications-phase2-remove-4-640.webp 640w, /images/projects/communications-phase2-remove-4-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
 ## Empty State
 
-![Carta Communications Phase 2 Features](/images/projects/communications-phase2-empty.webp){: loading="lazy"}
+![Carta Communications Phase 2 Features](/images/projects/communications-phase2-empty.webp){: loading="lazy" srcset="/images/projects/communications-phase2-empty-640.webp 640w, /images/projects/communications-phase2-empty-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}

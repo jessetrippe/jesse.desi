@@ -21,11 +21,11 @@ I started by interviewing the beta testers to understand what went wrong. The co
 
 I wireframed layouts that organized work collection in different ways and tested them with the same users who had rejected the beta. The goal was to display the right information to complete the task without overwhelming users with unnecessary metrics.
 
-![Amazon Work Tracking Wireframe 1](/images/projects/amazon-work-tracking-wf-01.webp){: height="770" width="1123" loading="lazy"}
-![Amazon Work Tracking Wireframe 2](/images/projects/amazon-work-tracking-wf-03.webp){: height="739" width="1124" loading="lazy"}
-![Amazon Work Tracking Wireframe 3](/images/projects/amazon-work-tracking-wf-05.webp){: height="1005" width="1122" loading="lazy"}
-![Amazon Work Tracking Wireframe 4](/images/projects/amazon-work-tracking-wf-02.webp){: height="1028" width="1125" loading="lazy"}
-![Amazon Work Tracking Wireframe 5](/images/projects/amazon-work-tracking-wf-04.webp){: height="1058" width="1123" loading="lazy"}
+![Amazon Work Tracking Wireframe 1](/images/projects/amazon-work-tracking-wf-01.webp){: height="770" width="1123" loading="lazy" srcset="/images/projects/amazon-work-tracking-wf-01-640.webp 640w"}
+![Amazon Work Tracking Wireframe 2](/images/projects/amazon-work-tracking-wf-03.webp){: height="739" width="1124" loading="lazy" srcset="/images/projects/amazon-work-tracking-wf-03-640.webp 640w"}
+![Amazon Work Tracking Wireframe 3](/images/projects/amazon-work-tracking-wf-05.webp){: height="1005" width="1122" loading="lazy" srcset="/images/projects/amazon-work-tracking-wf-05-640.webp 640w"}
+![Amazon Work Tracking Wireframe 4](/images/projects/amazon-work-tracking-wf-02.webp){: height="1028" width="1125" loading="lazy" srcset="/images/projects/amazon-work-tracking-wf-02-640.webp 640w"}
+![Amazon Work Tracking Wireframe 5](/images/projects/amazon-work-tracking-wf-04.webp){: height="1058" width="1123" loading="lazy" srcset="/images/projects/amazon-work-tracking-wf-04-640.webp 640w"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -38,7 +38,7 @@ The redesign succeeded where the beta had failed. Users could complete their tas
 
 The tool reduced invoicing disputes and sped up payments for delivery partners across the network.
 
-![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-01.webp){: height="895" width="1280" loading="lazy"}
-![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-02.webp){: height="895" width="1280" loading="lazy"}
-![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-03.webp){: height="895" width="1280" loading="lazy"}
+![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-01.webp){: height="895" width="1280" loading="lazy" srcset="/images/projects/amazon-work-tracking-01-640.webp 640w, /images/projects/amazon-work-tracking-01-1280.webp 1280w"}
+![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-02.webp){: height="895" width="1280" loading="lazy" srcset="/images/projects/amazon-work-tracking-02-640.webp 640w, /images/projects/amazon-work-tracking-02-1280.webp 1280w"}
+![Amazon Work Tracking Final](/images/projects/amazon-work-tracking-03.webp){: height="895" width="1280" loading="lazy" srcset="/images/projects/amazon-work-tracking-03-640.webp 640w, /images/projects/amazon-work-tracking-03-1280.webp 1280w"}
 {: class="gallery"}

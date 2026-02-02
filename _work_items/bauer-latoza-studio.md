@@ -11,8 +11,8 @@ I designed and coded a portfolio and blog for BauerLatoza Studio, a Chicago arch
 
 The result is a site with modern navigation, improved functionality, and a cleaner look that doesn't get in the way of their work.
 
-![Bauer Latoza Studio 1](/images/projects/bauer-latoza-1.webp){: class="col-span-2" height="956" width="1020" loading="lazy"}
-![Bauer Latoza Studio 2](/images/projects/bauer-latoza-3.webp){: height="1332" width="1020" loading="lazy"}
-![Bauer Latoza Studio 3](/images/projects/bauer-latoza-4.webp){: height="921" width="1020" loading="lazy"}
-![Bauer Latoza Studio 4](/images/projects/bauer-latoza-2.webp){: class="col-span-2" height="1215" width="1020" loading="lazy"}
+![Bauer Latoza Studio 1](/images/projects/bauer-latoza-1.webp){: class="col-span-2" height="956" width="1020" loading="lazy" srcset="/images/projects/bauer-latoza-1-640.webp 640w"}
+![Bauer Latoza Studio 2](/images/projects/bauer-latoza-3.webp){: height="1332" width="1020" loading="lazy" srcset="/images/projects/bauer-latoza-3-640.webp 640w"}
+![Bauer Latoza Studio 3](/images/projects/bauer-latoza-4.webp){: height="921" width="1020" loading="lazy" srcset="/images/projects/bauer-latoza-4-640.webp 640w"}
+![Bauer Latoza Studio 4](/images/projects/bauer-latoza-2.webp){: class="col-span-2" height="1215" width="1020" loading="lazy" srcset="/images/projects/bauer-latoza-2-640.webp 640w"}
 {: class="gallery grid-cols-2"}

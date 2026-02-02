@@ -21,10 +21,10 @@ For the demo requirement, we initially focused on a new type of navigation that 
 
 Instead, we built a new tab called Visibility to show larger trends of a customer's freight network. The charts and map made for a great demo.
 
-![Howl Sketch 1](/images/projects/howl-sketch-1.webp){: height="2000" width="1328" loading="lazy"}
-![Howl Sketch 2](/images/projects/howl-sketch-3.webp){: height="2000" width="1316" loading="lazy"}
-![Howl Sketch 3](/images/projects/howl-sketch-2.webp){: height="2000" width="1270" loading="lazy"}
-![Howl Sketch 4](/images/projects/howl-sketch-4.webp){: height="2000" width="1181" loading="lazy"}
+![Howl Sketch 1](/images/projects/howl-sketch-1.webp){: height="2000" width="1328" loading="lazy" srcset="/images/projects/howl-sketch-1-640.webp 640w, /images/projects/howl-sketch-1-1280.webp 1280w"}
+![Howl Sketch 2](/images/projects/howl-sketch-3.webp){: height="2000" width="1316" loading="lazy" srcset="/images/projects/howl-sketch-3-640.webp 640w, /images/projects/howl-sketch-3-1280.webp 1280w"}
+![Howl Sketch 3](/images/projects/howl-sketch-2.webp){: height="2000" width="1270" loading="lazy" srcset="/images/projects/howl-sketch-2-640.webp 640w"}
+![Howl Sketch 4](/images/projects/howl-sketch-4.webp){: height="2000" width="1181" loading="lazy" srcset="/images/projects/howl-sketch-4-640.webp 640w"}
 {: class="gallery grid-cols-3"}
 
 ---
@@ -49,8 +49,8 @@ During testing, I discovered our menus were too deep for external customers. Vit
 
 The final app features Coyote's signature green along with bright charts, graphs, and maps. It has a familiar, easily discoverable menu, and each section has been simplified to eliminate unnecessary navigation depth.
 
-![Coyote Howl Final 1](/images/projects/howl-1.webp){: height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 2](/images/projects/howl-2.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 3](/images/projects/howl-3.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
-![Coyote Howl Final 4](/images/projects/howl-4.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy"}
+![Coyote Howl Final 1](/images/projects/howl-1.webp){: height="1334" width="750" loading="lazy" srcset="/images/projects/howl-1-640.webp 640w"}
+![Coyote Howl Final 2](/images/projects/howl-2.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy" srcset="/images/projects/howl-2-640.webp 640w"}
+![Coyote Howl Final 3](/images/projects/howl-3.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy" srcset="/images/projects/howl-3-640.webp 640w"}
+![Coyote Howl Final 4](/images/projects/howl-4.webp){: class="border border-gray-200" height="1334" width="750" loading="lazy" srcset="/images/projects/howl-4-640.webp 640w"}
 {: class="gallery grid-cols-2"}

@@ -11,7 +11,7 @@ I joined the Barack Obama 2012 reelection campaign as a front-end developer. My 
 
 I was also solely responsible for developing the campaign's Tumblr. This required learning Tumblr's templating language and defining mobile breakpoints and layouts.
 
-![Barack Obama's Tumblr 1](/images/projects/barack-obama-tumblr-1.webp){: class="col-span-2" height="790" width="1024" loading="lazy"}
+![Barack Obama's Tumblr 1](/images/projects/barack-obama-tumblr-1.webp){: class="col-span-2" height="790" width="1024" loading="lazy" srcset="/images/projects/barack-obama-tumblr-1-640.webp 640w"}
 ![Barack Obama's Tumblr 2](/images/projects/barack-obama-tumblr-2.webp){: height="811" width="468" loading="lazy"}
-![Barack Obama's Tumblr 3](/images/projects/barack-obama-tumblr-3.webp){: height="790" width="1024" loading="lazy"}
+![Barack Obama's Tumblr 3](/images/projects/barack-obama-tumblr-3.webp){: height="790" width="1024" loading="lazy" srcset="/images/projects/barack-obama-tumblr-3-640.webp 640w"}
 {: class="gallery grid-cols-2"}

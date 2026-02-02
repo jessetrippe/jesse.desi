@@ -11,10 +11,10 @@ A friend built a Slack app that randomly pairs employees and schedules lunch dat
 
 I refreshed both the content and the design. The update improved the visitor-to-install ratio and gave the owner a site they were proud to share.
 
-![Shuffl Screen Shot 1](/images/projects/shuffl_1.webp){: class="border border-gray-200" loading="lazy"}
-![Shuffl Screen Shot 2](/images/projects/shuffl_2.webp){: class="border border-gray-200" loading="lazy"}
-![Shuffl Screen Shot 3](/images/projects/shuffl_3.webp){: class="border border-gray-200" loading="lazy"}
-![Shuffl Screen Shot 4](/images/projects/shuffl_4.webp){: class="border border-gray-200" loading="lazy"}
-![Shuffl Screen Shot 5](/images/projects/shuffl_5.webp){: class="border border-gray-200" loading="lazy"}
-![Shuffl Screen Shot 6](/images/projects/shuffl_6.webp){: class="border border-gray-200" loading="lazy"}
+![Shuffl Screen Shot 1](/images/projects/shuffl_1.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_1-640.webp 640w, /images/projects/shuffl_1-1280.webp 1280w"}
+![Shuffl Screen Shot 2](/images/projects/shuffl_2.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_2-640.webp 640w, /images/projects/shuffl_2-1280.webp 1280w"}
+![Shuffl Screen Shot 3](/images/projects/shuffl_3.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_3-640.webp 640w, /images/projects/shuffl_3-1280.webp 1280w"}
+![Shuffl Screen Shot 4](/images/projects/shuffl_4.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_4-640.webp 640w, /images/projects/shuffl_4-1280.webp 1280w"}
+![Shuffl Screen Shot 5](/images/projects/shuffl_5.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_5-640.webp 640w, /images/projects/shuffl_5-1280.webp 1280w"}
+![Shuffl Screen Shot 6](/images/projects/shuffl_6.webp){: class="border border-gray-200" loading="lazy" srcset="/images/projects/shuffl_6-640.webp 640w, /images/projects/shuffl_6-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}

@@ -21,18 +21,18 @@ The product manager and I visited delivery stations to observe dispatchers compl
 
 We met with Amazon operations teams to understand their needs, then developed a timeline and scope. I wireframed several approaches, and together we selected a direction. I tested the wireframes at a local station to validate assumptions before moving forward.
 
-![Amazon Dispatch Wireframe 1](/images/projects/amazon-dispatch-wf-01.webp){: height="823" width="1195" loading="lazy"}
-![Amazon Dispatch Wireframe 2](/images/projects/amazon-dispatch-wf-04.webp){: height="823" width="1197" loading="lazy"}
-![Amazon Dispatch Wireframe 3](/images/projects/amazon-dispatch-wf-07.webp){: height="922" width="1195" loading="lazy"}
-![Amazon Dispatch Wireframe 4](/images/projects/amazon-dispatch-wf-10.webp){: height="886" width="1196" loading="lazy"}
-![Amazon Dispatch Wireframe 5](/images/projects/amazon-dispatch-wf-02.webp){: height="870" width="1197" loading="lazy"}
-![Amazon Dispatch Wireframe 6](/images/projects/amazon-dispatch-wf-05.webp){: height="823" width="1193" loading="lazy"}
-![Amazon Dispatch Wireframe 7](/images/projects/amazon-dispatch-wf-08.webp){: height="885" width="1196" loading="lazy"}
-![Amazon Dispatch Wireframe 8](/images/projects/amazon-dispatch-wf-11.webp){: height="1033" width="1399" loading="lazy"}
-![Amazon Dispatch Wireframe 9](/images/projects/amazon-dispatch-wf-03.webp){: height="868" width="1193" loading="lazy"}
-![Amazon Dispatch Wireframe 10](/images/projects/amazon-dispatch-wf-06.webp){: height="825" width="1196" loading="lazy"}
-![Amazon Dispatch Wireframe 11](/images/projects/amazon-dispatch-wf-09.webp){: height="1033" width="1397" loading="lazy"}
-![Amazon Dispatch Wireframe 12](/images/projects/amazon-dispatch-wf-12.webp){: height="1033" width="1397" loading="lazy"}
+![Amazon Dispatch Wireframe 1](/images/projects/amazon-dispatch-wf-01.webp){: height="823" width="1195" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-01-640.webp 640w"}
+![Amazon Dispatch Wireframe 2](/images/projects/amazon-dispatch-wf-04.webp){: height="823" width="1197" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-04-640.webp 640w"}
+![Amazon Dispatch Wireframe 3](/images/projects/amazon-dispatch-wf-07.webp){: height="922" width="1195" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-07-640.webp 640w"}
+![Amazon Dispatch Wireframe 4](/images/projects/amazon-dispatch-wf-10.webp){: height="886" width="1196" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-10-640.webp 640w"}
+![Amazon Dispatch Wireframe 5](/images/projects/amazon-dispatch-wf-02.webp){: height="870" width="1197" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-02-640.webp 640w"}
+![Amazon Dispatch Wireframe 6](/images/projects/amazon-dispatch-wf-05.webp){: height="823" width="1193" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-05-640.webp 640w"}
+![Amazon Dispatch Wireframe 7](/images/projects/amazon-dispatch-wf-08.webp){: height="885" width="1196" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-08-640.webp 640w"}
+![Amazon Dispatch Wireframe 8](/images/projects/amazon-dispatch-wf-11.webp){: height="1033" width="1399" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-11-640.webp 640w, /images/projects/amazon-dispatch-wf-11-1280.webp 1280w"}
+![Amazon Dispatch Wireframe 9](/images/projects/amazon-dispatch-wf-03.webp){: height="868" width="1193" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-03-640.webp 640w"}
+![Amazon Dispatch Wireframe 10](/images/projects/amazon-dispatch-wf-06.webp){: height="825" width="1196" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-06-640.webp 640w"}
+![Amazon Dispatch Wireframe 11](/images/projects/amazon-dispatch-wf-09.webp){: height="1033" width="1397" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-09-640.webp 640w, /images/projects/amazon-dispatch-wf-09-1280.webp 1280w"}
+![Amazon Dispatch Wireframe 12](/images/projects/amazon-dispatch-wf-12.webp){: height="1033" width="1397" loading="lazy" srcset="/images/projects/amazon-dispatch-wf-12-640.webp 640w, /images/projects/amazon-dispatch-wf-12-1280.webp 1280w"}
 ![Amazon Dispatch Wireframe 13](/images/projects/amazon-dispatch-wf-13.webp){: height="569" width="321" loading="lazy"}
 ![Amazon Dispatch Wireframe 14](/images/projects/amazon-dispatch-wf-14.webp){: height="569" width="321" loading="lazy"}
 {: class="gallery grid-cols-3"}
@@ -47,8 +47,8 @@ I presented the final designs at a delivery station for feedback. User input sha
 
 The tool is now used by all Amazon 3rd-party dispatchers and managers across North America, with worldwide rollout following in early 2018.
 
-![Amazon Dispatch Final 1](/images/projects/amazon-dispatch-01.webp){: height="1700" width="2560" loading="lazy"}
-![Amazon Dispatch Final 2](/images/projects/amazon-dispatch-02.webp){: height="1700" width="2560" loading="lazy"}
-![Amazon Dispatch Final 3](/images/projects/amazon-dispatch-03.webp){: height="1700" width="2560" loading="lazy"}
-![Amazon Dispatch Final 4](/images/projects/amazon-dispatch-04.webp){: height="1700" width="2560" loading="lazy"}
+![Amazon Dispatch Final 1](/images/projects/amazon-dispatch-01.webp){: height="1700" width="2560" loading="lazy" srcset="/images/projects/amazon-dispatch-01-640.webp 640w, /images/projects/amazon-dispatch-01-1280.webp 1280w"}
+![Amazon Dispatch Final 2](/images/projects/amazon-dispatch-02.webp){: height="1700" width="2560" loading="lazy" srcset="/images/projects/amazon-dispatch-02-640.webp 640w, /images/projects/amazon-dispatch-02-1280.webp 1280w"}
+![Amazon Dispatch Final 3](/images/projects/amazon-dispatch-03.webp){: height="1700" width="2560" loading="lazy" srcset="/images/projects/amazon-dispatch-03-640.webp 640w, /images/projects/amazon-dispatch-03-1280.webp 1280w"}
+![Amazon Dispatch Final 4](/images/projects/amazon-dispatch-04.webp){: height="1700" width="2560" loading="lazy" srcset="/images/projects/amazon-dispatch-04-640.webp 640w, /images/projects/amazon-dispatch-04-1280.webp 1280w"}
 {: class="gallery"}
