@@ -22,7 +22,7 @@ The product launched in 2020 with a 4.8/5 customer satisfaction score.
 ![Amazon Explore Design 4](/images/projects/amazon-explore-customer-in-session-shopping-responsive.webp){: height="1322" width="1772" loading="lazy" srcset="/images/projects/amazon-explore-customer-in-session-shopping-responsive-640.webp 640w, /images/projects/amazon-explore-customer-in-session-shopping-responsive-1280.webp 1280w"}
 {: class="gallery grid-cols-2"}
 
-<video autoplay loop muted playsinline preload="metadata" poster="/images/projects/amazon-explore-customer-in-session-shopping-responsive.webp" class="my-10 w-full h-auto">
+<video autoplay loop muted playsinline preload="none" poster="/images/projects/amazon-explore-customer-in-session-shopping-responsive.webp" class="my-10 w-full h-auto">
 	<source src="/images/projects/amazon-explore-shopping-responsive.mp4" type="video/mp4">
 </video>
 
@@ -30,7 +30,7 @@ The product launched in 2020 with a 4.8/5 customer satisfaction score.
 ![Amazon Explore Design 8](/images/projects/amazon-explore-photo-tooltip.webp){: height="442" width="748" loading="lazy" srcset="/images/projects/amazon-explore-photo-tooltip-640.webp 640w"}
 {: class="gallery grid-cols-2"}
 
-<video autoplay loop muted playsinline preload="metadata" poster="/images/projects/amazon-explore-photo-tooltip.webp" class="my-10 w-full h-auto">
+<video autoplay loop muted playsinline preload="none" poster="/images/projects/amazon-explore-photo-tooltip.webp" class="my-10 w-full h-auto">
 	<source src="/images/projects/amazon-explore-take-photo.mp4" type="video/mp4">
 </video>
 
